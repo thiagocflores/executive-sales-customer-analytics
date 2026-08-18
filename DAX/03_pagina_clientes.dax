@@ -1,0 +1,79 @@
+// =============================================================================
+// PÁGINA 2 — CLIENTES
+// RANKX, FILTER, ALL, VAR, HASONEVALUE, CALCULATE, DIVIDE
+// =============================================================================
+
+// Nº de pedidos concluídos de um cliente, ignorando qualquer filtro de data
+// (precisamos saber o histórico completo do cliente, mesmo analisando um mês)
+Pedidos do Cliente (Histórico) =
+CALCULATE(
+    DISTINCTCOUNT(fato_ItensVenda[pedido_id]),
+    fato_ItensVenda[status_pedido] = "Concluído",
+    REMOVEFILTERS(dim_Calendario)
+)
+
+// Segmenta o cliente selecionado como Novo ou Recorrente
+Segmento Cliente =
+IF(
+    HASONEVALUE(dim_Clientes[cliente_id]),
+    IF([Pedidos do Cliente (Histórico)] > 1, "Recorrente", "Novo"),
+    "Vários Clientes"
+)
+
+// Quantidade de clientes por segmento (para o gráfico de Novos x Recorrentes)
+Qtd Clientes Recorrentes =
+CALCULATE(
+    DISTINCTCOUNT(dim_Clientes[cliente_id]),
+    FILTER(dim_Clientes, [Segmento Cliente] = "Recorrente")
+)
+
+Qtd Clientes Novos =
+CALCULATE(
+    DISTINCTCOUNT(dim_Clientes[cliente_id]),
+    FILTER(dim_Clientes, [Segmento Cliente] = "Novo")
+)
+
+// Ticket médio por cliente (usado no ranking / top clientes)
+Ticket Médio do Cliente = DIVIDE([Receita Total], [Pedidos do Cliente (Histórico)])
+
+// Ranking de clientes por receita
+Ranking Cliente =
+RANKX(
+    ALL(dim_Clientes[cliente_id]),
+    CALCULATE([Receita Total]),
+    ,
+    DESC,
+    DENSE
+)
+
+// Clientes VIP: top 10% em receita (usa RANKX sobre a contagem total de clientes)
+Cliente VIP =
+VAR TotalClientes = CALCULATE(DISTINCTCOUNT(dim_Clientes[cliente_id]), ALL(dim_Clientes))
+VAR PosicaoLimite = ROUNDUP(TotalClientes * 0.10, 0)
+RETURN
+    IF([Ranking Cliente] <= PosicaoLimite, "VIP ⭐", "Regular")
+
+// Curva ABC: % acumulado de receita por cliente, ordenado do maior para o menor
+// (VAR + FILTER + ALL para somar tudo que está "à frente" no ranking)
+Receita Acumulada Cliente =
+VAR ClienteAtual = SELECTEDVALUE(dim_Clientes[cliente_id])
+VAR RankAtual = [Ranking Cliente]
+RETURN
+    CALCULATE(
+        [Receita Total],
+        FILTER(
+            ALL(dim_Clientes),
+            RANKX(ALL(dim_Clientes[cliente_id]), CALCULATE([Receita Total]), , DESC, DENSE) <= RankAtual
+        )
+    )
+
+% Acumulado Cliente =
+DIVIDE([Receita Acumulada Cliente], CALCULATE([Receita Total], ALL(dim_Clientes)))
+
+Classe ABC Cliente =
+SWITCH(
+    TRUE(),
+    [% Acumulado Cliente] <= 0.80, "A",
+    [% Acumulado Cliente] <= 0.95, "B",
+    "C"
+)

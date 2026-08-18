@@ -1,0 +1,2639 @@
+pedido_id,cliente_id,data_pedido,canal_venda,uf,estado,regiao,vendedor_id,status_pedido
+1,389,2025-12-01,Site Próprio,SP,São Paulo,Sudeste,2,Concluído
+2,643,2025-02-16,Site Próprio,RJ,Rio de Janeiro,Sudeste,3,Concluído
+3,20,2025-03-01,Marketplace,SP,São Paulo,Sudeste,4,Concluído
+4,159,2024-11-26,Site Próprio,MG,Minas Gerais,Sudeste,4,Concluído
+5,212,2025-08-02,Marketplace,MG,Minas Gerais,Sudeste,3,Concluído
+6,22,2024-11-21,Site Próprio,SP,São Paulo,Sudeste,5,Concluído
+7,635,2024-05-19,Site Próprio,MG,Minas Gerais,Sudeste,6,Concluído
+8,352,2024-07-21,Site Próprio,SP,São Paulo,Sudeste,3,Concluído
+9,587,2025-04-27,Marketplace,RS,Rio Grande do Sul,Sul,3,Concluído
+10,17,2025-11-01,Marketplace,PR,Paraná,Sul,5,Concluído
+11,511,2024-04-22,Aplicativo,BA,Bahia,Nordeste,3,Concluído
+12,405,2024-11-17,Site Próprio,SP,São Paulo,Sudeste,2,Concluído
+13,192,2024-07-10,Aplicativo,PR,Paraná,Sul,2,Concluído
+14,294,2025-07-19,Aplicativo,SP,São Paulo,Sudeste,6,Concluído
+15,393,2025-10-17,Marketplace,RS,Rio Grande do Sul,Sul,5,Concluído
+16,420,2024-12-09,Marketplace,SP,São Paulo,Sudeste,3,Concluído
+17,474,2025-03-25,Marketplace,RS,Rio Grande do Sul,Sul,1,Concluído
+18,281,2025-04-09,Site Próprio,RJ,Rio de Janeiro,Sudeste,4,Concluído
+19,101,2025-09-15,Site Próprio,SP,São Paulo,Sudeste,5,Concluído
+20,142,2025-02-16,Aplicativo,RJ,Rio de Janeiro,Sudeste,3,Concluído
+21,585,2025-01-10,Site Próprio,DF,Distrito Federal,Centro-Oeste,6,Concluído
+22,252,2024-05-17,Site Próprio,RS,Rio Grande do Sul,Sul,2,Concluído
+23,154,2025-02-12,Marketplace,BA,Bahia,Nordeste,6,Concluído
+24,592,2025-11-27,Marketplace,MG,Minas Gerais,Sudeste,3,Concluído
+25,321,2025-04-26,Site Próprio,SP,São Paulo,Sudeste,2,Cancelado
+26,40,2024-07-09,Site Próprio,BA,Bahia,Nordeste,2,Concluído
+27,517,2025-08-25,Aplicativo,SP,São Paulo,Sudeste,4,Concluído
+28,535,2025-08-05,Marketplace,PE,Pernambuco,Nordeste,5,Concluído
+29,616,2025-05-13,Site Próprio,SP,São Paulo,Sudeste,1,Concluído
+30,184,2024-07-02,Marketplace,SP,São Paulo,Sudeste,4,Concluído
+31,564,2025-11-23,Site Próprio,DF,Distrito Federal,Centro-Oeste,1,Concluído
+32,178,2025-10-11,Site Próprio,SP,São Paulo,Sudeste,3,Concluído
+33,235,2025-12-25,Site Próprio,RJ,Rio de Janeiro,Sudeste,6,Concluído
+34,618,2024-09-11,Marketplace,SP,São Paulo,Sudeste,2,Concluído
+35,2,2024-11-12,Marketplace,RS,Rio Grande do Sul,Sul,3,Concluído
+36,419,2025-08-06,Site Próprio,SP,São Paulo,Sudeste,3,Concluído
+37,10,2024-04-10,Site Próprio,PE,Pernambuco,Nordeste,5,Concluído
+38,627,2025-08-25,Site Próprio,SP,São Paulo,Sudeste,5,Concluído
+39,525,2024-03-15,Site Próprio,RS,Rio Grande do Sul,Sul,2,Concluído
+40,585,2024-11-04,Marketplace,DF,Distrito Federal,Centro-Oeste,4,Concluído
+41,355,2025-02-20,Aplicativo,SP,São Paulo,Sudeste,6,Concluído
+42,343,2024-05-21,Aplicativo,ES,Espírito Santo,Sudeste,2,Concluído
+43,356,2025-09-14,Site Próprio,RJ,Rio de Janeiro,Sudeste,5,Concluído
+44,618,2024-04-04,Aplicativo,SP,São Paulo,Sudeste,6,Cancelado
+45,476,2024-06-19,Site Próprio,AM,Amazonas,Norte,4,Concluído
+46,523,2024-11-10,Site Próprio,SP,São Paulo,Sudeste,3,Concluído
+47,322,2025-11-19,Site Próprio,CE,Ceará,Nordeste,5,Concluído
+48,19,2025-11-20,Marketplace,SP,São Paulo,Sudeste,3,Concluído
+49,278,2024-12-19,Site Próprio,BA,Bahia,Nordeste,2,Concluído
+50,572,2024-03-15,Site Próprio,MG,Minas Gerais,Sudeste,6,Concluído
+51,148,2025-07-08,Site Próprio,SP,São Paulo,Sudeste,1,Concluído
+52,242,2024-09-25,Aplicativo,SP,São Paulo,Sudeste,5,Concluído
+53,315,2024-09-10,Site Próprio,MS,Mato Grosso do Sul,Centro-Oeste,2,Concluído
+54,302,2025-07-07,Aplicativo,BA,Bahia,Nordeste,4,Concluído
+55,456,2024-05-17,Marketplace,RJ,Rio de Janeiro,Sudeste,4,Concluído
+56,519,2025-11-08,Marketplace,RJ,Rio de Janeiro,Sudeste,6,Concluído
+57,526,2024-05-10,Marketplace,SP,São Paulo,Sudeste,3,Concluído
+58,125,2024-09-11,Site Próprio,MA,Maranhão,Nordeste,3,Concluído
+59,48,2025-06-05,Site Próprio,SP,São Paulo,Sudeste,3,Cancelado
+60,637,2025-12-05,Marketplace,SP,São Paulo,Sudeste,5,Concluído
+61,387,2025-12-11,Site Próprio,SC,Santa Catarina,Sul,5,Concluído
+62,379,2024-12-16,Site Próprio,PR,Paraná,Sul,6,Concluído
+63,471,2025-12-04,Marketplace,RJ,Rio de Janeiro,Sudeste,3,Concluído
+64,470,2024-09-27,Site Próprio,PR,Paraná,Sul,2,Concluído
+65,20,2025-08-15,Site Próprio,SP,São Paulo,Sudeste,1,Concluído
+66,185,2025-10-27,Marketplace,RS,Rio Grande do Sul,Sul,4,Concluído
+67,24,2025-11-09,Marketplace,DF,Distrito Federal,Centro-Oeste,4,Concluído
+68,38,2024-10-07,Site Próprio,BA,Bahia,Nordeste,2,Concluído
+69,445,2025-07-15,Site Próprio,RJ,Rio de Janeiro,Sudeste,6,Concluído
+70,231,2025-09-14,Site Próprio,RS,Rio Grande do Sul,Sul,2,Concluído
+71,559,2025-11-12,Marketplace,SC,Santa Catarina,Sul,2,Concluído
+72,467,2025-08-21,Marketplace,RJ,Rio de Janeiro,Sudeste,3,Concluído
+73,137,2024-07-09,Site Próprio,RJ,Rio de Janeiro,Sudeste,1,Concluído
+74,75,2025-07-07,Marketplace,PR,Paraná,Sul,5,Concluído
+75,569,2025-08-25,Site Próprio,MG,Minas Gerais,Sudeste,6,Concluído
+76,135,2025-11-16,Site Próprio,SP,São Paulo,Sudeste,5,Concluído
+77,31,2024-12-20,Site Próprio,CE,Ceará,Nordeste,1,Concluído
+78,440,2025-08-07,Marketplace,BA,Bahia,Nordeste,2,Concluído
+79,283,2025-09-03,Marketplace,PR,Paraná,Sul,4,Concluído
+80,390,2024-10-08,Marketplace,SP,São Paulo,Sudeste,5,Concluído
+81,610,2025-02-03,Marketplace,SC,Santa Catarina,Sul,3,Concluído
+82,639,2025-10-23,Marketplace,DF,Distrito Federal,Centro-Oeste,3,Concluído
+83,559,2025-10-24,Marketplace,SC,Santa Catarina,Sul,2,Concluído
+84,63,2025-07-06,Aplicativo,RS,Rio Grande do Sul,Sul,1,Concluído
+85,204,2024-11-16,Site Próprio,SP,São Paulo,Sudeste,5,Concluído
+86,377,2025-06-11,Marketplace,SP,São Paulo,Sudeste,5,Concluído
+87,328,2025-07-25,Aplicativo,PE,Pernambuco,Nordeste,1,Concluído
+88,47,2025-07-09,Marketplace,SP,São Paulo,Sudeste,5,Concluído
+89,349,2025-06-06,Site Próprio,SP,São Paulo,Sudeste,3,Concluído
+90,635,2024-07-13,Marketplace,MG,Minas Gerais,Sudeste,2,Concluído
+91,272,2024-11-18,Site Próprio,SC,Santa Catarina,Sul,1,Concluído
+92,6,2025-12-08,Site Próprio,RS,Rio Grande do Sul,Sul,6,Concluído
+93,223,2025-11-18,Marketplace,GO,Goiás,Centro-Oeste,5,Concluído
+94,289,2025-01-17,Aplicativo,MS,Mato Grosso do Sul,Centro-Oeste,4,Concluído
+95,130,2025-09-15,Site Próprio,SP,São Paulo,Sudeste,3,Concluído
+96,429,2025-01-19,Site Próprio,RJ,Rio de Janeiro,Sudeste,5,Concluído
+97,93,2025-08-27,Marketplace,PR,Paraná,Sul,1,Concluído
+98,241,2024-08-10,Site Próprio,SP,São Paulo,Sudeste,2,Concluído
+99,490,2025-02-22,Marketplace,SP,São Paulo,Sudeste,5,Concluído
+100,614,2025-11-13,Marketplace,SP,São Paulo,Sudeste,5,Cancelado
+101,540,2025-09-14,Site Próprio,PR,Paraná,Sul,2,Concluído
+102,294,2025-10-11,Site Próprio,SP,São Paulo,Sudeste,3,Concluído
+103,440,2025-09-26,Marketplace,BA,Bahia,Nordeste,4,Concluído
+104,481,2025-04-20,Site Próprio,DF,Distrito Federal,Centro-Oeste,6,Concluído
+105,224,2025-11-10,Marketplace,SC,Santa Catarina,Sul,1,Concluído
+106,124,2024-12-02,Site Próprio,SP,São Paulo,Sudeste,4,Concluído
+107,466,2025-06-26,Marketplace,SP,São Paulo,Sudeste,1,Concluído
+108,479,2025-10-21,Site Próprio,SP,São Paulo,Sudeste,1,Concluído
+109,224,2024-11-11,Marketplace,SC,Santa Catarina,Sul,5,Concluído
+110,428,2025-07-19,Site Próprio,MS,Mato Grosso do Sul,Centro-Oeste,6,Concluído
+111,156,2025-12-21,Site Próprio,RS,Rio Grande do Sul,Sul,2,Concluído
+112,535,2025-11-15,Site Próprio,PE,Pernambuco,Nordeste,4,Concluído
+113,509,2025-10-27,Site Próprio,PE,Pernambuco,Nordeste,6,Concluído
+114,632,2025-06-18,Marketplace,SP,São Paulo,Sudeste,2,Concluído
+115,585,2025-10-17,Aplicativo,DF,Distrito Federal,Centro-Oeste,5,Concluído
+116,462,2024-07-13,Site Próprio,MG,Minas Gerais,Sudeste,4,Concluído
+117,427,2025-10-13,Site Próprio,PR,Paraná,Sul,4,Concluído
+118,636,2025-10-11,Aplicativo,SP,São Paulo,Sudeste,2,Concluído
+119,119,2024-10-09,Marketplace,CE,Ceará,Nordeste,1,Concluído
+120,199,2025-10-13,Site Próprio,SP,São Paulo,Sudeste,3,Concluído
+121,588,2025-07-08,Site Próprio,PR,Paraná,Sul,3,Concluído
+122,188,2024-11-12,Site Próprio,ES,Espírito Santo,Sudeste,4,Concluído
+123,479,2024-05-20,Site Próprio,SP,São Paulo,Sudeste,4,Concluído
+124,269,2024-05-19,Site Próprio,RJ,Rio de Janeiro,Sudeste,5,Concluído
+125,646,2025-12-13,Site Próprio,SP,São Paulo,Sudeste,5,Concluído
+126,326,2024-11-17,Marketplace,PR,Paraná,Sul,2,Concluído
+127,392,2025-09-02,Site Próprio,SP,São Paulo,Sudeste,4,Concluído
+128,40,2025-06-15,Site Próprio,BA,Bahia,Nordeste,3,Concluído
+129,10,2024-05-26,Site Próprio,PE,Pernambuco,Nordeste,5,Concluído
+130,326,2024-06-07,Site Próprio,PR,Paraná,Sul,1,Concluído
+131,165,2025-12-03,Marketplace,MG,Minas Gerais,Sudeste,6,Concluído
+132,88,2024-05-14,Site Próprio,BA,Bahia,Nordeste,5,Concluído
+133,336,2025-10-05,Site Próprio,SP,São Paulo,Sudeste,3,Concluído
+134,291,2025-10-22,Site Próprio,PE,Pernambuco,Nordeste,5,Concluído
+135,167,2025-07-13,Marketplace,SP,São Paulo,Sudeste,4,Concluído
+136,353,2024-10-13,Site Próprio,SP,São Paulo,Sudeste,2,Concluído
+137,164,2024-09-06,Site Próprio,BA,Bahia,Nordeste,5,Concluído
+138,593,2024-11-19,Site Próprio,BA,Bahia,Nordeste,3,Concluído
+139,360,2024-10-22,Marketplace,CE,Ceará,Nordeste,6,Concluído
+140,70,2025-06-17,Site Próprio,MS,Mato Grosso do Sul,Centro-Oeste,6,Concluído
+141,342,2025-01-07,Site Próprio,RS,Rio Grande do Sul,Sul,6,Concluído
+142,568,2025-03-18,Marketplace,BA,Bahia,Nordeste,1,Concluído
+143,54,2024-11-05,Aplicativo,SP,São Paulo,Sudeste,5,Concluído
+144,115,2025-12-26,Marketplace,MG,Minas Gerais,Sudeste,5,Concluído
+145,586,2024-05-07,Site Próprio,RJ,Rio de Janeiro,Sudeste,6,Concluído
+146,107,2025-12-14,Site Próprio,MG,Minas Gerais,Sudeste,6,Concluído
+147,35,2024-08-03,Site Próprio,AM,Amazonas,Norte,1,Concluído
+148,369,2025-03-16,Marketplace,RJ,Rio de Janeiro,Sudeste,2,Concluído
+149,385,2024-02-11,Site Próprio,DF,Distrito Federal,Centro-Oeste,4,Concluído
+150,38,2025-06-25,Site Próprio,BA,Bahia,Nordeste,3,Concluído
+151,402,2024-04-22,Site Próprio,RS,Rio Grande do Sul,Sul,4,Concluído
+152,522,2025-05-24,Site Próprio,SP,São Paulo,Sudeste,2,Cancelado
+153,104,2025-12-08,Aplicativo,SP,São Paulo,Sudeste,6,Concluído
+154,387,2025-04-13,Marketplace,SC,Santa Catarina,Sul,2,Concluído
+155,367,2025-01-16,Site Próprio,RJ,Rio de Janeiro,Sudeste,2,Concluído
+156,119,2024-03-09,Site Próprio,CE,Ceará,Nordeste,5,Concluído
+157,339,2025-03-24,Marketplace,SP,São Paulo,Sudeste,3,Concluído
+158,594,2025-05-22,Marketplace,RJ,Rio de Janeiro,Sudeste,5,Concluído
+159,138,2025-09-25,Site Próprio,MG,Minas Gerais,Sudeste,2,Concluído
+160,576,2024-11-25,Site Próprio,SP,São Paulo,Sudeste,6,Concluído
+161,27,2024-08-24,Site Próprio,SP,São Paulo,Sudeste,1,Cancelado
+162,473,2024-12-10,Site Próprio,SP,São Paulo,Sudeste,1,Concluído
+163,72,2025-11-22,Site Próprio,SP,São Paulo,Sudeste,5,Concluído
+164,556,2025-07-23,Site Próprio,RS,Rio Grande do Sul,Sul,4,Concluído
+165,567,2025-08-08,Site Próprio,RJ,Rio de Janeiro,Sudeste,2,Concluído
+166,59,2025-01-06,Site Próprio,SP,São Paulo,Sudeste,4,Concluído
+167,461,2025-10-03,Site Próprio,MG,Minas Gerais,Sudeste,2,Concluído
+168,87,2025-12-09,Aplicativo,SP,São Paulo,Sudeste,2,Concluído
+169,329,2024-12-23,Site Próprio,MG,Minas Gerais,Sudeste,5,Concluído
+170,648,2025-08-17,Site Próprio,GO,Goiás,Centro-Oeste,5,Concluído
+171,471,2025-08-01,Aplicativo,RJ,Rio de Janeiro,Sudeste,3,Concluído
+172,151,2025-11-16,Marketplace,PR,Paraná,Sul,6,Concluído
+173,182,2025-12-08,Marketplace,SP,São Paulo,Sudeste,3,Cancelado
+174,220,2024-05-06,Marketplace,RS,Rio Grande do Sul,Sul,4,Concluído
+175,636,2024-12-22,Marketplace,SP,São Paulo,Sudeste,6,Concluído
+176,311,2024-03-19,Marketplace,SP,São Paulo,Sudeste,6,Concluído
+177,129,2025-10-07,Site Próprio,PR,Paraná,Sul,1,Concluído
+178,483,2025-10-22,Marketplace,MG,Minas Gerais,Sudeste,3,Cancelado
+179,454,2024-11-15,Marketplace,SP,São Paulo,Sudeste,6,Concluído
+180,345,2024-05-09,Marketplace,MG,Minas Gerais,Sudeste,5,Concluído
+181,360,2025-04-04,Site Próprio,CE,Ceará,Nordeste,5,Concluído
+182,125,2025-10-17,Site Próprio,MA,Maranhão,Nordeste,4,Concluído
+183,398,2025-11-25,Site Próprio,CE,Ceará,Nordeste,4,Concluído
+184,465,2025-04-08,Site Próprio,RS,Rio Grande do Sul,Sul,3,Concluído
+185,569,2024-12-05,Site Próprio,MG,Minas Gerais,Sudeste,5,Concluído
+186,28,2025-08-16,Marketplace,ES,Espírito Santo,Sudeste,4,Concluído
+187,315,2024-07-07,Site Próprio,MS,Mato Grosso do Sul,Centro-Oeste,5,Concluído
+188,559,2025-03-20,Aplicativo,SC,Santa Catarina,Sul,1,Concluído
+189,124,2025-04-19,Marketplace,SP,São Paulo,Sudeste,2,Concluído
+190,348,2025-08-21,Marketplace,SC,Santa Catarina,Sul,3,Concluído
+191,453,2025-12-14,Site Próprio,SP,São Paulo,Sudeste,4,Concluído
+192,248,2024-06-02,Marketplace,SP,São Paulo,Sudeste,6,Concluído
+193,89,2025-02-11,Marketplace,RJ,Rio de Janeiro,Sudeste,3,Concluído
+194,581,2024-11-07,Site Próprio,BA,Bahia,Nordeste,5,Concluído
+195,42,2025-03-18,Site Próprio,RJ,Rio de Janeiro,Sudeste,3,Concluído
+196,305,2024-03-26,Marketplace,SP,São Paulo,Sudeste,3,Concluído
+197,403,2024-12-02,Marketplace,SP,São Paulo,Sudeste,1,Concluído
+198,189,2025-05-05,Site Próprio,SC,Santa Catarina,Sul,6,Concluído
+199,556,2024-10-03,Marketplace,RS,Rio Grande do Sul,Sul,1,Concluído
+200,206,2025-05-21,Marketplace,BA,Bahia,Nordeste,1,Cancelado
+201,307,2025-12-21,Site Próprio,PR,Paraná,Sul,1,Concluído
+202,351,2025-11-09,Aplicativo,MA,Maranhão,Nordeste,2,Concluído
+203,184,2024-11-22,Site Próprio,SP,São Paulo,Sudeste,5,Concluído
+204,213,2025-12-25,Marketplace,CE,Ceará,Nordeste,2,Concluído
+205,78,2024-11-26,Aplicativo,AM,Amazonas,Norte,1,Concluído
+206,559,2024-12-02,Site Próprio,SC,Santa Catarina,Sul,6,Concluído
+207,563,2025-07-18,Site Próprio,SP,São Paulo,Sudeste,5,Concluído
+208,559,2025-01-05,Site Próprio,SC,Santa Catarina,Sul,6,Concluído
+209,116,2024-12-09,Marketplace,PR,Paraná,Sul,1,Concluído
+210,396,2024-06-20,Site Próprio,SC,Santa Catarina,Sul,5,Concluído
+211,627,2025-05-16,Site Próprio,SP,São Paulo,Sudeste,3,Concluído
+212,287,2024-12-25,Site Próprio,MG,Minas Gerais,Sudeste,3,Concluído
+213,408,2025-11-17,Aplicativo,SP,São Paulo,Sudeste,1,Concluído
+214,355,2024-03-04,Marketplace,SP,São Paulo,Sudeste,4,Concluído
+215,377,2025-01-03,Site Próprio,SP,São Paulo,Sudeste,2,Concluído
+216,91,2025-07-27,Marketplace,SP,São Paulo,Sudeste,1,Concluído
+217,211,2025-11-20,Marketplace,ES,Espírito Santo,Sudeste,5,Concluído
+218,32,2024-11-25,Aplicativo,CE,Ceará,Nordeste,1,Concluído
+219,532,2025-11-14,Site Próprio,SP,São Paulo,Sudeste,1,Concluído
+220,190,2025-11-10,Site Próprio,SP,São Paulo,Sudeste,5,Cancelado
+221,198,2025-10-25,Marketplace,SP,São Paulo,Sudeste,6,Concluído
+222,500,2024-06-27,Site Próprio,MG,Minas Gerais,Sudeste,1,Concluído
+223,372,2025-08-16,Site Próprio,BA,Bahia,Nordeste,4,Concluído
+224,202,2024-12-13,Site Próprio,SP,São Paulo,Sudeste,5,Concluído
+225,287,2025-09-25,Site Próprio,MG,Minas Gerais,Sudeste,3,Concluído
+226,96,2024-04-06,Marketplace,PE,Pernambuco,Nordeste,2,Concluído
+227,88,2024-05-21,Site Próprio,BA,Bahia,Nordeste,6,Concluído
+228,472,2025-12-11,Marketplace,SC,Santa Catarina,Sul,5,Concluído
+229,43,2024-11-18,Marketplace,SP,São Paulo,Sudeste,4,Concluído
+230,466,2025-08-26,Site Próprio,SP,São Paulo,Sudeste,6,Concluído
+231,91,2024-08-27,Aplicativo,SP,São Paulo,Sudeste,4,Concluído
+232,224,2025-05-18,Site Próprio,SC,Santa Catarina,Sul,3,Concluído
+233,342,2025-11-16,Site Próprio,RS,Rio Grande do Sul,Sul,2,Concluído
+234,484,2025-11-08,Marketplace,SP,São Paulo,Sudeste,5,Concluído
+235,214,2024-06-22,Marketplace,PR,Paraná,Sul,1,Concluído
+236,379,2024-02-13,Site Próprio,PR,Paraná,Sul,1,Concluído
+237,583,2025-05-22,Marketplace,SP,São Paulo,Sudeste,4,Concluído
+238,597,2025-10-07,Site Próprio,SP,São Paulo,Sudeste,4,Concluído
+239,549,2025-05-20,Site Próprio,SP,São Paulo,Sudeste,3,Concluído
+240,580,2024-06-17,Marketplace,RS,Rio Grande do Sul,Sul,4,Concluído
+241,71,2025-11-02,Marketplace,SP,São Paulo,Sudeste,6,Concluído
+242,570,2025-12-05,Marketplace,SP,São Paulo,Sudeste,3,Concluído
+243,408,2025-06-04,Site Próprio,SP,São Paulo,Sudeste,6,Concluído
+244,326,2024-08-08,Marketplace,PR,Paraná,Sul,2,Concluído
+245,223,2024-07-09,Aplicativo,GO,Goiás,Centro-Oeste,2,Concluído
+246,113,2025-05-24,Site Próprio,SP,São Paulo,Sudeste,4,Concluído
+247,96,2025-11-18,Site Próprio,PE,Pernambuco,Nordeste,5,Concluído
+248,555,2025-12-19,Marketplace,SP,São Paulo,Sudeste,2,Concluído
+249,169,2025-04-05,Marketplace,SP,São Paulo,Sudeste,2,Concluído
+250,294,2025-11-18,Marketplace,SP,São Paulo,Sudeste,6,Concluído
+251,99,2024-05-07,Aplicativo,GO,Goiás,Centro-Oeste,4,Concluído
+252,250,2024-12-06,Site Próprio,PE,Pernambuco,Nordeste,5,Concluído
+253,522,2025-08-23,Marketplace,SP,São Paulo,Sudeste,5,Concluído
+254,560,2024-01-06,Site Próprio,SP,São Paulo,Sudeste,1,Concluído
+255,338,2025-12-06,Site Próprio,RS,Rio Grande do Sul,Sul,2,Concluído
+256,190,2025-10-05,Aplicativo,SP,São Paulo,Sudeste,4,Concluído
+257,434,2025-07-06,Site Próprio,SP,São Paulo,Sudeste,4,Concluído
+258,609,2024-05-21,Site Próprio,RJ,Rio de Janeiro,Sudeste,5,Concluído
+259,11,2024-05-18,Marketplace,SP,São Paulo,Sudeste,5,Concluído
+260,330,2025-11-15,Marketplace,BA,Bahia,Nordeste,4,Concluído
+261,608,2024-11-01,Marketplace,SP,São Paulo,Sudeste,1,Concluído
+262,359,2025-11-16,Site Próprio,SP,São Paulo,Sudeste,6,Concluído
+263,188,2024-12-06,Marketplace,ES,Espírito Santo,Sudeste,4,Concluído
+264,82,2024-03-16,Marketplace,MG,Minas Gerais,Sudeste,5,Concluído
+265,132,2025-06-19,Site Próprio,MG,Minas Gerais,Sudeste,4,Concluído
+266,68,2024-10-20,Site Próprio,RJ,Rio de Janeiro,Sudeste,4,Concluído
+267,379,2025-12-11,Site Próprio,PR,Paraná,Sul,2,Concluído
+268,38,2024-07-03,Site Próprio,BA,Bahia,Nordeste,2,Concluído
+269,388,2024-11-15,Site Próprio,SP,São Paulo,Sudeste,3,Concluído
+270,416,2025-12-11,Site Próprio,PR,Paraná,Sul,6,Concluído
+271,170,2024-04-10,Site Próprio,SP,São Paulo,Sudeste,1,Concluído
+272,240,2025-07-07,Site Próprio,SC,Santa Catarina,Sul,1,Concluído
+273,248,2025-01-15,Marketplace,SP,São Paulo,Sudeste,2,Concluído
+274,189,2024-12-23,Site Próprio,SC,Santa Catarina,Sul,6,Concluído
+275,415,2024-11-12,Site Próprio,SP,São Paulo,Sudeste,3,Concluído
+276,252,2025-09-11,Site Próprio,RS,Rio Grande do Sul,Sul,3,Concluído
+277,244,2024-03-24,Site Próprio,SP,São Paulo,Sudeste,4,Concluído
+278,608,2024-10-01,Marketplace,SP,São Paulo,Sudeste,3,Concluído
+279,36,2025-06-10,Site Próprio,DF,Distrito Federal,Centro-Oeste,5,Concluído
+280,421,2025-06-03,Marketplace,ES,Espírito Santo,Sudeste,1,Concluído
+281,292,2025-11-16,Aplicativo,SP,São Paulo,Sudeste,6,Concluído
+282,411,2025-04-27,Site Próprio,RJ,Rio de Janeiro,Sudeste,5,Concluído
+283,631,2025-04-05,Marketplace,SP,São Paulo,Sudeste,2,Concluído
+284,489,2025-05-20,Marketplace,MT,Mato Grosso,Centro-Oeste,1,Concluído
+285,133,2025-08-12,Site Próprio,RJ,Rio de Janeiro,Sudeste,5,Concluído
+286,512,2025-12-08,Site Próprio,RJ,Rio de Janeiro,Sudeste,5,Cancelado
+287,176,2025-11-22,Site Próprio,GO,Goiás,Centro-Oeste,5,Concluído
+288,649,2025-04-18,Site Próprio,PR,Paraná,Sul,2,Cancelado
+289,457,2024-09-20,Marketplace,SP,São Paulo,Sudeste,4,Concluído
+290,314,2025-08-03,Marketplace,BA,Bahia,Nordeste,5,Concluído
+291,96,2024-11-25,Site Próprio,PE,Pernambuco,Nordeste,6,Concluído
+292,601,2025-11-10,Site Próprio,BA,Bahia,Nordeste,5,Concluído
+293,440,2025-09-16,Aplicativo,BA,Bahia,Nordeste,2,Concluído
+294,578,2025-11-11,Site Próprio,SP,São Paulo,Sudeste,6,Concluído
+295,381,2024-10-05,Site Próprio,PR,Paraná,Sul,4,Concluído
+296,364,2025-10-21,Site Próprio,GO,Goiás,Centro-Oeste,6,Concluído
+297,614,2025-01-19,Marketplace,SP,São Paulo,Sudeste,1,Concluído
+298,177,2025-11-03,Site Próprio,SP,São Paulo,Sudeste,2,Concluído
+299,84,2025-01-10,Site Próprio,GO,Goiás,Centro-Oeste,2,Concluído
+300,340,2025-08-16,Marketplace,BA,Bahia,Nordeste,4,Concluído
+301,606,2025-10-01,Aplicativo,SP,São Paulo,Sudeste,4,Concluído
+302,560,2024-06-25,Site Próprio,SP,São Paulo,Sudeste,3,Concluído
+303,373,2025-08-01,Site Próprio,SP,São Paulo,Sudeste,6,Concluído
+304,542,2024-08-24,Marketplace,RJ,Rio de Janeiro,Sudeste,1,Concluído
+305,147,2025-08-20,Site Próprio,SP,São Paulo,Sudeste,3,Concluído
+306,459,2024-12-19,Site Próprio,SP,São Paulo,Sudeste,2,Concluído
+307,287,2024-06-27,Site Próprio,MG,Minas Gerais,Sudeste,6,Cancelado
+308,390,2025-12-17,Marketplace,SP,São Paulo,Sudeste,3,Concluído
+309,480,2025-10-06,Site Próprio,SP,São Paulo,Sudeste,1,Concluído
+310,526,2025-09-02,Marketplace,SP,São Paulo,Sudeste,1,Cancelado
+311,97,2024-10-11,Site Próprio,SC,Santa Catarina,Sul,1,Concluído
+312,153,2025-02-01,Aplicativo,GO,Goiás,Centro-Oeste,5,Concluído
+313,599,2024-11-12,Aplicativo,SC,Santa Catarina,Sul,4,Concluído
+314,292,2025-11-23,Marketplace,SP,São Paulo,Sudeste,1,Concluído
+315,593,2025-08-25,Marketplace,BA,Bahia,Nordeste,5,Concluído
+316,326,2024-05-13,Site Próprio,PR,Paraná,Sul,6,Concluído
+317,607,2025-11-15,Site Próprio,RJ,Rio de Janeiro,Sudeste,6,Concluído
+318,149,2025-02-25,Site Próprio,SP,São Paulo,Sudeste,1,Concluído
+319,605,2025-12-11,Marketplace,PE,Pernambuco,Nordeste,1,Concluído
+320,210,2025-07-26,Site Próprio,MG,Minas Gerais,Sudeste,5,Concluído
+321,463,2024-05-13,Aplicativo,RJ,Rio de Janeiro,Sudeste,5,Concluído
+322,608,2024-10-27,Marketplace,SP,São Paulo,Sudeste,3,Concluído
+323,86,2025-10-22,Marketplace,RS,Rio Grande do Sul,Sul,3,Concluído
+324,617,2024-11-13,Site Próprio,BA,Bahia,Nordeste,1,Concluído
+325,1,2024-11-15,Site Próprio,SC,Santa Catarina,Sul,6,Concluído
+326,233,2025-11-27,Marketplace,SP,São Paulo,Sudeste,3,Concluído
+327,546,2024-12-11,Site Próprio,SP,São Paulo,Sudeste,6,Concluído
+328,342,2024-12-05,Aplicativo,RS,Rio Grande do Sul,Sul,3,Concluído
+329,413,2025-06-14,Site Próprio,PE,Pernambuco,Nordeste,1,Concluído
+330,362,2025-11-01,Marketplace,BA,Bahia,Nordeste,1,Concluído
+331,602,2025-12-09,Marketplace,PE,Pernambuco,Nordeste,5,Concluído
+332,599,2025-08-05,Site Próprio,SC,Santa Catarina,Sul,2,Concluído
+333,268,2025-09-19,Site Próprio,SP,São Paulo,Sudeste,4,Concluído
+334,468,2024-09-25,Marketplace,SP,São Paulo,Sudeste,3,Concluído
+335,409,2024-03-18,Marketplace,SP,São Paulo,Sudeste,4,Concluído
+336,502,2025-12-14,Site Próprio,GO,Goiás,Centro-Oeste,6,Concluído
+337,494,2025-03-25,Marketplace,MA,Maranhão,Nordeste,2,Concluído
+338,298,2024-12-07,Site Próprio,CE,Ceará,Nordeste,2,Cancelado
+339,631,2024-12-13,Site Próprio,SP,São Paulo,Sudeste,3,Concluído
+340,399,2025-11-25,Marketplace,SC,Santa Catarina,Sul,5,Concluído
+341,209,2025-11-11,Marketplace,SP,São Paulo,Sudeste,5,Concluído
+342,97,2024-05-02,Site Próprio,SC,Santa Catarina,Sul,3,Concluído
+343,342,2024-05-01,Marketplace,RS,Rio Grande do Sul,Sul,2,Concluído
+344,238,2025-06-11,Marketplace,RJ,Rio de Janeiro,Sudeste,5,Concluído
+345,237,2025-09-11,Site Próprio,SP,São Paulo,Sudeste,3,Concluído
+346,154,2025-08-26,Site Próprio,BA,Bahia,Nordeste,2,Concluído
+347,615,2025-12-11,Site Próprio,SP,São Paulo,Sudeste,4,Concluído
+348,322,2025-05-03,Site Próprio,CE,Ceará,Nordeste,5,Concluído
+349,555,2025-06-11,Site Próprio,SP,São Paulo,Sudeste,2,Concluído
+350,164,2024-06-20,Marketplace,BA,Bahia,Nordeste,1,Concluído
+351,41,2025-03-21,Site Próprio,BA,Bahia,Nordeste,4,Concluído
+352,437,2025-04-27,Aplicativo,RJ,Rio de Janeiro,Sudeste,5,Concluído
+353,57,2024-10-17,Marketplace,RS,Rio Grande do Sul,Sul,3,Concluído
+354,562,2025-11-05,Site Próprio,RJ,Rio de Janeiro,Sudeste,6,Concluído
+355,110,2025-03-23,Marketplace,SP,São Paulo,Sudeste,3,Cancelado
+356,596,2025-11-17,Site Próprio,BA,Bahia,Nordeste,3,Concluído
+357,92,2025-01-10,Site Próprio,RS,Rio Grande do Sul,Sul,1,Concluído
+358,576,2025-12-03,Aplicativo,SP,São Paulo,Sudeste,4,Concluído
+359,353,2025-12-15,Marketplace,SP,São Paulo,Sudeste,4,Concluído
+360,358,2025-10-20,Marketplace,DF,Distrito Federal,Centro-Oeste,6,Concluído
+361,78,2024-09-21,Site Próprio,AM,Amazonas,Norte,2,Concluído
+362,644,2025-09-20,Site Próprio,PE,Pernambuco,Nordeste,3,Concluído
+363,469,2025-05-07,Site Próprio,SP,São Paulo,Sudeste,5,Concluído
+364,598,2025-12-11,Marketplace,SP,São Paulo,Sudeste,4,Concluído
+365,289,2025-02-01,Aplicativo,MS,Mato Grosso do Sul,Centro-Oeste,6,Cancelado
+366,123,2025-11-07,Marketplace,RJ,Rio de Janeiro,Sudeste,4,Concluído
+367,124,2025-12-25,Marketplace,SP,São Paulo,Sudeste,2,Concluído
+368,547,2024-11-03,Marketplace,SP,São Paulo,Sudeste,5,Concluído
+369,14,2025-04-24,Marketplace,DF,Distrito Federal,Centro-Oeste,2,Concluído
+370,438,2025-01-09,Site Próprio,MG,Minas Gerais,Sudeste,4,Concluído
+371,36,2024-10-01,Aplicativo,DF,Distrito Federal,Centro-Oeste,2,Concluído
+372,610,2025-11-11,Marketplace,SC,Santa Catarina,Sul,6,Concluído
+373,23,2025-01-09,Site Próprio,SP,São Paulo,Sudeste,5,Concluído
+374,4,2024-11-01,Marketplace,SP,São Paulo,Sudeste,1,Concluído
+375,528,2025-12-09,Site Próprio,PE,Pernambuco,Nordeste,3,Concluído
+376,484,2024-12-20,Site Próprio,SP,São Paulo,Sudeste,3,Concluído
+377,10,2025-11-20,Site Próprio,PE,Pernambuco,Nordeste,2,Concluído
+378,21,2025-12-06,Marketplace,CE,Ceará,Nordeste,5,Concluído
+379,132,2025-06-20,Site Próprio,MG,Minas Gerais,Sudeste,5,Concluído
+380,169,2024-11-18,Site Próprio,SP,São Paulo,Sudeste,4,Cancelado
+381,474,2025-03-07,Site Próprio,RS,Rio Grande do Sul,Sul,2,Concluído
+382,104,2024-02-21,Site Próprio,SP,São Paulo,Sudeste,3,Concluído
+383,333,2025-09-08,Site Próprio,SC,Santa Catarina,Sul,6,Concluído
+384,489,2025-11-11,Site Próprio,MT,Mato Grosso,Centro-Oeste,4,Concluído
+385,207,2024-11-18,Site Próprio,SC,Santa Catarina,Sul,2,Concluído
+386,267,2024-09-20,Site Próprio,SP,São Paulo,Sudeste,2,Concluído
+387,349,2025-06-11,Site Próprio,SP,São Paulo,Sudeste,2,Concluído
+388,52,2025-12-22,Aplicativo,SP,São Paulo,Sudeste,5,Concluído
+389,95,2025-11-17,Aplicativo,AM,Amazonas,Norte,3,Concluído
+390,98,2025-11-07,Site Próprio,BA,Bahia,Nordeste,1,Concluído
+391,494,2024-11-09,Marketplace,MA,Maranhão,Nordeste,2,Concluído
+392,547,2024-10-08,Marketplace,SP,São Paulo,Sudeste,1,Concluído
+393,602,2024-11-17,Marketplace,PE,Pernambuco,Nordeste,5,Concluído
+394,298,2025-10-22,Marketplace,CE,Ceará,Nordeste,5,Concluído
+395,70,2024-11-25,Marketplace,MS,Mato Grosso do Sul,Centro-Oeste,1,Concluído
+396,65,2025-07-01,Marketplace,CE,Ceará,Nordeste,5,Concluído
+397,360,2025-05-22,Marketplace,CE,Ceará,Nordeste,5,Concluído
+398,205,2025-12-25,Site Próprio,CE,Ceará,Nordeste,3,Concluído
+399,383,2024-11-20,Aplicativo,CE,Ceará,Nordeste,4,Concluído
+400,321,2025-12-25,Marketplace,SP,São Paulo,Sudeste,1,Cancelado
+401,153,2025-11-04,Marketplace,GO,Goiás,Centro-Oeste,3,Concluído
+402,359,2025-05-06,Marketplace,SP,São Paulo,Sudeste,2,Concluído
+403,118,2024-04-19,Marketplace,RS,Rio Grande do Sul,Sul,6,Concluído
+404,532,2025-12-01,Marketplace,SP,São Paulo,Sudeste,6,Concluído
+405,145,2024-05-19,Site Próprio,RS,Rio Grande do Sul,Sul,2,Concluído
+406,267,2025-12-13,Marketplace,SP,São Paulo,Sudeste,4,Concluído
+407,107,2025-11-22,Site Próprio,MG,Minas Gerais,Sudeste,4,Concluído
+408,446,2025-08-22,Site Próprio,RS,Rio Grande do Sul,Sul,2,Concluído
+409,586,2024-06-26,Site Próprio,RJ,Rio de Janeiro,Sudeste,4,Concluído
+410,635,2024-06-24,Marketplace,MG,Minas Gerais,Sudeste,5,Concluído
+411,403,2025-11-26,Marketplace,SP,São Paulo,Sudeste,5,Concluído
+412,178,2025-05-27,Site Próprio,SP,São Paulo,Sudeste,4,Concluído
+413,588,2025-11-04,Site Próprio,PR,Paraná,Sul,4,Concluído
+414,529,2025-12-16,Site Próprio,SP,São Paulo,Sudeste,5,Concluído
+415,308,2024-09-21,Site Próprio,BA,Bahia,Nordeste,3,Concluído
+416,350,2024-11-15,Site Próprio,PR,Paraná,Sul,1,Concluído
+417,623,2025-04-19,Marketplace,SP,São Paulo,Sudeste,2,Concluído
+418,607,2024-11-22,Marketplace,RJ,Rio de Janeiro,Sudeste,3,Concluído
+419,295,2025-12-03,Site Próprio,BA,Bahia,Nordeste,1,Concluído
+420,202,2025-07-13,Site Próprio,SP,São Paulo,Sudeste,5,Concluído
+421,641,2025-07-14,Site Próprio,BA,Bahia,Nordeste,6,Concluído
+422,586,2025-08-13,Site Próprio,RJ,Rio de Janeiro,Sudeste,5,Concluído
+423,340,2025-07-26,Marketplace,BA,Bahia,Nordeste,3,Concluído
+424,605,2025-03-22,Marketplace,PE,Pernambuco,Nordeste,4,Concluído
+425,315,2024-08-25,Site Próprio,MS,Mato Grosso do Sul,Centro-Oeste,4,Concluído
+426,631,2025-06-08,Site Próprio,SP,São Paulo,Sudeste,2,Concluído
+427,389,2025-10-11,Site Próprio,SP,São Paulo,Sudeste,2,Concluído
+428,275,2025-10-21,Aplicativo,BA,Bahia,Nordeste,2,Cancelado
+429,128,2024-12-04,Site Próprio,MT,Mato Grosso,Centro-Oeste,4,Concluído
+430,525,2025-11-17,Site Próprio,RS,Rio Grande do Sul,Sul,6,Concluído
+431,2,2025-02-03,Site Próprio,RS,Rio Grande do Sul,Sul,3,Concluído
+432,620,2025-11-14,Aplicativo,SP,São Paulo,Sudeste,4,Concluído
+433,564,2025-10-25,Site Próprio,DF,Distrito Federal,Centro-Oeste,4,Concluído
+434,357,2024-11-05,Marketplace,SP,São Paulo,Sudeste,3,Concluído
+435,72,2024-08-14,Site Próprio,SP,São Paulo,Sudeste,1,Concluído
+436,214,2024-02-23,Site Próprio,PR,Paraná,Sul,2,Concluído
+437,9,2025-09-02,Site Próprio,DF,Distrito Federal,Centro-Oeste,6,Concluído
+438,191,2025-05-12,Marketplace,SP,São Paulo,Sudeste,1,Concluído
+439,143,2025-06-02,Site Próprio,SP,São Paulo,Sudeste,2,Cancelado
+440,258,2024-09-14,Site Próprio,SP,São Paulo,Sudeste,2,Concluído
+441,80,2025-09-05,Site Próprio,CE,Ceará,Nordeste,3,Concluído
+442,482,2024-07-16,Site Próprio,SP,São Paulo,Sudeste,5,Concluído
+443,553,2024-06-21,Site Próprio,MS,Mato Grosso do Sul,Centro-Oeste,1,Concluído
+444,410,2024-03-06,Site Próprio,BA,Bahia,Nordeste,1,Concluído
+445,492,2025-12-14,Site Próprio,PR,Paraná,Sul,4,Concluído
+446,225,2024-10-16,Site Próprio,RJ,Rio de Janeiro,Sudeste,1,Concluído
+447,615,2025-07-18,Site Próprio,SP,São Paulo,Sudeste,3,Concluído
+448,428,2025-02-25,Site Próprio,MS,Mato Grosso do Sul,Centro-Oeste,2,Concluído
+449,439,2025-07-12,Site Próprio,RJ,Rio de Janeiro,Sudeste,5,Concluído
+450,113,2024-09-02,Marketplace,SP,São Paulo,Sudeste,2,Concluído
+451,494,2024-11-04,Marketplace,MA,Maranhão,Nordeste,6,Concluído
+452,471,2025-10-06,Site Próprio,RJ,Rio de Janeiro,Sudeste,5,Concluído
+453,583,2025-10-08,Site Próprio,SP,São Paulo,Sudeste,6,Concluído
+454,378,2025-12-26,Site Próprio,RJ,Rio de Janeiro,Sudeste,4,Concluído
+455,374,2025-02-16,Site Próprio,SP,São Paulo,Sudeste,2,Concluído
+456,218,2025-06-08,Marketplace,AM,Amazonas,Norte,6,Concluído
+457,444,2024-12-19,Marketplace,RJ,Rio de Janeiro,Sudeste,2,Concluído
+458,597,2024-03-01,Site Próprio,SP,São Paulo,Sudeste,5,Concluído
+459,73,2025-02-24,Aplicativo,SP,São Paulo,Sudeste,1,Concluído
+460,415,2025-11-13,Aplicativo,SP,São Paulo,Sudeste,1,Concluído
+461,535,2025-12-08,Site Próprio,PE,Pernambuco,Nordeste,4,Concluído
+462,328,2025-09-16,Site Próprio,PE,Pernambuco,Nordeste,6,Concluído
+463,469,2024-11-07,Site Próprio,SP,São Paulo,Sudeste,4,Concluído
+464,66,2025-05-18,Marketplace,SP,São Paulo,Sudeste,2,Concluído
+465,352,2025-07-12,Site Próprio,SP,São Paulo,Sudeste,6,Concluído
+466,443,2025-08-23,Site Próprio,SP,São Paulo,Sudeste,6,Concluído
+467,110,2025-12-18,Marketplace,SP,São Paulo,Sudeste,3,Cancelado
+468,157,2025-05-17,Marketplace,SC,Santa Catarina,Sul,1,Concluído
+469,175,2024-09-21,Site Próprio,SP,São Paulo,Sudeste,5,Concluído
+470,73,2024-12-09,Marketplace,SP,São Paulo,Sudeste,4,Concluído
+471,548,2025-12-25,Site Próprio,MT,Mato Grosso,Centro-Oeste,1,Concluído
+472,159,2025-09-12,Marketplace,MG,Minas Gerais,Sudeste,2,Concluído
+473,386,2024-05-10,Site Próprio,RJ,Rio de Janeiro,Sudeste,1,Concluído
+474,14,2025-10-08,Site Próprio,DF,Distrito Federal,Centro-Oeste,5,Concluído
+475,495,2024-07-19,Site Próprio,PE,Pernambuco,Nordeste,5,Concluído
+476,141,2024-05-14,Marketplace,SP,São Paulo,Sudeste,3,Concluído
+477,533,2025-12-16,Aplicativo,BA,Bahia,Nordeste,5,Cancelado
+478,518,2024-04-04,Site Próprio,SP,São Paulo,Sudeste,1,Concluído
+479,474,2025-12-13,Site Próprio,RS,Rio Grande do Sul,Sul,3,Concluído
+480,249,2025-10-15,Aplicativo,MG,Minas Gerais,Sudeste,2,Concluído
+481,552,2025-06-27,Marketplace,SP,São Paulo,Sudeste,6,Concluído
+482,116,2025-10-12,Marketplace,PR,Paraná,Sul,6,Concluído
+483,380,2025-10-10,Marketplace,SP,São Paulo,Sudeste,1,Concluído
+484,572,2025-05-07,Aplicativo,MG,Minas Gerais,Sudeste,6,Concluído
+485,352,2024-09-27,Site Próprio,SP,São Paulo,Sudeste,5,Concluído
+486,403,2025-11-07,Site Próprio,SP,São Paulo,Sudeste,2,Concluído
+487,466,2024-06-02,Site Próprio,SP,São Paulo,Sudeste,5,Concluído
+488,622,2024-12-17,Aplicativo,ES,Espírito Santo,Sudeste,2,Concluído
+489,637,2025-04-05,Marketplace,SP,São Paulo,Sudeste,3,Concluído
+490,28,2025-05-20,Site Próprio,ES,Espírito Santo,Sudeste,5,Cancelado
+491,303,2025-03-14,Site Próprio,SC,Santa Catarina,Sul,4,Concluído
+492,308,2024-07-20,Marketplace,BA,Bahia,Nordeste,3,Concluído
+493,506,2025-04-14,Site Próprio,BA,Bahia,Nordeste,2,Concluído
+494,540,2025-12-05,Site Próprio,PR,Paraná,Sul,3,Concluído
+495,40,2025-11-23,Site Próprio,BA,Bahia,Nordeste,4,Concluído
+496,332,2025-10-24,Site Próprio,PR,Paraná,Sul,1,Concluído
+497,160,2025-10-19,Site Próprio,MG,Minas Gerais,Sudeste,3,Concluído
+498,255,2025-11-05,Site Próprio,RJ,Rio de Janeiro,Sudeste,4,Concluído
+499,599,2024-07-03,Marketplace,SC,Santa Catarina,Sul,5,Concluído
+500,105,2025-02-01,Site Próprio,MS,Mato Grosso do Sul,Centro-Oeste,3,Concluído
+501,261,2025-05-22,Marketplace,MG,Minas Gerais,Sudeste,6,Concluído
+502,70,2025-10-17,Marketplace,MS,Mato Grosso do Sul,Centro-Oeste,4,Concluído
+503,111,2025-11-14,Site Próprio,DF,Distrito Federal,Centro-Oeste,3,Concluído
+504,479,2025-01-21,Site Próprio,SP,São Paulo,Sudeste,5,Concluído
+505,177,2024-05-12,Marketplace,SP,São Paulo,Sudeste,1,Concluído
+506,438,2025-06-22,Marketplace,MG,Minas Gerais,Sudeste,5,Concluído
+507,2,2025-04-09,Marketplace,RS,Rio Grande do Sul,Sul,6,Concluído
+508,350,2025-09-18,Aplicativo,PR,Paraná,Sul,2,Concluído
+509,23,2024-04-27,Site Próprio,SP,São Paulo,Sudeste,3,Concluído
+510,607,2025-05-03,Marketplace,RJ,Rio de Janeiro,Sudeste,3,Concluído
+511,390,2025-11-07,Site Próprio,SP,São Paulo,Sudeste,1,Concluído
+512,269,2024-11-02,Marketplace,RJ,Rio de Janeiro,Sudeste,3,Concluído
+513,646,2025-12-15,Site Próprio,SP,São Paulo,Sudeste,2,Concluído
+514,100,2025-03-13,Site Próprio,SP,São Paulo,Sudeste,3,Concluído
+515,537,2025-08-17,Marketplace,RJ,Rio de Janeiro,Sudeste,1,Concluído
+516,520,2025-07-16,Aplicativo,SP,São Paulo,Sudeste,4,Concluído
+517,13,2025-04-24,Site Próprio,SP,São Paulo,Sudeste,5,Concluído
+518,340,2025-11-08,Marketplace,BA,Bahia,Nordeste,5,Concluído
+519,442,2025-09-25,Marketplace,MG,Minas Gerais,Sudeste,3,Concluído
+520,288,2024-09-18,Site Próprio,PR,Paraná,Sul,1,Concluído
+521,70,2025-08-18,Marketplace,MS,Mato Grosso do Sul,Centro-Oeste,4,Concluído
+522,569,2024-12-17,Marketplace,MG,Minas Gerais,Sudeste,4,Concluído
+523,312,2025-11-27,Marketplace,RS,Rio Grande do Sul,Sul,2,Concluído
+524,114,2025-12-10,Site Próprio,PA,Pará,Norte,1,Concluído
+525,8,2025-11-12,Site Próprio,SP,São Paulo,Sudeste,4,Concluído
+526,342,2024-12-20,Site Próprio,RS,Rio Grande do Sul,Sul,6,Concluído
+527,573,2025-06-22,Marketplace,MG,Minas Gerais,Sudeste,5,Cancelado
+528,426,2025-08-17,Site Próprio,SP,São Paulo,Sudeste,5,Concluído
+529,17,2025-03-23,Marketplace,PR,Paraná,Sul,3,Concluído
+530,537,2025-07-15,Site Próprio,RJ,Rio de Janeiro,Sudeste,5,Concluído
+531,444,2024-05-20,Site Próprio,RJ,Rio de Janeiro,Sudeste,4,Concluído
+532,315,2025-11-04,Site Próprio,MS,Mato Grosso do Sul,Centro-Oeste,3,Concluído
+533,270,2025-05-12,Site Próprio,SC,Santa Catarina,Sul,5,Concluído
+534,287,2024-12-08,Site Próprio,MG,Minas Gerais,Sudeste,5,Concluído
+535,469,2024-12-20,Marketplace,SP,São Paulo,Sudeste,4,Concluído
+536,476,2025-09-07,Site Próprio,AM,Amazonas,Norte,5,Concluído
+537,356,2025-11-21,Marketplace,RJ,Rio de Janeiro,Sudeste,6,Concluído
+538,505,2025-12-12,Site Próprio,DF,Distrito Federal,Centro-Oeste,5,Concluído
+539,457,2025-12-02,Site Próprio,SP,São Paulo,Sudeste,1,Concluído
+540,538,2025-07-11,Site Próprio,RJ,Rio de Janeiro,Sudeste,6,Concluído
+541,341,2025-06-23,Site Próprio,MG,Minas Gerais,Sudeste,3,Concluído
+542,196,2024-10-12,Aplicativo,SP,São Paulo,Sudeste,6,Concluído
+543,321,2025-10-25,Marketplace,SP,São Paulo,Sudeste,3,Cancelado
+544,562,2025-09-23,Site Próprio,RJ,Rio de Janeiro,Sudeste,3,Concluído
+545,102,2024-11-06,Marketplace,SC,Santa Catarina,Sul,1,Concluído
+546,239,2025-10-21,Aplicativo,RJ,Rio de Janeiro,Sudeste,2,Concluído
+547,125,2024-11-15,Site Próprio,MA,Maranhão,Nordeste,2,Concluído
+548,112,2025-05-24,Site Próprio,SP,São Paulo,Sudeste,5,Concluído
+549,620,2025-09-20,Site Próprio,SP,São Paulo,Sudeste,3,Concluído
+550,227,2025-09-06,Marketplace,SP,São Paulo,Sudeste,6,Concluído
+551,313,2025-05-14,Aplicativo,SP,São Paulo,Sudeste,6,Concluído
+552,243,2025-02-03,Site Próprio,SP,São Paulo,Sudeste,6,Concluído
+553,166,2025-12-25,Marketplace,RJ,Rio de Janeiro,Sudeste,6,Concluído
+554,394,2025-04-08,Marketplace,SP,São Paulo,Sudeste,6,Concluído
+555,167,2025-07-24,Marketplace,SP,São Paulo,Sudeste,2,Concluído
+556,446,2025-12-15,Marketplace,RS,Rio Grande do Sul,Sul,1,Concluído
+557,315,2025-12-23,Site Próprio,MS,Mato Grosso do Sul,Centro-Oeste,2,Concluído
+558,264,2024-11-14,Marketplace,CE,Ceará,Nordeste,2,Cancelado
+559,258,2025-02-15,Site Próprio,SP,São Paulo,Sudeste,1,Concluído
+560,539,2025-11-06,Site Próprio,MT,Mato Grosso,Centro-Oeste,5,Concluído
+561,390,2025-09-19,Marketplace,SP,São Paulo,Sudeste,6,Concluído
+562,595,2025-12-01,Site Próprio,SP,São Paulo,Sudeste,4,Concluído
+563,257,2025-12-05,Site Próprio,MG,Minas Gerais,Sudeste,3,Concluído
+564,200,2025-08-05,Marketplace,RS,Rio Grande do Sul,Sul,3,Concluído
+565,210,2025-12-27,Marketplace,MG,Minas Gerais,Sudeste,1,Concluído
+566,387,2025-02-16,Site Próprio,SC,Santa Catarina,Sul,4,Concluído
+567,256,2024-12-22,Site Próprio,RJ,Rio de Janeiro,Sudeste,1,Concluído
+568,477,2025-12-23,Site Próprio,RJ,Rio de Janeiro,Sudeste,5,Concluído
+569,73,2025-08-16,Marketplace,SP,São Paulo,Sudeste,5,Concluído
+570,300,2025-11-27,Site Próprio,BA,Bahia,Nordeste,3,Concluído
+571,12,2024-06-21,Site Próprio,DF,Distrito Federal,Centro-Oeste,3,Concluído
+572,610,2025-07-08,Aplicativo,SC,Santa Catarina,Sul,2,Concluído
+573,438,2024-07-06,Marketplace,MG,Minas Gerais,Sudeste,1,Concluído
+574,440,2024-06-01,Site Próprio,BA,Bahia,Nordeste,6,Concluído
+575,508,2024-06-16,Marketplace,SP,São Paulo,Sudeste,4,Concluído
+576,437,2025-07-20,Site Próprio,RJ,Rio de Janeiro,Sudeste,6,Concluído
+577,523,2024-08-14,Site Próprio,SP,São Paulo,Sudeste,1,Cancelado
+578,324,2024-02-18,Marketplace,RJ,Rio de Janeiro,Sudeste,2,Concluído
+579,408,2025-01-18,Marketplace,SP,São Paulo,Sudeste,6,Concluído
+580,255,2024-12-03,Marketplace,RJ,Rio de Janeiro,Sudeste,1,Concluído
+581,317,2025-10-22,Site Próprio,SC,Santa Catarina,Sul,3,Concluído
+582,406,2024-10-18,Site Próprio,SP,São Paulo,Sudeste,3,Concluído
+583,169,2025-04-19,Site Próprio,SP,São Paulo,Sudeste,2,Concluído
+584,204,2024-08-09,Site Próprio,SP,São Paulo,Sudeste,6,Concluído
+585,52,2025-03-20,Marketplace,SP,São Paulo,Sudeste,6,Concluído
+586,583,2025-11-11,Site Próprio,SP,São Paulo,Sudeste,3,Concluído
+587,301,2025-11-04,Marketplace,RS,Rio Grande do Sul,Sul,3,Concluído
+588,46,2025-06-05,Marketplace,SP,São Paulo,Sudeste,6,Concluído
+589,422,2025-03-10,Marketplace,SP,São Paulo,Sudeste,4,Concluído
+590,22,2025-02-10,Marketplace,SP,São Paulo,Sudeste,2,Concluído
+591,2,2025-01-01,Site Próprio,RS,Rio Grande do Sul,Sul,3,Cancelado
+592,615,2025-11-24,Site Próprio,SP,São Paulo,Sudeste,3,Concluído
+593,227,2025-10-26,Marketplace,SP,São Paulo,Sudeste,6,Concluído
+594,219,2024-07-21,Site Próprio,GO,Goiás,Centro-Oeste,6,Concluído
+595,483,2025-12-09,Site Próprio,MG,Minas Gerais,Sudeste,1,Concluído
+596,347,2024-12-11,Site Próprio,MS,Mato Grosso do Sul,Centro-Oeste,5,Concluído
+597,558,2025-11-14,Marketplace,PA,Pará,Norte,1,Cancelado
+598,15,2024-07-14,Marketplace,SP,São Paulo,Sudeste,5,Cancelado
+599,214,2024-03-23,Marketplace,PR,Paraná,Sul,4,Concluído
+600,22,2024-09-09,Marketplace,SP,São Paulo,Sudeste,5,Concluído
+601,399,2025-06-26,Site Próprio,SC,Santa Catarina,Sul,3,Cancelado
+602,589,2025-09-18,Aplicativo,SP,São Paulo,Sudeste,4,Concluído
+603,38,2025-11-27,Site Próprio,BA,Bahia,Nordeste,5,Concluído
+604,177,2025-11-06,Site Próprio,SP,São Paulo,Sudeste,6,Concluído
+605,559,2024-11-14,Marketplace,SC,Santa Catarina,Sul,2,Concluído
+606,132,2024-07-13,Aplicativo,MG,Minas Gerais,Sudeste,1,Concluído
+607,174,2025-09-18,Site Próprio,MS,Mato Grosso do Sul,Centro-Oeste,1,Concluído
+608,34,2025-05-14,Aplicativo,MG,Minas Gerais,Sudeste,2,Cancelado
+609,10,2025-04-18,Marketplace,PE,Pernambuco,Nordeste,3,Concluído
+610,479,2024-05-04,Site Próprio,SP,São Paulo,Sudeste,3,Concluído
+611,94,2024-04-12,Site Próprio,PR,Paraná,Sul,3,Concluído
+612,229,2025-03-01,Aplicativo,MS,Mato Grosso do Sul,Centro-Oeste,3,Concluído
+613,282,2025-11-02,Marketplace,CE,Ceará,Nordeste,4,Concluído
+614,452,2024-05-26,Site Próprio,MT,Mato Grosso,Centro-Oeste,4,Concluído
+615,196,2025-02-20,Marketplace,SP,São Paulo,Sudeste,2,Concluído
+616,171,2025-07-10,Site Próprio,SP,São Paulo,Sudeste,4,Concluído
+617,83,2025-05-23,Aplicativo,DF,Distrito Federal,Centro-Oeste,3,Concluído
+618,585,2025-03-03,Site Próprio,DF,Distrito Federal,Centro-Oeste,6,Concluído
+619,260,2024-08-25,Site Próprio,SP,São Paulo,Sudeste,2,Concluído
+620,477,2024-11-17,Site Próprio,RJ,Rio de Janeiro,Sudeste,5,Concluído
+621,318,2025-04-20,Aplicativo,PE,Pernambuco,Nordeste,4,Concluído
+622,579,2025-07-17,Marketplace,SP,São Paulo,Sudeste,3,Concluído
+623,91,2024-11-07,Marketplace,SP,São Paulo,Sudeste,5,Cancelado
+624,54,2024-07-10,Aplicativo,SP,São Paulo,Sudeste,1,Concluído
+625,617,2025-05-05,Site Próprio,BA,Bahia,Nordeste,4,Concluído
+626,30,2025-11-22,Site Próprio,RJ,Rio de Janeiro,Sudeste,6,Concluído
+627,585,2025-01-26,Marketplace,DF,Distrito Federal,Centro-Oeste,1,Cancelado
+628,195,2024-10-15,Marketplace,SP,São Paulo,Sudeste,5,Concluído
+629,109,2025-05-19,Site Próprio,RS,Rio Grande do Sul,Sul,6,Concluído
+630,47,2025-04-14,Marketplace,SP,São Paulo,Sudeste,6,Concluído
+631,580,2024-12-11,Site Próprio,RS,Rio Grande do Sul,Sul,3,Concluído
+632,650,2024-12-17,Site Próprio,CE,Ceará,Nordeste,5,Concluído
+633,25,2025-12-16,Site Próprio,MG,Minas Gerais,Sudeste,5,Concluído
+634,75,2025-12-25,Marketplace,PR,Paraná,Sul,5,Concluído
+635,227,2025-12-10,Site Próprio,SP,São Paulo,Sudeste,1,Concluído
+636,179,2024-11-25,Marketplace,SP,São Paulo,Sudeste,5,Concluído
+637,176,2025-08-10,Site Próprio,GO,Goiás,Centro-Oeste,3,Concluído
+638,641,2025-04-06,Marketplace,BA,Bahia,Nordeste,6,Concluído
+639,264,2025-08-01,Site Próprio,CE,Ceará,Nordeste,5,Concluído
+640,144,2025-12-02,Aplicativo,SP,São Paulo,Sudeste,3,Concluído
+641,571,2025-07-05,Marketplace,SC,Santa Catarina,Sul,2,Concluído
+642,443,2024-08-10,Aplicativo,SP,São Paulo,Sudeste,5,Concluído
+643,462,2024-02-04,Aplicativo,MG,Minas Gerais,Sudeste,1,Concluído
+644,288,2024-12-27,Marketplace,PR,Paraná,Sul,4,Concluído
+645,602,2024-12-18,Site Próprio,PE,Pernambuco,Nordeste,4,Concluído
+646,412,2025-02-08,Site Próprio,SP,São Paulo,Sudeste,5,Concluído
+647,385,2025-10-13,Aplicativo,DF,Distrito Federal,Centro-Oeste,2,Cancelado
+648,184,2025-10-15,Site Próprio,SP,São Paulo,Sudeste,3,Concluído
+649,395,2025-03-02,Site Próprio,RJ,Rio de Janeiro,Sudeste,2,Concluído
+650,635,2025-07-11,Marketplace,MG,Minas Gerais,Sudeste,5,Concluído
+651,64,2025-06-21,Aplicativo,RJ,Rio de Janeiro,Sudeste,4,Concluído
+652,107,2025-10-24,Site Próprio,MG,Minas Gerais,Sudeste,3,Concluído
+653,246,2025-11-20,Site Próprio,PR,Paraná,Sul,6,Concluído
+654,360,2025-03-24,Site Próprio,CE,Ceará,Nordeste,4,Concluído
+655,3,2025-10-23,Site Próprio,PE,Pernambuco,Nordeste,4,Concluído
+656,362,2025-12-07,Site Próprio,BA,Bahia,Nordeste,2,Concluído
+657,557,2025-10-26,Site Próprio,MS,Mato Grosso do Sul,Centro-Oeste,2,Concluído
+658,332,2025-07-18,Site Próprio,PR,Paraná,Sul,2,Concluído
+659,478,2025-09-14,Site Próprio,PR,Paraná,Sul,2,Concluído
+660,337,2025-08-14,Marketplace,MG,Minas Gerais,Sudeste,6,Concluído
+661,308,2025-05-06,Site Próprio,BA,Bahia,Nordeste,2,Concluído
+662,169,2025-03-10,Marketplace,SP,São Paulo,Sudeste,5,Concluído
+663,476,2025-12-22,Site Próprio,AM,Amazonas,Norte,3,Cancelado
+664,150,2024-11-03,Marketplace,SP,São Paulo,Sudeste,1,Concluído
+665,397,2025-05-09,Aplicativo,SP,São Paulo,Sudeste,5,Concluído
+666,342,2024-10-15,Marketplace,RS,Rio Grande do Sul,Sul,1,Concluído
+667,644,2024-11-24,Marketplace,PE,Pernambuco,Nordeste,6,Concluído
+668,405,2025-11-23,Site Próprio,SP,São Paulo,Sudeste,3,Concluído
+669,116,2024-10-01,Marketplace,PR,Paraná,Sul,2,Concluído
+670,128,2024-06-06,Site Próprio,MT,Mato Grosso,Centro-Oeste,4,Cancelado
+671,349,2025-09-06,Marketplace,SP,São Paulo,Sudeste,1,Concluído
+672,370,2025-04-22,Site Próprio,RJ,Rio de Janeiro,Sudeste,2,Concluído
+673,76,2025-09-17,Aplicativo,SC,Santa Catarina,Sul,4,Concluído
+674,322,2025-12-16,Aplicativo,CE,Ceará,Nordeste,1,Cancelado
+675,396,2025-07-27,Site Próprio,SC,Santa Catarina,Sul,6,Concluído
+676,576,2025-05-10,Marketplace,SP,São Paulo,Sudeste,2,Concluído
+677,7,2025-12-02,Marketplace,RJ,Rio de Janeiro,Sudeste,1,Concluído
+678,521,2024-11-02,Site Próprio,SP,São Paulo,Sudeste,2,Concluído
+679,361,2025-11-22,Aplicativo,SP,São Paulo,Sudeste,1,Concluído
+680,263,2025-12-05,Site Próprio,SP,São Paulo,Sudeste,5,Concluído
+681,450,2025-06-01,Aplicativo,MG,Minas Gerais,Sudeste,5,Concluído
+682,347,2025-03-17,Site Próprio,MS,Mato Grosso do Sul,Centro-Oeste,1,Concluído
+683,139,2025-03-12,Aplicativo,RS,Rio Grande do Sul,Sul,5,Concluído
+684,366,2025-10-05,Site Próprio,PR,Paraná,Sul,1,Concluído
+685,177,2025-12-06,Site Próprio,SP,São Paulo,Sudeste,6,Concluído
+686,311,2024-05-01,Site Próprio,SP,São Paulo,Sudeste,2,Concluído
+687,230,2025-06-22,Site Próprio,SP,São Paulo,Sudeste,1,Concluído
+688,432,2025-11-25,Site Próprio,CE,Ceará,Nordeste,1,Cancelado
+689,131,2025-06-06,Marketplace,BA,Bahia,Nordeste,2,Concluído
+690,36,2025-05-01,Marketplace,DF,Distrito Federal,Centro-Oeste,2,Concluído
+691,354,2025-04-21,Marketplace,RS,Rio Grande do Sul,Sul,2,Concluído
+692,311,2025-05-25,Site Próprio,SP,São Paulo,Sudeste,2,Concluído
+693,515,2025-06-03,Marketplace,RJ,Rio de Janeiro,Sudeste,4,Concluído
+694,377,2024-02-27,Site Próprio,SP,São Paulo,Sudeste,2,Concluído
+695,259,2025-11-10,Site Próprio,MG,Minas Gerais,Sudeste,4,Concluído
+696,395,2024-12-17,Aplicativo,RJ,Rio de Janeiro,Sudeste,2,Concluído
+697,424,2025-11-12,Marketplace,RS,Rio Grande do Sul,Sul,6,Concluído
+698,139,2024-04-05,Marketplace,RS,Rio Grande do Sul,Sul,3,Cancelado
+699,485,2025-11-12,Site Próprio,RS,Rio Grande do Sul,Sul,5,Concluído
+700,397,2024-04-21,Marketplace,SP,São Paulo,Sudeste,6,Concluído
+701,247,2024-07-15,Marketplace,DF,Distrito Federal,Centro-Oeste,1,Concluído
+702,520,2025-07-18,Marketplace,SP,São Paulo,Sudeste,1,Concluído
+703,550,2025-02-26,Marketplace,PR,Paraná,Sul,2,Concluído
+704,172,2025-06-09,Site Próprio,SP,São Paulo,Sudeste,6,Concluído
+705,494,2025-02-08,Site Próprio,MA,Maranhão,Nordeste,4,Concluído
+706,360,2024-12-20,Marketplace,CE,Ceará,Nordeste,4,Concluído
+707,94,2025-09-21,Site Próprio,PR,Paraná,Sul,2,Concluído
+708,114,2025-02-13,Marketplace,PA,Pará,Norte,4,Concluído
+709,494,2025-01-06,Marketplace,MA,Maranhão,Nordeste,2,Concluído
+710,610,2024-10-12,Site Próprio,SC,Santa Catarina,Sul,1,Concluído
+711,125,2025-06-27,Site Próprio,MA,Maranhão,Nordeste,6,Concluído
+712,431,2024-10-27,Marketplace,PR,Paraná,Sul,3,Concluído
+713,469,2025-10-27,Marketplace,SP,São Paulo,Sudeste,4,Concluído
+714,53,2025-12-17,Site Próprio,PR,Paraná,Sul,6,Concluído
+715,557,2025-11-10,Marketplace,MS,Mato Grosso do Sul,Centro-Oeste,3,Concluído
+716,350,2025-11-19,Aplicativo,PR,Paraná,Sul,3,Concluído
+717,241,2024-03-22,Marketplace,SP,São Paulo,Sudeste,3,Concluído
+718,55,2025-04-08,Site Próprio,SC,Santa Catarina,Sul,2,Concluído
+719,20,2024-12-21,Marketplace,SP,São Paulo,Sudeste,3,Concluído
+720,105,2025-05-06,Marketplace,MS,Mato Grosso do Sul,Centro-Oeste,5,Concluído
+721,75,2025-12-25,Site Próprio,PR,Paraná,Sul,1,Concluído
+722,319,2025-11-13,Marketplace,MG,Minas Gerais,Sudeste,1,Concluído
+723,139,2024-06-15,Marketplace,RS,Rio Grande do Sul,Sul,2,Cancelado
+724,161,2025-06-18,Site Próprio,RJ,Rio de Janeiro,Sudeste,4,Concluído
+725,361,2025-08-01,Site Próprio,SP,São Paulo,Sudeste,2,Concluído
+726,524,2025-04-22,Site Próprio,PE,Pernambuco,Nordeste,3,Cancelado
+727,551,2024-09-03,Aplicativo,SP,São Paulo,Sudeste,1,Concluído
+728,496,2025-10-24,Site Próprio,SP,São Paulo,Sudeste,4,Concluído
+729,385,2024-04-01,Site Próprio,DF,Distrito Federal,Centro-Oeste,5,Concluído
+730,531,2025-12-13,Site Próprio,SP,São Paulo,Sudeste,6,Concluído
+731,2,2025-10-12,Site Próprio,RS,Rio Grande do Sul,Sul,1,Concluído
+732,359,2025-03-26,Marketplace,SP,São Paulo,Sudeste,1,Concluído
+733,197,2025-05-23,Site Próprio,MG,Minas Gerais,Sudeste,3,Concluído
+734,539,2024-03-12,Site Próprio,MT,Mato Grosso,Centro-Oeste,5,Concluído
+735,142,2025-11-20,Marketplace,RJ,Rio de Janeiro,Sudeste,3,Concluído
+736,283,2025-09-16,Aplicativo,PR,Paraná,Sul,3,Concluído
+737,286,2025-11-21,Marketplace,PR,Paraná,Sul,6,Concluído
+738,444,2024-11-05,Site Próprio,RJ,Rio de Janeiro,Sudeste,6,Concluído
+739,24,2025-12-20,Site Próprio,DF,Distrito Federal,Centro-Oeste,4,Concluído
+740,249,2025-09-13,Site Próprio,MG,Minas Gerais,Sudeste,3,Concluído
+741,548,2025-06-17,Marketplace,MT,Mato Grosso,Centro-Oeste,1,Concluído
+742,582,2024-05-25,Marketplace,BA,Bahia,Nordeste,5,Concluído
+743,614,2024-06-26,Marketplace,SP,São Paulo,Sudeste,3,Concluído
+744,476,2024-04-15,Site Próprio,AM,Amazonas,Norte,5,Concluído
+745,560,2025-05-23,Site Próprio,SP,São Paulo,Sudeste,3,Concluído
+746,412,2025-11-10,Site Próprio,SP,São Paulo,Sudeste,3,Concluído
+747,401,2025-12-15,Marketplace,RS,Rio Grande do Sul,Sul,3,Concluído
+748,477,2025-11-02,Site Próprio,RJ,Rio de Janeiro,Sudeste,6,Concluído
+749,479,2024-12-03,Site Próprio,SP,São Paulo,Sudeste,3,Cancelado
+750,20,2024-09-19,Site Próprio,SP,São Paulo,Sudeste,4,Concluído
+751,125,2025-06-06,Marketplace,MA,Maranhão,Nordeste,6,Concluído
+752,534,2025-11-18,Aplicativo,SP,São Paulo,Sudeste,5,Concluído
+753,213,2025-10-22,Site Próprio,CE,Ceará,Nordeste,6,Concluído
+754,616,2024-08-06,Marketplace,SP,São Paulo,Sudeste,1,Concluído
+755,253,2024-11-15,Site Próprio,RJ,Rio de Janeiro,Sudeste,5,Concluído
+756,589,2025-03-19,Site Próprio,SP,São Paulo,Sudeste,3,Concluído
+757,396,2025-04-14,Marketplace,SC,Santa Catarina,Sul,5,Concluído
+758,354,2024-09-16,Marketplace,RS,Rio Grande do Sul,Sul,1,Concluído
+759,103,2024-12-23,Site Próprio,RJ,Rio de Janeiro,Sudeste,2,Concluído
+760,96,2024-07-01,Site Próprio,PE,Pernambuco,Nordeste,5,Concluído
+761,517,2025-04-07,Marketplace,SP,São Paulo,Sudeste,6,Concluído
+762,342,2024-11-19,Marketplace,RS,Rio Grande do Sul,Sul,6,Concluído
+763,170,2025-11-02,Site Próprio,SP,São Paulo,Sudeste,4,Concluído
+764,517,2025-02-13,Site Próprio,SP,São Paulo,Sudeste,6,Concluído
+765,224,2025-12-17,Site Próprio,SC,Santa Catarina,Sul,2,Concluído
+766,206,2024-05-20,Site Próprio,BA,Bahia,Nordeste,4,Concluído
+767,278,2025-12-14,Site Próprio,BA,Bahia,Nordeste,2,Concluído
+768,52,2025-06-23,Marketplace,SP,São Paulo,Sudeste,3,Concluído
+769,380,2024-10-10,Site Próprio,SP,São Paulo,Sudeste,5,Concluído
+770,504,2025-02-18,Marketplace,SP,São Paulo,Sudeste,4,Concluído
+771,188,2024-08-18,Site Próprio,ES,Espírito Santo,Sudeste,2,Concluído
+772,585,2025-12-02,Site Próprio,DF,Distrito Federal,Centro-Oeste,3,Concluído
+773,165,2025-12-04,Aplicativo,MG,Minas Gerais,Sudeste,1,Concluído
+774,409,2025-06-01,Aplicativo,SP,São Paulo,Sudeste,2,Concluído
+775,87,2025-07-21,Marketplace,SP,São Paulo,Sudeste,4,Concluído
+776,579,2025-11-10,Marketplace,SP,São Paulo,Sudeste,4,Concluído
+777,515,2024-12-23,Marketplace,RJ,Rio de Janeiro,Sudeste,3,Concluído
+778,394,2025-09-03,Site Próprio,SP,São Paulo,Sudeste,6,Concluído
+779,89,2025-07-27,Marketplace,RJ,Rio de Janeiro,Sudeste,2,Concluído
+780,122,2025-05-06,Site Próprio,MS,Mato Grosso do Sul,Centro-Oeste,1,Concluído
+781,447,2025-11-08,Marketplace,RJ,Rio de Janeiro,Sudeste,5,Concluído
+782,226,2024-03-08,Site Próprio,RJ,Rio de Janeiro,Sudeste,2,Concluído
+783,24,2025-09-26,Marketplace,DF,Distrito Federal,Centro-Oeste,5,Concluído
+784,500,2025-05-11,Site Próprio,MG,Minas Gerais,Sudeste,1,Concluído
+785,566,2024-09-21,Site Próprio,GO,Goiás,Centro-Oeste,3,Concluído
+786,600,2024-07-01,Site Próprio,RS,Rio Grande do Sul,Sul,6,Concluído
+787,139,2024-09-19,Marketplace,RS,Rio Grande do Sul,Sul,4,Concluído
+788,272,2025-04-05,Site Próprio,SC,Santa Catarina,Sul,3,Concluído
+789,255,2025-06-25,Marketplace,RJ,Rio de Janeiro,Sudeste,4,Concluído
+790,346,2025-10-22,Site Próprio,SP,São Paulo,Sudeste,3,Cancelado
+791,188,2025-08-13,Site Próprio,ES,Espírito Santo,Sudeste,3,Concluído
+792,585,2025-12-09,Marketplace,DF,Distrito Federal,Centro-Oeste,3,Concluído
+793,213,2025-12-22,Site Próprio,CE,Ceará,Nordeste,4,Concluído
+794,454,2025-12-07,Site Próprio,SP,São Paulo,Sudeste,3,Concluído
+795,463,2025-11-04,Site Próprio,RJ,Rio de Janeiro,Sudeste,5,Concluído
+796,545,2025-09-10,Marketplace,SC,Santa Catarina,Sul,4,Concluído
+797,231,2024-11-24,Marketplace,RS,Rio Grande do Sul,Sul,5,Concluído
+798,228,2025-12-25,Marketplace,SP,São Paulo,Sudeste,1,Concluído
+799,58,2025-10-03,Marketplace,SP,São Paulo,Sudeste,6,Concluído
+800,302,2024-11-18,Marketplace,BA,Bahia,Nordeste,3,Concluído
+801,2,2025-07-17,Site Próprio,RS,Rio Grande do Sul,Sul,2,Concluído
+802,114,2025-11-22,Marketplace,PA,Pará,Norte,5,Cancelado
+803,198,2025-10-19,Site Próprio,SP,São Paulo,Sudeste,1,Concluído
+804,546,2024-07-11,Site Próprio,SP,São Paulo,Sudeste,3,Concluído
+805,164,2025-01-24,Site Próprio,BA,Bahia,Nordeste,2,Concluído
+806,146,2024-06-19,Site Próprio,DF,Distrito Federal,Centro-Oeste,6,Concluído
+807,527,2025-06-08,Marketplace,SP,São Paulo,Sudeste,2,Concluído
+808,274,2025-11-17,Site Próprio,RJ,Rio de Janeiro,Sudeste,4,Concluído
+809,92,2024-06-23,Aplicativo,RS,Rio Grande do Sul,Sul,6,Concluído
+810,216,2024-09-18,Marketplace,RJ,Rio de Janeiro,Sudeste,6,Cancelado
+811,498,2025-12-11,Site Próprio,SP,São Paulo,Sudeste,3,Concluído
+812,68,2025-05-25,Site Próprio,RJ,Rio de Janeiro,Sudeste,1,Concluído
+813,70,2025-03-12,Marketplace,MS,Mato Grosso do Sul,Centro-Oeste,2,Concluído
+814,319,2025-09-19,Site Próprio,MG,Minas Gerais,Sudeste,1,Concluído
+815,648,2025-11-08,Site Próprio,GO,Goiás,Centro-Oeste,3,Concluído
+816,502,2025-04-22,Marketplace,GO,Goiás,Centro-Oeste,3,Concluído
+817,547,2025-11-25,Site Próprio,SP,São Paulo,Sudeste,1,Cancelado
+818,298,2025-05-16,Marketplace,CE,Ceará,Nordeste,2,Concluído
+819,10,2025-11-20,Marketplace,PE,Pernambuco,Nordeste,5,Cancelado
+820,603,2025-11-09,Marketplace,RS,Rio Grande do Sul,Sul,5,Cancelado
+821,328,2025-04-12,Site Próprio,PE,Pernambuco,Nordeste,3,Concluído
+822,175,2025-12-07,Site Próprio,SP,São Paulo,Sudeste,3,Concluído
+823,28,2024-06-22,Site Próprio,ES,Espírito Santo,Sudeste,4,Cancelado
+824,119,2025-11-16,Aplicativo,CE,Ceará,Nordeste,4,Concluído
+825,582,2024-11-13,Site Próprio,BA,Bahia,Nordeste,4,Concluído
+826,458,2025-11-14,Marketplace,SP,São Paulo,Sudeste,4,Concluído
+827,227,2025-03-22,Marketplace,SP,São Paulo,Sudeste,1,Concluído
+828,573,2024-11-18,Site Próprio,MG,Minas Gerais,Sudeste,6,Concluído
+829,245,2025-06-24,Marketplace,CE,Ceará,Nordeste,2,Concluído
+830,333,2024-11-01,Site Próprio,SC,Santa Catarina,Sul,6,Concluído
+831,43,2024-05-16,Aplicativo,SP,São Paulo,Sudeste,1,Concluído
+832,632,2025-12-18,Site Próprio,SP,São Paulo,Sudeste,4,Concluído
+833,390,2024-12-09,Marketplace,SP,São Paulo,Sudeste,1,Concluído
+834,474,2025-10-26,Site Próprio,RS,Rio Grande do Sul,Sul,3,Cancelado
+835,146,2024-07-14,Site Próprio,DF,Distrito Federal,Centro-Oeste,6,Concluído
+836,343,2025-08-10,Site Próprio,ES,Espírito Santo,Sudeste,5,Concluído
+837,404,2025-12-06,Marketplace,SP,São Paulo,Sudeste,5,Concluído
+838,40,2025-01-19,Aplicativo,BA,Bahia,Nordeste,3,Concluído
+839,317,2025-10-20,Site Próprio,SC,Santa Catarina,Sul,2,Concluído
+840,145,2025-03-03,Site Próprio,RS,Rio Grande do Sul,Sul,3,Concluído
+841,387,2024-07-07,Marketplace,SC,Santa Catarina,Sul,2,Concluído
+842,125,2025-09-23,Site Próprio,MA,Maranhão,Nordeste,2,Concluído
+843,129,2025-04-25,Marketplace,PR,Paraná,Sul,6,Concluído
+844,87,2025-11-12,Site Próprio,SP,São Paulo,Sudeste,5,Concluído
+845,260,2025-08-23,Site Próprio,SP,São Paulo,Sudeste,2,Cancelado
+846,350,2024-12-16,Marketplace,PR,Paraná,Sul,4,Concluído
+847,26,2024-10-04,Site Próprio,SP,São Paulo,Sudeste,4,Concluído
+848,273,2025-11-01,Marketplace,SP,São Paulo,Sudeste,4,Concluído
+849,128,2025-01-11,Site Próprio,MT,Mato Grosso,Centro-Oeste,1,Concluído
+850,171,2025-08-03,Marketplace,SP,São Paulo,Sudeste,2,Concluído
+851,416,2025-02-11,Aplicativo,PR,Paraná,Sul,4,Concluído
+852,152,2025-05-27,Site Próprio,RS,Rio Grande do Sul,Sul,5,Concluído
+853,34,2025-05-21,Marketplace,MG,Minas Gerais,Sudeste,6,Concluído
+854,494,2024-04-26,Marketplace,MA,Maranhão,Nordeste,2,Concluído
+855,79,2024-04-16,Site Próprio,BA,Bahia,Nordeste,1,Concluído
+856,308,2025-06-22,Site Próprio,BA,Bahia,Nordeste,4,Concluído
+857,585,2024-12-05,Site Próprio,DF,Distrito Federal,Centro-Oeste,4,Cancelado
+858,224,2024-07-01,Site Próprio,SC,Santa Catarina,Sul,1,Concluído
+859,458,2025-11-16,Aplicativo,SP,São Paulo,Sudeste,1,Concluído
+860,446,2025-08-09,Site Próprio,RS,Rio Grande do Sul,Sul,3,Concluído
+861,110,2024-11-19,Site Próprio,SP,São Paulo,Sudeste,1,Concluído
+862,47,2025-03-21,Site Próprio,SP,São Paulo,Sudeste,2,Concluído
+863,359,2025-09-03,Site Próprio,SP,São Paulo,Sudeste,2,Concluído
+864,568,2024-09-20,Aplicativo,BA,Bahia,Nordeste,6,Concluído
+865,638,2024-12-10,Marketplace,SC,Santa Catarina,Sul,4,Concluído
+866,605,2025-05-14,Marketplace,PE,Pernambuco,Nordeste,6,Cancelado
+867,272,2025-05-19,Site Próprio,SC,Santa Catarina,Sul,5,Concluído
+868,583,2025-08-21,Marketplace,SP,São Paulo,Sudeste,4,Concluído
+869,414,2025-12-16,Aplicativo,RS,Rio Grande do Sul,Sul,3,Concluído
+870,485,2024-06-17,Site Próprio,RS,Rio Grande do Sul,Sul,2,Cancelado
+871,419,2025-01-02,Site Próprio,SP,São Paulo,Sudeste,4,Concluído
+872,472,2024-05-10,Marketplace,SC,Santa Catarina,Sul,4,Concluído
+873,138,2025-09-01,Marketplace,MG,Minas Gerais,Sudeste,2,Concluído
+874,423,2025-01-15,Site Próprio,MS,Mato Grosso do Sul,Centro-Oeste,1,Concluído
+875,543,2025-12-27,Marketplace,DF,Distrito Federal,Centro-Oeste,2,Concluído
+876,429,2025-11-10,Site Próprio,RJ,Rio de Janeiro,Sudeste,4,Concluído
+877,82,2024-11-25,Site Próprio,MG,Minas Gerais,Sudeste,4,Concluído
+878,43,2025-12-23,Marketplace,SP,São Paulo,Sudeste,6,Concluído
+879,157,2024-07-24,Aplicativo,SC,Santa Catarina,Sul,4,Concluído
+880,243,2025-09-08,Site Próprio,SP,São Paulo,Sudeste,1,Concluído
+881,358,2025-11-06,Aplicativo,DF,Distrito Federal,Centro-Oeste,3,Concluído
+882,530,2025-05-13,Site Próprio,SP,São Paulo,Sudeste,2,Concluído
+883,345,2024-12-06,Site Próprio,MG,Minas Gerais,Sudeste,6,Cancelado
+884,60,2025-09-20,Site Próprio,CE,Ceará,Nordeste,5,Concluído
+885,229,2025-12-10,Marketplace,MS,Mato Grosso do Sul,Centro-Oeste,2,Concluído
+886,374,2025-08-23,Marketplace,SP,São Paulo,Sudeste,6,Concluído
+887,70,2024-12-04,Site Próprio,MS,Mato Grosso do Sul,Centro-Oeste,4,Concluído
+888,130,2025-03-27,Site Próprio,SP,São Paulo,Sudeste,5,Concluído
+889,469,2025-03-21,Marketplace,SP,São Paulo,Sudeste,4,Concluído
+890,607,2024-12-04,Site Próprio,RJ,Rio de Janeiro,Sudeste,2,Concluído
+891,444,2024-04-19,Site Próprio,RJ,Rio de Janeiro,Sudeste,3,Concluído
+892,478,2025-11-11,Site Próprio,PR,Paraná,Sul,2,Concluído
+893,339,2025-07-20,Site Próprio,SP,São Paulo,Sudeste,6,Concluído
+894,3,2025-11-21,Site Próprio,PE,Pernambuco,Nordeste,1,Concluído
+895,190,2025-06-10,Site Próprio,SP,São Paulo,Sudeste,1,Concluído
+896,616,2025-12-20,Site Próprio,SP,São Paulo,Sudeste,2,Concluído
+897,139,2025-04-14,Marketplace,RS,Rio Grande do Sul,Sul,5,Concluído
+898,353,2024-11-10,Marketplace,SP,São Paulo,Sudeste,2,Concluído
+899,436,2024-05-04,Site Próprio,MA,Maranhão,Nordeste,5,Concluído
+900,147,2025-09-26,Marketplace,SP,São Paulo,Sudeste,6,Cancelado
+901,401,2025-07-03,Marketplace,RS,Rio Grande do Sul,Sul,5,Concluído
+902,383,2025-11-27,Marketplace,CE,Ceará,Nordeste,2,Concluído
+903,533,2025-04-05,Marketplace,BA,Bahia,Nordeste,6,Concluído
+904,227,2025-11-27,Site Próprio,SP,São Paulo,Sudeste,5,Concluído
+905,434,2025-03-01,Site Próprio,SP,São Paulo,Sudeste,6,Concluído
+906,171,2024-12-08,Marketplace,SP,São Paulo,Sudeste,3,Concluído
+907,302,2024-06-22,Aplicativo,BA,Bahia,Nordeste,5,Concluído
+908,323,2025-08-17,Site Próprio,MG,Minas Gerais,Sudeste,2,Concluído
+909,214,2024-11-27,Site Próprio,PR,Paraná,Sul,3,Concluído
+910,20,2025-12-20,Site Próprio,SP,São Paulo,Sudeste,5,Concluído
+911,280,2024-10-24,Site Próprio,GO,Goiás,Centro-Oeste,3,Concluído
+912,219,2024-12-16,Site Próprio,GO,Goiás,Centro-Oeste,1,Concluído
+913,53,2024-05-18,Site Próprio,PR,Paraná,Sul,3,Concluído
+914,4,2024-08-16,Aplicativo,SP,São Paulo,Sudeste,6,Concluído
+915,584,2024-11-23,Marketplace,SP,São Paulo,Sudeste,3,Concluído
+916,4,2025-08-04,Site Próprio,SP,São Paulo,Sudeste,6,Concluído
+917,258,2025-05-25,Aplicativo,SP,São Paulo,Sudeste,2,Concluído
+918,573,2024-06-16,Site Próprio,MG,Minas Gerais,Sudeste,3,Concluído
+919,566,2025-11-04,Site Próprio,GO,Goiás,Centro-Oeste,1,Concluído
+920,286,2024-06-27,Site Próprio,PR,Paraná,Sul,5,Concluído
+921,230,2025-11-12,Marketplace,SP,São Paulo,Sudeste,4,Cancelado
+922,375,2024-10-05,Marketplace,PR,Paraná,Sul,3,Concluído
+923,372,2025-11-12,Site Próprio,BA,Bahia,Nordeste,2,Concluído
+924,219,2025-03-03,Aplicativo,GO,Goiás,Centro-Oeste,5,Concluído
+925,290,2025-07-26,Marketplace,CE,Ceará,Nordeste,2,Concluído
+926,557,2025-01-06,Aplicativo,MS,Mato Grosso do Sul,Centro-Oeste,5,Concluído
+927,43,2024-11-05,Site Próprio,SP,São Paulo,Sudeste,6,Concluído
+928,428,2025-10-21,Marketplace,MS,Mato Grosso do Sul,Centro-Oeste,3,Concluído
+929,178,2024-05-05,Site Próprio,SP,São Paulo,Sudeste,3,Concluído
+930,37,2025-09-01,Marketplace,PR,Paraná,Sul,4,Cancelado
+931,264,2024-10-20,Marketplace,CE,Ceará,Nordeste,5,Concluído
+932,564,2025-12-05,Site Próprio,DF,Distrito Federal,Centro-Oeste,3,Concluído
+933,356,2025-06-05,Site Próprio,RJ,Rio de Janeiro,Sudeste,2,Concluído
+934,11,2024-02-22,Site Próprio,SP,São Paulo,Sudeste,2,Concluído
+935,252,2025-11-26,Marketplace,RS,Rio Grande do Sul,Sul,4,Concluído
+936,424,2025-04-08,Aplicativo,RS,Rio Grande do Sul,Sul,6,Concluído
+937,155,2025-11-04,Aplicativo,SP,São Paulo,Sudeste,4,Concluído
+938,599,2025-10-07,Site Próprio,SC,Santa Catarina,Sul,3,Concluído
+939,613,2025-11-21,Site Próprio,PR,Paraná,Sul,5,Concluído
+940,342,2024-11-18,Site Próprio,RS,Rio Grande do Sul,Sul,3,Concluído
+941,270,2024-10-20,Site Próprio,SC,Santa Catarina,Sul,5,Concluído
+942,251,2025-04-08,Aplicativo,RJ,Rio de Janeiro,Sudeste,3,Concluído
+943,85,2025-04-14,Site Próprio,MT,Mato Grosso,Centro-Oeste,1,Concluído
+944,77,2025-01-21,Aplicativo,SP,São Paulo,Sudeste,1,Concluído
+945,157,2025-11-19,Site Próprio,SC,Santa Catarina,Sul,2,Concluído
+946,478,2025-12-04,Site Próprio,PR,Paraná,Sul,4,Concluído
+947,198,2025-10-13,Marketplace,SP,São Paulo,Sudeste,5,Concluído
+948,541,2024-05-15,Marketplace,PE,Pernambuco,Nordeste,1,Concluído
+949,493,2025-11-20,Site Próprio,SP,São Paulo,Sudeste,2,Concluído
+950,371,2025-08-07,Site Próprio,SP,São Paulo,Sudeste,5,Concluído
+951,631,2024-11-27,Site Próprio,SP,São Paulo,Sudeste,2,Concluído
+952,198,2025-01-16,Marketplace,SP,São Paulo,Sudeste,6,Concluído
+953,77,2025-07-26,Site Próprio,SP,São Paulo,Sudeste,1,Concluído
+954,379,2024-06-17,Site Próprio,PR,Paraná,Sul,1,Concluído
+955,36,2025-02-10,Site Próprio,DF,Distrito Federal,Centro-Oeste,4,Concluído
+956,261,2025-05-03,Aplicativo,MG,Minas Gerais,Sudeste,5,Concluído
+957,457,2025-02-16,Site Próprio,SP,São Paulo,Sudeste,4,Concluído
+958,428,2025-05-04,Site Próprio,MS,Mato Grosso do Sul,Centro-Oeste,2,Concluído
+959,136,2025-03-17,Site Próprio,SP,São Paulo,Sudeste,3,Concluído
+960,280,2025-09-23,Aplicativo,GO,Goiás,Centro-Oeste,3,Concluído
+961,532,2025-10-18,Marketplace,SP,São Paulo,Sudeste,5,Cancelado
+962,110,2025-11-10,Marketplace,SP,São Paulo,Sudeste,2,Concluído
+963,446,2025-07-22,Marketplace,RS,Rio Grande do Sul,Sul,5,Concluído
+964,641,2025-12-11,Marketplace,BA,Bahia,Nordeste,2,Concluído
+965,572,2025-06-02,Site Próprio,MG,Minas Gerais,Sudeste,2,Concluído
+966,424,2024-11-12,Site Próprio,RS,Rio Grande do Sul,Sul,6,Concluído
+967,526,2025-05-05,Site Próprio,SP,São Paulo,Sudeste,3,Concluído
+968,284,2025-10-18,Aplicativo,SP,São Paulo,Sudeste,1,Concluído
+969,245,2025-10-11,Marketplace,CE,Ceará,Nordeste,4,Concluído
+970,497,2025-09-10,Marketplace,PE,Pernambuco,Nordeste,6,Concluído
+971,207,2024-12-14,Site Próprio,SC,Santa Catarina,Sul,6,Concluído
+972,28,2025-02-04,Aplicativo,ES,Espírito Santo,Sudeste,3,Concluído
+973,542,2025-04-01,Marketplace,RJ,Rio de Janeiro,Sudeste,2,Concluído
+974,132,2025-07-17,Site Próprio,MG,Minas Gerais,Sudeste,3,Concluído
+975,391,2025-07-09,Site Próprio,RJ,Rio de Janeiro,Sudeste,5,Concluído
+976,579,2025-09-08,Site Próprio,SP,São Paulo,Sudeste,5,Concluído
+977,576,2024-12-06,Aplicativo,SP,São Paulo,Sudeste,5,Concluído
+978,286,2025-12-25,Site Próprio,PR,Paraná,Sul,2,Concluído
+979,461,2025-05-17,Marketplace,MG,Minas Gerais,Sudeste,4,Concluído
+980,591,2025-12-24,Site Próprio,SP,São Paulo,Sudeste,1,Concluído
+981,587,2025-08-16,Site Próprio,RS,Rio Grande do Sul,Sul,1,Concluído
+982,298,2025-01-24,Site Próprio,CE,Ceará,Nordeste,6,Concluído
+983,571,2025-09-23,Aplicativo,SC,Santa Catarina,Sul,2,Concluído
+984,542,2024-12-10,Marketplace,RJ,Rio de Janeiro,Sudeste,2,Concluído
+985,196,2025-10-18,Site Próprio,SP,São Paulo,Sudeste,6,Concluído
+986,352,2024-05-23,Marketplace,SP,São Paulo,Sudeste,6,Concluído
+987,336,2025-05-04,Marketplace,SP,São Paulo,Sudeste,1,Concluído
+988,560,2024-04-18,Marketplace,SP,São Paulo,Sudeste,3,Concluído
+989,469,2024-04-08,Marketplace,SP,São Paulo,Sudeste,4,Concluído
+990,189,2025-11-09,Marketplace,SC,Santa Catarina,Sul,3,Concluído
+991,168,2025-12-14,Site Próprio,SP,São Paulo,Sudeste,5,Concluído
+992,301,2025-08-01,Marketplace,RS,Rio Grande do Sul,Sul,4,Concluído
+993,558,2024-05-25,Marketplace,PA,Pará,Norte,5,Concluído
+994,590,2025-01-18,Marketplace,RS,Rio Grande do Sul,Sul,3,Cancelado
+995,216,2024-05-11,Marketplace,RJ,Rio de Janeiro,Sudeste,2,Concluído
+996,374,2024-05-22,Site Próprio,SP,São Paulo,Sudeste,5,Concluído
+997,26,2025-03-20,Aplicativo,SP,São Paulo,Sudeste,3,Concluído
+998,497,2025-05-19,Marketplace,PE,Pernambuco,Nordeste,1,Concluído
+999,300,2024-02-04,Site Próprio,BA,Bahia,Nordeste,3,Concluído
+1000,13,2024-05-12,Marketplace,SP,São Paulo,Sudeste,1,Concluído
+1001,634,2025-11-08,Site Próprio,RS,Rio Grande do Sul,Sul,1,Concluído
+1002,108,2025-09-19,Site Próprio,RS,Rio Grande do Sul,Sul,1,Concluído
+1003,457,2025-05-19,Site Próprio,SP,São Paulo,Sudeste,6,Concluído
+1004,587,2025-06-18,Site Próprio,RS,Rio Grande do Sul,Sul,6,Concluído
+1005,70,2024-11-24,Site Próprio,MS,Mato Grosso do Sul,Centro-Oeste,3,Concluído
+1006,577,2024-08-18,Marketplace,SP,São Paulo,Sudeste,6,Concluído
+1007,390,2024-09-05,Marketplace,SP,São Paulo,Sudeste,3,Concluído
+1008,618,2025-01-08,Marketplace,SP,São Paulo,Sudeste,6,Concluído
+1009,450,2025-07-17,Marketplace,MG,Minas Gerais,Sudeste,2,Concluído
+1010,526,2024-09-16,Marketplace,SP,São Paulo,Sudeste,3,Concluído
+1011,538,2024-07-01,Site Próprio,RJ,Rio de Janeiro,Sudeste,4,Concluído
+1012,139,2024-11-17,Marketplace,RS,Rio Grande do Sul,Sul,2,Concluído
+1013,577,2025-06-03,Site Próprio,SP,São Paulo,Sudeste,6,Concluído
+1014,421,2025-02-14,Site Próprio,ES,Espírito Santo,Sudeste,5,Concluído
+1015,184,2025-11-10,Marketplace,SP,São Paulo,Sudeste,1,Concluído
+1016,449,2024-10-16,Site Próprio,SP,São Paulo,Sudeste,4,Concluído
+1017,234,2024-05-25,Site Próprio,MG,Minas Gerais,Sudeste,2,Concluído
+1018,458,2025-05-15,Site Próprio,SP,São Paulo,Sudeste,5,Concluído
+1019,176,2024-05-04,Site Próprio,GO,Goiás,Centro-Oeste,5,Concluído
+1020,549,2025-04-20,Site Próprio,SP,São Paulo,Sudeste,4,Concluído
+1021,82,2025-02-13,Marketplace,MG,Minas Gerais,Sudeste,6,Concluído
+1022,27,2024-08-26,Marketplace,SP,São Paulo,Sudeste,5,Concluído
+1023,586,2025-09-19,Site Próprio,RJ,Rio de Janeiro,Sudeste,6,Concluído
+1024,571,2024-11-22,Site Próprio,SC,Santa Catarina,Sul,6,Concluído
+1025,291,2025-12-11,Site Próprio,PE,Pernambuco,Nordeste,6,Cancelado
+1026,174,2025-12-07,Marketplace,MS,Mato Grosso do Sul,Centro-Oeste,3,Concluído
+1027,131,2025-01-18,Marketplace,BA,Bahia,Nordeste,4,Concluído
+1028,80,2024-06-25,Site Próprio,CE,Ceará,Nordeste,5,Concluído
+1029,167,2025-02-11,Site Próprio,SP,São Paulo,Sudeste,6,Concluído
+1030,512,2024-12-08,Site Próprio,RJ,Rio de Janeiro,Sudeste,1,Concluído
+1031,567,2025-12-15,Site Próprio,RJ,Rio de Janeiro,Sudeste,2,Concluído
+1032,83,2024-06-07,Site Próprio,DF,Distrito Federal,Centro-Oeste,6,Concluído
+1033,33,2025-07-14,Aplicativo,MG,Minas Gerais,Sudeste,2,Concluído
+1034,105,2025-05-27,Marketplace,MS,Mato Grosso do Sul,Centro-Oeste,1,Concluído
+1035,65,2025-10-21,Site Próprio,CE,Ceará,Nordeste,6,Concluído
+1036,159,2025-11-11,Site Próprio,MG,Minas Gerais,Sudeste,1,Concluído
+1037,104,2024-07-10,Marketplace,SP,São Paulo,Sudeste,3,Concluído
+1038,427,2025-12-12,Site Próprio,PR,Paraná,Sul,6,Concluído
+1039,488,2025-11-16,Aplicativo,RJ,Rio de Janeiro,Sudeste,4,Concluído
+1040,336,2024-03-21,Site Próprio,SP,São Paulo,Sudeste,3,Concluído
+1041,315,2025-09-22,Marketplace,MS,Mato Grosso do Sul,Centro-Oeste,1,Concluído
+1042,258,2025-06-22,Marketplace,SP,São Paulo,Sudeste,5,Concluído
+1043,177,2024-11-11,Marketplace,SP,São Paulo,Sudeste,2,Concluído
+1044,494,2025-01-26,Site Próprio,MA,Maranhão,Nordeste,1,Concluído
+1045,495,2025-05-06,Marketplace,PE,Pernambuco,Nordeste,2,Concluído
+1046,460,2024-11-25,Site Próprio,SP,São Paulo,Sudeste,3,Concluído
+1047,523,2025-08-08,Site Próprio,SP,São Paulo,Sudeste,2,Concluído
+1048,455,2025-03-20,Aplicativo,ES,Espírito Santo,Sudeste,1,Cancelado
+1049,323,2025-04-14,Marketplace,MG,Minas Gerais,Sudeste,5,Concluído
+1050,610,2025-07-19,Marketplace,SC,Santa Catarina,Sul,1,Concluído
+1051,357,2025-03-24,Marketplace,SP,São Paulo,Sudeste,5,Concluído
+1052,569,2024-08-26,Aplicativo,MG,Minas Gerais,Sudeste,3,Concluído
+1053,603,2025-11-01,Aplicativo,RS,Rio Grande do Sul,Sul,3,Concluído
+1054,229,2024-11-12,Site Próprio,MS,Mato Grosso do Sul,Centro-Oeste,3,Concluído
+1055,276,2025-02-01,Site Próprio,SC,Santa Catarina,Sul,4,Concluído
+1056,117,2025-12-23,Marketplace,PE,Pernambuco,Nordeste,3,Concluído
+1057,60,2025-12-06,Site Próprio,CE,Ceará,Nordeste,2,Concluído
+1058,292,2025-06-16,Aplicativo,SP,São Paulo,Sudeste,3,Concluído
+1059,511,2025-08-07,Marketplace,BA,Bahia,Nordeste,3,Concluído
+1060,431,2025-09-07,Site Próprio,PR,Paraná,Sul,1,Concluído
+1061,79,2025-03-07,Site Próprio,BA,Bahia,Nordeste,4,Concluído
+1062,208,2024-11-09,Marketplace,PR,Paraná,Sul,2,Concluído
+1063,92,2024-04-06,Marketplace,RS,Rio Grande do Sul,Sul,3,Concluído
+1064,386,2024-07-16,Marketplace,RJ,Rio de Janeiro,Sudeste,5,Concluído
+1065,487,2024-10-07,Site Próprio,PR,Paraná,Sul,6,Concluído
+1066,364,2025-09-05,Aplicativo,GO,Goiás,Centro-Oeste,3,Concluído
+1067,484,2024-11-14,Aplicativo,SP,São Paulo,Sudeste,3,Concluído
+1068,301,2024-12-24,Marketplace,RS,Rio Grande do Sul,Sul,4,Concluído
+1069,277,2024-11-10,Marketplace,RJ,Rio de Janeiro,Sudeste,3,Concluído
+1070,454,2025-05-21,Site Próprio,SP,São Paulo,Sudeste,4,Concluído
+1071,358,2025-09-12,Marketplace,DF,Distrito Federal,Centro-Oeste,2,Concluído
+1072,21,2025-02-09,Site Próprio,CE,Ceará,Nordeste,5,Concluído
+1073,620,2025-05-03,Site Próprio,SP,São Paulo,Sudeste,3,Concluído
+1074,379,2025-11-24,Marketplace,PR,Paraná,Sul,2,Concluído
+1075,300,2025-03-16,Site Próprio,BA,Bahia,Nordeste,5,Concluído
+1076,222,2024-10-11,Marketplace,SP,São Paulo,Sudeste,1,Concluído
+1077,244,2025-11-21,Site Próprio,SP,São Paulo,Sudeste,3,Concluído
+1078,508,2025-05-18,Site Próprio,SP,São Paulo,Sudeste,3,Concluído
+1079,571,2025-10-08,Site Próprio,SC,Santa Catarina,Sul,1,Cancelado
+1080,392,2025-02-11,Marketplace,SP,São Paulo,Sudeste,5,Concluído
+1081,530,2025-03-02,Site Próprio,SP,São Paulo,Sudeste,3,Cancelado
+1082,243,2024-12-07,Marketplace,SP,São Paulo,Sudeste,2,Concluído
+1083,650,2025-10-11,Site Próprio,CE,Ceará,Nordeste,3,Cancelado
+1084,214,2024-05-15,Marketplace,PR,Paraná,Sul,1,Concluído
+1085,614,2025-07-17,Marketplace,SP,São Paulo,Sudeste,4,Concluído
+1086,500,2025-05-23,Site Próprio,MG,Minas Gerais,Sudeste,6,Concluído
+1087,71,2025-11-17,Marketplace,SP,São Paulo,Sudeste,1,Concluído
+1088,216,2024-09-23,Site Próprio,RJ,Rio de Janeiro,Sudeste,5,Concluído
+1089,479,2024-11-21,Site Próprio,SP,São Paulo,Sudeste,4,Concluído
+1090,211,2025-08-14,Site Próprio,ES,Espírito Santo,Sudeste,5,Concluído
+1091,465,2025-07-22,Marketplace,RS,Rio Grande do Sul,Sul,1,Concluído
+1092,344,2025-02-02,Site Próprio,SP,São Paulo,Sudeste,3,Concluído
+1093,472,2025-08-01,Marketplace,SC,Santa Catarina,Sul,2,Concluído
+1094,219,2024-12-01,Site Próprio,GO,Goiás,Centro-Oeste,6,Concluído
+1095,625,2025-12-24,Aplicativo,MG,Minas Gerais,Sudeste,6,Cancelado
+1096,545,2025-10-11,Site Próprio,SC,Santa Catarina,Sul,5,Concluído
+1097,507,2024-09-23,Site Próprio,RJ,Rio de Janeiro,Sudeste,3,Concluído
+1098,32,2024-12-10,Marketplace,CE,Ceará,Nordeste,2,Concluído
+1099,461,2025-09-25,Site Próprio,MG,Minas Gerais,Sudeste,4,Concluído
+1100,580,2024-04-27,Marketplace,RS,Rio Grande do Sul,Sul,6,Concluído
+1101,452,2024-12-18,Marketplace,MT,Mato Grosso,Centro-Oeste,1,Concluído
+1102,586,2025-12-07,Marketplace,RJ,Rio de Janeiro,Sudeste,5,Concluído
+1103,461,2025-06-14,Marketplace,MG,Minas Gerais,Sudeste,3,Concluído
+1104,96,2024-11-07,Site Próprio,PE,Pernambuco,Nordeste,2,Concluído
+1105,468,2025-09-05,Site Próprio,SP,São Paulo,Sudeste,3,Concluído
+1106,59,2025-04-11,Site Próprio,SP,São Paulo,Sudeste,4,Cancelado
+1107,139,2024-10-18,Marketplace,RS,Rio Grande do Sul,Sul,1,Concluído
+1108,377,2025-06-02,Site Próprio,SP,São Paulo,Sudeste,5,Concluído
+1109,67,2025-01-27,Site Próprio,MG,Minas Gerais,Sudeste,1,Concluído
+1110,86,2025-08-07,Marketplace,RS,Rio Grande do Sul,Sul,4,Concluído
+1111,293,2025-11-19,Marketplace,PR,Paraná,Sul,3,Concluído
+1112,220,2024-11-15,Marketplace,RS,Rio Grande do Sul,Sul,3,Concluído
+1113,538,2025-06-11,Site Próprio,RJ,Rio de Janeiro,Sudeste,2,Concluído
+1114,361,2025-10-24,Marketplace,SP,São Paulo,Sudeste,6,Concluído
+1115,245,2025-08-17,Site Próprio,CE,Ceará,Nordeste,3,Concluído
+1116,642,2025-12-10,Site Próprio,RJ,Rio de Janeiro,Sudeste,2,Concluído
+1117,32,2024-11-23,Marketplace,CE,Ceará,Nordeste,3,Concluído
+1118,461,2025-08-27,Aplicativo,MG,Minas Gerais,Sudeste,2,Concluído
+1119,21,2025-11-16,Aplicativo,CE,Ceará,Nordeste,4,Concluído
+1120,319,2024-12-01,Site Próprio,MG,Minas Gerais,Sudeste,3,Concluído
+1121,377,2024-07-16,Site Próprio,SP,São Paulo,Sudeste,1,Concluído
+1122,251,2025-12-07,Site Próprio,RJ,Rio de Janeiro,Sudeste,4,Concluído
+1123,586,2025-11-05,Site Próprio,RJ,Rio de Janeiro,Sudeste,1,Concluído
+1124,358,2024-10-15,Marketplace,DF,Distrito Federal,Centro-Oeste,6,Concluído
+1125,75,2025-04-01,Marketplace,PR,Paraná,Sul,5,Concluído
+1126,467,2025-02-13,Site Próprio,RJ,Rio de Janeiro,Sudeste,5,Concluído
+1127,441,2025-06-17,Marketplace,RJ,Rio de Janeiro,Sudeste,5,Concluído
+1128,521,2025-11-15,Marketplace,SP,São Paulo,Sudeste,2,Concluído
+1129,347,2024-08-27,Site Próprio,MS,Mato Grosso do Sul,Centro-Oeste,4,Concluído
+1130,323,2024-12-01,Site Próprio,MG,Minas Gerais,Sudeste,5,Concluído
+1131,649,2025-11-14,Marketplace,PR,Paraná,Sul,2,Concluído
+1132,599,2025-02-07,Marketplace,SC,Santa Catarina,Sul,1,Concluído
+1133,295,2025-10-16,Aplicativo,BA,Bahia,Nordeste,3,Concluído
+1134,327,2025-10-15,Marketplace,RJ,Rio de Janeiro,Sudeste,6,Concluído
+1135,360,2025-05-22,Site Próprio,CE,Ceará,Nordeste,4,Concluído
+1136,558,2025-12-26,Marketplace,PA,Pará,Norte,2,Concluído
+1137,180,2024-09-08,Marketplace,SP,São Paulo,Sudeste,6,Concluído
+1138,514,2024-11-24,Site Próprio,MS,Mato Grosso do Sul,Centro-Oeste,1,Concluído
+1139,626,2024-11-27,Site Próprio,RS,Rio Grande do Sul,Sul,1,Concluído
+1140,187,2024-07-21,Marketplace,MS,Mato Grosso do Sul,Centro-Oeste,3,Concluído
+1141,370,2024-11-27,Site Próprio,RJ,Rio de Janeiro,Sudeste,6,Concluído
+1142,597,2024-12-11,Aplicativo,SP,São Paulo,Sudeste,3,Concluído
+1143,168,2024-12-11,Site Próprio,SP,São Paulo,Sudeste,4,Concluído
+1144,608,2024-06-15,Site Próprio,SP,São Paulo,Sudeste,5,Concluído
+1145,463,2025-11-25,Marketplace,RJ,Rio de Janeiro,Sudeste,5,Concluído
+1146,568,2025-12-26,Site Próprio,BA,Bahia,Nordeste,1,Concluído
+1147,365,2025-12-25,Aplicativo,RJ,Rio de Janeiro,Sudeste,3,Cancelado
+1148,526,2025-11-18,Marketplace,SP,São Paulo,Sudeste,3,Concluído
+1149,138,2025-05-17,Marketplace,MG,Minas Gerais,Sudeste,5,Cancelado
+1150,335,2025-11-16,Site Próprio,SP,São Paulo,Sudeste,4,Concluído
+1151,289,2025-12-13,Marketplace,MS,Mato Grosso do Sul,Centro-Oeste,1,Concluído
+1152,319,2025-11-04,Marketplace,MG,Minas Gerais,Sudeste,3,Concluído
+1153,320,2025-11-24,Marketplace,SP,São Paulo,Sudeste,4,Concluído
+1154,311,2025-03-09,Aplicativo,SP,São Paulo,Sudeste,1,Cancelado
+1155,391,2025-01-15,Site Próprio,RJ,Rio de Janeiro,Sudeste,3,Concluído
+1156,190,2025-02-24,Site Próprio,SP,São Paulo,Sudeste,5,Cancelado
+1157,158,2025-11-24,Marketplace,PR,Paraná,Sul,6,Concluído
+1158,237,2025-12-12,Site Próprio,SP,São Paulo,Sudeste,5,Concluído
+1159,4,2024-05-22,Site Próprio,SP,São Paulo,Sudeste,3,Concluído
+1160,299,2025-11-22,Site Próprio,BA,Bahia,Nordeste,5,Cancelado
+1161,377,2025-04-14,Site Próprio,SP,São Paulo,Sudeste,3,Concluído
+1162,283,2025-12-13,Site Próprio,PR,Paraná,Sul,1,Concluído
+1163,303,2024-05-14,Marketplace,SC,Santa Catarina,Sul,3,Concluído
+1164,73,2025-02-08,Site Próprio,SP,São Paulo,Sudeste,6,Concluído
+1165,207,2025-02-03,Site Próprio,SC,Santa Catarina,Sul,6,Concluído
+1166,596,2025-09-07,Site Próprio,BA,Bahia,Nordeste,4,Concluído
+1167,127,2024-12-15,Marketplace,SP,São Paulo,Sudeste,3,Concluído
+1168,390,2025-01-16,Marketplace,SP,São Paulo,Sudeste,2,Concluído
+1169,47,2025-01-05,Marketplace,SP,São Paulo,Sudeste,4,Concluído
+1170,471,2025-10-09,Marketplace,RJ,Rio de Janeiro,Sudeste,1,Concluído
+1171,100,2025-07-27,Site Próprio,SP,São Paulo,Sudeste,6,Concluído
+1172,479,2025-04-10,Aplicativo,SP,São Paulo,Sudeste,2,Concluído
+1173,133,2024-12-17,Site Próprio,RJ,Rio de Janeiro,Sudeste,5,Concluído
+1174,540,2025-04-15,Site Próprio,PR,Paraná,Sul,4,Concluído
+1175,177,2024-09-21,Marketplace,SP,São Paulo,Sudeste,4,Concluído
+1176,208,2025-11-24,Aplicativo,PR,Paraná,Sul,2,Concluído
+1177,406,2025-11-20,Site Próprio,SP,São Paulo,Sudeste,4,Concluído
+1178,160,2024-09-06,Marketplace,MG,Minas Gerais,Sudeste,3,Concluído
+1179,289,2024-12-16,Marketplace,MS,Mato Grosso do Sul,Centro-Oeste,4,Concluído
+1180,563,2024-10-18,Marketplace,SP,São Paulo,Sudeste,4,Concluído
+1181,475,2024-11-09,Aplicativo,RJ,Rio de Janeiro,Sudeste,2,Concluído
+1182,487,2024-06-22,Marketplace,PR,Paraná,Sul,2,Concluído
+1183,485,2025-09-23,Aplicativo,RS,Rio Grande do Sul,Sul,4,Concluído
+1184,368,2024-04-02,Site Próprio,SP,São Paulo,Sudeste,3,Concluído
+1185,124,2024-10-08,Site Próprio,SP,São Paulo,Sudeste,6,Concluído
+1186,124,2025-11-08,Marketplace,SP,São Paulo,Sudeste,1,Concluído
+1187,105,2025-10-26,Site Próprio,MS,Mato Grosso do Sul,Centro-Oeste,4,Concluído
+1188,461,2024-11-23,Marketplace,MG,Minas Gerais,Sudeste,1,Concluído
+1189,579,2025-05-02,Marketplace,SP,São Paulo,Sudeste,3,Concluído
+1190,363,2025-05-05,Site Próprio,RS,Rio Grande do Sul,Sul,2,Concluído
+1191,641,2024-08-21,Marketplace,BA,Bahia,Nordeste,2,Concluído
+1192,253,2024-03-08,Aplicativo,RJ,Rio de Janeiro,Sudeste,1,Concluído
+1193,298,2024-11-27,Marketplace,CE,Ceará,Nordeste,4,Concluído
+1194,437,2025-03-22,Aplicativo,RJ,Rio de Janeiro,Sudeste,3,Concluído
+1195,434,2025-05-15,Site Próprio,SP,São Paulo,Sudeste,1,Concluído
+1196,184,2025-10-23,Site Próprio,SP,São Paulo,Sudeste,5,Concluído
+1197,118,2024-12-12,Marketplace,RS,Rio Grande do Sul,Sul,2,Concluído
+1198,395,2025-06-02,Site Próprio,RJ,Rio de Janeiro,Sudeste,4,Concluído
+1199,165,2024-12-09,Marketplace,MG,Minas Gerais,Sudeste,6,Concluído
+1200,287,2025-04-10,Site Próprio,MG,Minas Gerais,Sudeste,4,Concluído
+1201,276,2024-05-21,Marketplace,SC,Santa Catarina,Sul,1,Concluído
+1202,51,2024-10-14,Marketplace,SP,São Paulo,Sudeste,3,Concluído
+1203,230,2025-12-19,Marketplace,SP,São Paulo,Sudeste,4,Concluído
+1204,288,2025-04-05,Marketplace,PR,Paraná,Sul,4,Cancelado
+1205,606,2025-12-26,Site Próprio,SP,São Paulo,Sudeste,4,Cancelado
+1206,613,2024-05-07,Site Próprio,PR,Paraná,Sul,5,Concluído
+1207,369,2024-12-06,Site Próprio,RJ,Rio de Janeiro,Sudeste,5,Concluído
+1208,260,2024-11-22,Site Próprio,SP,São Paulo,Sudeste,1,Concluído
+1209,278,2025-12-08,Site Próprio,BA,Bahia,Nordeste,3,Concluído
+1210,519,2025-09-08,Aplicativo,RJ,Rio de Janeiro,Sudeste,3,Concluído
+1211,106,2024-11-13,Site Próprio,MG,Minas Gerais,Sudeste,6,Concluído
+1212,92,2025-11-21,Site Próprio,RS,Rio Grande do Sul,Sul,3,Concluído
+1213,583,2025-08-17,Site Próprio,SP,São Paulo,Sudeste,5,Concluído
+1214,548,2024-04-16,Site Próprio,MT,Mato Grosso,Centro-Oeste,3,Concluído
+1215,253,2024-12-16,Marketplace,RJ,Rio de Janeiro,Sudeste,3,Concluído
+1216,190,2025-12-19,Marketplace,SP,São Paulo,Sudeste,2,Concluído
+1217,3,2025-09-19,Marketplace,PE,Pernambuco,Nordeste,5,Concluído
+1218,365,2025-04-20,Site Próprio,RJ,Rio de Janeiro,Sudeste,2,Concluído
+1219,296,2024-11-22,Marketplace,DF,Distrito Federal,Centro-Oeste,6,Concluído
+1220,631,2025-11-15,Aplicativo,SP,São Paulo,Sudeste,3,Concluído
+1221,411,2025-12-19,Site Próprio,RJ,Rio de Janeiro,Sudeste,3,Concluído
+1222,611,2025-07-26,Site Próprio,SC,Santa Catarina,Sul,2,Concluído
+1223,73,2024-11-22,Site Próprio,SP,São Paulo,Sudeste,2,Concluído
+1224,301,2024-07-09,Site Próprio,RS,Rio Grande do Sul,Sul,6,Concluído
+1225,77,2024-03-01,Site Próprio,SP,São Paulo,Sudeste,3,Concluído
+1226,589,2025-12-11,Site Próprio,SP,São Paulo,Sudeste,2,Concluído
+1227,352,2024-08-22,Aplicativo,SP,São Paulo,Sudeste,2,Concluído
+1228,572,2024-01-22,Marketplace,MG,Minas Gerais,Sudeste,1,Concluído
+1229,134,2024-10-18,Marketplace,SC,Santa Catarina,Sul,2,Concluído
+1230,308,2024-11-26,Marketplace,BA,Bahia,Nordeste,6,Concluído
+1231,107,2025-11-23,Marketplace,MG,Minas Gerais,Sudeste,2,Concluído
+1232,612,2025-06-06,Site Próprio,RS,Rio Grande do Sul,Sul,1,Concluído
+1233,312,2025-01-18,Marketplace,RS,Rio Grande do Sul,Sul,5,Concluído
+1234,132,2025-08-03,Aplicativo,MG,Minas Gerais,Sudeste,6,Concluído
+1235,213,2025-12-05,Marketplace,CE,Ceará,Nordeste,4,Concluído
+1236,497,2024-07-16,Aplicativo,PE,Pernambuco,Nordeste,2,Concluído
+1237,440,2025-11-27,Site Próprio,BA,Bahia,Nordeste,3,Concluído
+1238,577,2025-11-01,Site Próprio,SP,São Paulo,Sudeste,2,Concluído
+1239,139,2025-07-26,Site Próprio,RS,Rio Grande do Sul,Sul,4,Concluído
+1240,463,2025-06-27,Aplicativo,RJ,Rio de Janeiro,Sudeste,6,Concluído
+1241,214,2024-10-11,Site Próprio,PR,Paraná,Sul,6,Concluído
+1242,177,2025-02-14,Aplicativo,SP,São Paulo,Sudeste,4,Concluído
+1243,298,2024-11-10,Marketplace,CE,Ceará,Nordeste,2,Concluído
+1244,464,2025-07-10,Site Próprio,SP,São Paulo,Sudeste,2,Concluído
+1245,23,2025-04-18,Marketplace,SP,São Paulo,Sudeste,2,Concluído
+1246,515,2025-07-24,Site Próprio,RJ,Rio de Janeiro,Sudeste,2,Concluído
+1247,45,2025-09-16,Site Próprio,SP,São Paulo,Sudeste,5,Concluído
+1248,200,2024-05-05,Marketplace,RS,Rio Grande do Sul,Sul,2,Concluído
+1249,636,2025-04-01,Site Próprio,SP,São Paulo,Sudeste,3,Concluído
+1250,636,2025-12-06,Site Próprio,SP,São Paulo,Sudeste,3,Concluído
+1251,427,2025-05-09,Site Próprio,PR,Paraná,Sul,4,Cancelado
+1252,376,2025-11-16,Site Próprio,SP,São Paulo,Sudeste,3,Concluído
+1253,406,2024-12-26,Aplicativo,SP,São Paulo,Sudeste,6,Concluído
+1254,95,2025-12-04,Site Próprio,AM,Amazonas,Norte,1,Concluído
+1255,111,2025-09-20,Site Próprio,DF,Distrito Federal,Centro-Oeste,2,Concluído
+1256,511,2024-04-26,Site Próprio,BA,Bahia,Nordeste,4,Concluído
+1257,531,2025-06-17,Marketplace,SP,São Paulo,Sudeste,3,Concluído
+1258,375,2025-09-08,Site Próprio,PR,Paraná,Sul,1,Concluído
+1259,611,2025-12-13,Site Próprio,SC,Santa Catarina,Sul,4,Concluído
+1260,271,2024-04-23,Marketplace,RJ,Rio de Janeiro,Sudeste,6,Concluído
+1261,422,2024-06-09,Site Próprio,SP,São Paulo,Sudeste,1,Concluído
+1262,620,2025-11-26,Aplicativo,SP,São Paulo,Sudeste,5,Concluído
+1263,418,2025-12-26,Site Próprio,SP,São Paulo,Sudeste,2,Concluído
+1264,232,2025-11-09,Marketplace,SP,São Paulo,Sudeste,2,Concluído
+1265,268,2025-07-03,Site Próprio,SP,São Paulo,Sudeste,2,Concluído
+1266,203,2025-12-03,Site Próprio,MG,Minas Gerais,Sudeste,6,Concluído
+1267,590,2025-03-21,Marketplace,RS,Rio Grande do Sul,Sul,1,Concluído
+1268,111,2024-05-16,Site Próprio,DF,Distrito Federal,Centro-Oeste,5,Concluído
+1269,55,2025-09-25,Site Próprio,SC,Santa Catarina,Sul,6,Concluído
+1270,569,2025-05-04,Site Próprio,MG,Minas Gerais,Sudeste,5,Concluído
+1271,545,2025-12-07,Site Próprio,SC,Santa Catarina,Sul,6,Cancelado
+1272,635,2025-06-21,Marketplace,MG,Minas Gerais,Sudeste,6,Concluído
+1273,132,2024-11-04,Marketplace,MG,Minas Gerais,Sudeste,2,Concluído
+1274,603,2024-04-14,Marketplace,RS,Rio Grande do Sul,Sul,4,Concluído
+1275,322,2025-11-01,Site Próprio,CE,Ceará,Nordeste,1,Concluído
+1276,232,2025-06-21,Site Próprio,SP,São Paulo,Sudeste,6,Concluído
+1277,221,2025-08-18,Marketplace,SP,São Paulo,Sudeste,1,Cancelado
+1278,508,2025-08-18,Marketplace,SP,São Paulo,Sudeste,2,Concluído
+1279,497,2025-06-06,Site Próprio,PE,Pernambuco,Nordeste,6,Concluído
+1280,405,2024-04-11,Site Próprio,SP,São Paulo,Sudeste,4,Concluído
+1281,329,2025-11-02,Marketplace,MG,Minas Gerais,Sudeste,5,Concluído
+1282,229,2024-09-25,Marketplace,MS,Mato Grosso do Sul,Centro-Oeste,5,Cancelado
+1283,218,2025-05-08,Marketplace,AM,Amazonas,Norte,1,Concluído
+1284,640,2025-11-16,Aplicativo,SP,São Paulo,Sudeste,1,Concluído
+1285,360,2024-04-22,Marketplace,CE,Ceará,Nordeste,1,Concluído
+1286,202,2025-08-16,Site Próprio,SP,São Paulo,Sudeste,4,Concluído
+1287,72,2025-04-05,Marketplace,SP,São Paulo,Sudeste,4,Cancelado
+1288,322,2025-04-17,Site Próprio,CE,Ceará,Nordeste,4,Concluído
+1289,491,2025-08-04,Site Próprio,RJ,Rio de Janeiro,Sudeste,5,Concluído
+1290,346,2024-04-04,Marketplace,SP,São Paulo,Sudeste,5,Concluído
+1291,650,2024-10-17,Marketplace,CE,Ceará,Nordeste,1,Concluído
+1292,315,2025-11-08,Site Próprio,MS,Mato Grosso do Sul,Centro-Oeste,5,Concluído
+1293,642,2025-09-07,Site Próprio,RJ,Rio de Janeiro,Sudeste,5,Concluído
+1294,358,2024-10-22,Site Próprio,DF,Distrito Federal,Centro-Oeste,5,Concluído
+1295,508,2024-07-14,Site Próprio,SP,São Paulo,Sudeste,4,Concluído
+1296,461,2024-11-01,Site Próprio,MG,Minas Gerais,Sudeste,2,Concluído
+1297,386,2024-08-20,Site Próprio,RJ,Rio de Janeiro,Sudeste,1,Concluído
+1298,165,2025-07-01,Site Próprio,MG,Minas Gerais,Sudeste,3,Concluído
+1299,469,2024-07-12,Site Próprio,SP,São Paulo,Sudeste,4,Concluído
+1300,200,2025-10-10,Site Próprio,RS,Rio Grande do Sul,Sul,6,Cancelado
+1301,44,2025-09-03,Marketplace,SP,São Paulo,Sudeste,5,Concluído
+1302,555,2025-05-16,Aplicativo,SP,São Paulo,Sudeste,1,Concluído
+1303,221,2025-02-14,Site Próprio,SP,São Paulo,Sudeste,6,Concluído
+1304,345,2025-12-17,Marketplace,MG,Minas Gerais,Sudeste,2,Concluído
+1305,336,2025-12-16,Marketplace,SP,São Paulo,Sudeste,6,Concluído
+1306,291,2025-11-07,Aplicativo,PE,Pernambuco,Nordeste,5,Concluído
+1307,616,2024-05-13,Site Próprio,SP,São Paulo,Sudeste,5,Concluído
+1308,311,2024-11-11,Aplicativo,SP,São Paulo,Sudeste,4,Concluído
+1309,240,2025-12-18,Aplicativo,SC,Santa Catarina,Sul,4,Concluído
+1310,582,2025-10-19,Marketplace,BA,Bahia,Nordeste,3,Concluído
+1311,276,2025-11-14,Site Próprio,SC,Santa Catarina,Sul,6,Concluído
+1312,248,2025-12-10,Site Próprio,SP,São Paulo,Sudeste,1,Concluído
+1313,296,2025-05-19,Site Próprio,DF,Distrito Federal,Centro-Oeste,5,Concluído
+1314,182,2024-10-14,Site Próprio,SP,São Paulo,Sudeste,3,Cancelado
+1315,250,2025-07-15,Marketplace,PE,Pernambuco,Nordeste,4,Concluído
+1316,280,2024-12-14,Marketplace,GO,Goiás,Centro-Oeste,2,Concluído
+1317,378,2024-10-14,Aplicativo,RJ,Rio de Janeiro,Sudeste,5,Concluído
+1318,536,2025-05-11,Site Próprio,SP,São Paulo,Sudeste,2,Concluído
+1319,203,2025-07-23,Marketplace,MG,Minas Gerais,Sudeste,6,Concluído
+1320,321,2025-12-17,Site Próprio,SP,São Paulo,Sudeste,5,Concluído
+1321,77,2024-10-18,Site Próprio,SP,São Paulo,Sudeste,3,Concluído
+1322,77,2025-07-02,Site Próprio,SP,São Paulo,Sudeste,6,Concluído
+1323,124,2025-01-17,Site Próprio,SP,São Paulo,Sudeste,1,Concluído
+1324,463,2024-11-27,Aplicativo,RJ,Rio de Janeiro,Sudeste,3,Concluído
+1325,260,2025-06-03,Site Próprio,SP,São Paulo,Sudeste,4,Concluído
+1326,310,2024-09-22,Marketplace,RS,Rio Grande do Sul,Sul,2,Concluído
+1327,235,2025-09-12,Site Próprio,RJ,Rio de Janeiro,Sudeste,2,Concluído
+1328,604,2025-03-18,Marketplace,SP,São Paulo,Sudeste,3,Concluído
+1329,511,2024-04-23,Site Próprio,BA,Bahia,Nordeste,6,Concluído
+1330,212,2024-12-24,Aplicativo,MG,Minas Gerais,Sudeste,3,Concluído
+1331,550,2025-01-21,Marketplace,PR,Paraná,Sul,3,Concluído
+1332,463,2024-10-03,Site Próprio,RJ,Rio de Janeiro,Sudeste,4,Concluído
+1333,631,2025-05-08,Marketplace,SP,São Paulo,Sudeste,5,Concluído
+1334,540,2025-10-06,Site Próprio,PR,Paraná,Sul,3,Concluído
+1335,184,2024-11-14,Marketplace,SP,São Paulo,Sudeste,5,Concluído
+1336,177,2025-11-25,Marketplace,SP,São Paulo,Sudeste,4,Concluído
+1337,47,2025-06-16,Site Próprio,SP,São Paulo,Sudeste,4,Concluído
+1338,159,2025-06-04,Marketplace,MG,Minas Gerais,Sudeste,2,Concluído
+1339,150,2025-10-27,Site Próprio,SP,São Paulo,Sudeste,2,Concluído
+1340,67,2025-10-04,Site Próprio,MG,Minas Gerais,Sudeste,6,Concluído
+1341,336,2024-10-10,Site Próprio,SP,São Paulo,Sudeste,6,Concluído
+1342,150,2025-10-03,Site Próprio,SP,São Paulo,Sudeste,3,Concluído
+1343,114,2024-11-06,Aplicativo,PA,Pará,Norte,6,Concluído
+1344,39,2025-10-09,Site Próprio,GO,Goiás,Centro-Oeste,4,Concluído
+1345,232,2025-09-16,Marketplace,SP,São Paulo,Sudeste,3,Concluído
+1346,222,2024-11-08,Marketplace,SP,São Paulo,Sudeste,6,Concluído
+1347,65,2025-06-20,Marketplace,CE,Ceará,Nordeste,5,Concluído
+1348,613,2024-07-07,Site Próprio,PR,Paraná,Sul,3,Concluído
+1349,527,2025-08-06,Aplicativo,SP,São Paulo,Sudeste,6,Concluído
+1350,605,2025-07-05,Marketplace,PE,Pernambuco,Nordeste,5,Concluído
+1351,337,2025-10-03,Marketplace,MG,Minas Gerais,Sudeste,6,Cancelado
+1352,282,2025-01-15,Marketplace,CE,Ceará,Nordeste,6,Cancelado
+1353,12,2025-10-25,Site Próprio,DF,Distrito Federal,Centro-Oeste,6,Concluído
+1354,450,2024-06-12,Site Próprio,MG,Minas Gerais,Sudeste,4,Cancelado
+1355,308,2025-12-01,Site Próprio,BA,Bahia,Nordeste,1,Concluído
+1356,445,2025-05-03,Marketplace,RJ,Rio de Janeiro,Sudeste,3,Concluído
+1357,165,2024-10-05,Site Próprio,MG,Minas Gerais,Sudeste,4,Concluído
+1358,603,2025-11-15,Site Próprio,RS,Rio Grande do Sul,Sul,4,Concluído
+1359,26,2025-11-24,Marketplace,SP,São Paulo,Sudeste,3,Concluído
+1360,513,2025-07-14,Site Próprio,SP,São Paulo,Sudeste,4,Concluído
+1361,437,2025-10-13,Site Próprio,RJ,Rio de Janeiro,Sudeste,3,Cancelado
+1362,557,2025-12-20,Marketplace,MS,Mato Grosso do Sul,Centro-Oeste,4,Concluído
+1363,330,2025-06-11,Site Próprio,BA,Bahia,Nordeste,6,Concluído
+1364,461,2025-12-27,Site Próprio,MG,Minas Gerais,Sudeste,1,Concluído
+1365,598,2025-11-09,Site Próprio,SP,São Paulo,Sudeste,2,Concluído
+1366,305,2024-12-17,Marketplace,SP,São Paulo,Sudeste,6,Concluído
+1367,410,2025-08-04,Site Próprio,BA,Bahia,Nordeste,2,Concluído
+1368,557,2025-03-11,Site Próprio,MS,Mato Grosso do Sul,Centro-Oeste,6,Concluído
+1369,57,2024-08-24,Site Próprio,RS,Rio Grande do Sul,Sul,6,Concluído
+1370,285,2025-06-21,Marketplace,AM,Amazonas,Norte,1,Concluído
+1371,447,2025-04-18,Site Próprio,RJ,Rio de Janeiro,Sudeste,4,Concluído
+1372,639,2025-05-24,Site Próprio,DF,Distrito Federal,Centro-Oeste,4,Concluído
+1373,636,2024-11-09,Aplicativo,SP,São Paulo,Sudeste,1,Concluído
+1374,540,2025-02-21,Site Próprio,PR,Paraná,Sul,1,Concluído
+1375,136,2024-08-26,Site Próprio,SP,São Paulo,Sudeste,5,Concluído
+1376,39,2025-11-16,Site Próprio,GO,Goiás,Centro-Oeste,4,Concluído
+1377,263,2025-10-12,Site Próprio,SP,São Paulo,Sudeste,6,Concluído
+1378,265,2025-12-14,Marketplace,PR,Paraná,Sul,4,Concluído
+1379,274,2025-02-18,Site Próprio,RJ,Rio de Janeiro,Sudeste,6,Concluído
+1380,125,2025-05-14,Marketplace,MA,Maranhão,Nordeste,1,Concluído
+1381,91,2025-07-21,Site Próprio,SP,São Paulo,Sudeste,3,Concluído
+1382,551,2024-10-09,Site Próprio,SP,São Paulo,Sudeste,2,Concluído
+1383,145,2024-12-20,Site Próprio,RS,Rio Grande do Sul,Sul,3,Concluído
+1384,82,2025-06-14,Site Próprio,MG,Minas Gerais,Sudeste,4,Concluído
+1385,30,2025-09-16,Marketplace,RJ,Rio de Janeiro,Sudeste,2,Concluído
+1386,542,2024-04-24,Marketplace,RJ,Rio de Janeiro,Sudeste,2,Concluído
+1387,463,2025-10-04,Marketplace,RJ,Rio de Janeiro,Sudeste,3,Concluído
+1388,30,2025-11-12,Marketplace,RJ,Rio de Janeiro,Sudeste,1,Concluído
+1389,425,2025-11-11,Marketplace,MG,Minas Gerais,Sudeste,6,Concluído
+1390,315,2025-01-05,Aplicativo,MS,Mato Grosso do Sul,Centro-Oeste,6,Cancelado
+1391,197,2025-06-26,Marketplace,MG,Minas Gerais,Sudeste,2,Concluído
+1392,298,2025-01-11,Marketplace,CE,Ceará,Nordeste,5,Concluído
+1393,319,2025-04-24,Marketplace,MG,Minas Gerais,Sudeste,4,Concluído
+1394,119,2024-04-19,Marketplace,CE,Ceará,Nordeste,3,Concluído
+1395,298,2025-12-20,Marketplace,CE,Ceará,Nordeste,3,Concluído
+1396,84,2025-11-21,Marketplace,GO,Goiás,Centro-Oeste,5,Cancelado
+1397,46,2025-03-17,Site Próprio,SP,São Paulo,Sudeste,4,Concluído
+1398,383,2025-04-18,Marketplace,CE,Ceará,Nordeste,6,Concluído
+1399,247,2025-05-14,Site Próprio,DF,Distrito Federal,Centro-Oeste,1,Concluído
+1400,63,2025-01-06,Site Próprio,RS,Rio Grande do Sul,Sul,6,Concluído
+1401,538,2024-06-03,Marketplace,RJ,Rio de Janeiro,Sudeste,6,Concluído
+1402,473,2025-04-15,Marketplace,SP,São Paulo,Sudeste,2,Concluído
+1403,540,2024-11-15,Aplicativo,PR,Paraná,Sul,2,Concluído
+1404,603,2024-11-21,Aplicativo,RS,Rio Grande do Sul,Sul,5,Concluído
+1405,311,2025-02-10,Marketplace,SP,São Paulo,Sudeste,6,Concluído
+1406,271,2025-12-27,Site Próprio,RJ,Rio de Janeiro,Sudeste,4,Concluído
+1407,248,2025-12-24,Site Próprio,SP,São Paulo,Sudeste,3,Concluído
+1408,161,2024-05-15,Site Próprio,RJ,Rio de Janeiro,Sudeste,6,Concluído
+1409,50,2025-12-05,Site Próprio,MG,Minas Gerais,Sudeste,1,Cancelado
+1410,311,2024-10-05,Marketplace,SP,São Paulo,Sudeste,1,Concluído
+1411,331,2025-11-19,Marketplace,CE,Ceará,Nordeste,5,Concluído
+1412,607,2024-11-17,Marketplace,RJ,Rio de Janeiro,Sudeste,3,Concluído
+1413,640,2025-05-22,Site Próprio,SP,São Paulo,Sudeste,2,Concluído
+1414,134,2024-07-16,Site Próprio,SC,Santa Catarina,Sul,5,Concluído
+1415,164,2025-12-03,Site Próprio,BA,Bahia,Nordeste,3,Concluído
+1416,350,2024-07-04,Site Próprio,PR,Paraná,Sul,3,Concluído
+1417,409,2024-06-15,Site Próprio,SP,São Paulo,Sudeste,2,Concluído
+1418,224,2025-12-12,Marketplace,SC,Santa Catarina,Sul,3,Cancelado
+1419,236,2025-04-22,Aplicativo,RJ,Rio de Janeiro,Sudeste,2,Cancelado
+1420,454,2025-11-22,Aplicativo,SP,São Paulo,Sudeste,2,Concluído
+1421,425,2025-10-26,Site Próprio,MG,Minas Gerais,Sudeste,4,Concluído
+1422,647,2025-04-26,Marketplace,RS,Rio Grande do Sul,Sul,5,Concluído
+1423,634,2025-11-19,Site Próprio,RS,Rio Grande do Sul,Sul,3,Concluído
+1424,464,2025-12-22,Aplicativo,SP,São Paulo,Sudeste,4,Concluído
+1425,227,2025-11-25,Site Próprio,SP,São Paulo,Sudeste,2,Concluído
+1426,519,2024-11-09,Site Próprio,RJ,Rio de Janeiro,Sudeste,4,Cancelado
+1427,138,2025-07-07,Site Próprio,MG,Minas Gerais,Sudeste,1,Concluído
+1428,251,2025-12-14,Marketplace,RJ,Rio de Janeiro,Sudeste,1,Concluído
+1429,539,2025-03-16,Site Próprio,MT,Mato Grosso,Centro-Oeste,6,Concluído
+1430,538,2024-11-21,Site Próprio,RJ,Rio de Janeiro,Sudeste,4,Concluído
+1431,219,2025-08-12,Site Próprio,GO,Goiás,Centro-Oeste,6,Concluído
+1432,436,2025-01-11,Marketplace,MA,Maranhão,Nordeste,2,Concluído
+1433,542,2025-11-03,Site Próprio,RJ,Rio de Janeiro,Sudeste,5,Concluído
+1434,113,2025-10-17,Marketplace,SP,São Paulo,Sudeste,3,Concluído
+1435,445,2024-11-23,Marketplace,RJ,Rio de Janeiro,Sudeste,2,Concluído
+1436,533,2025-08-16,Site Próprio,BA,Bahia,Nordeste,5,Concluído
+1437,338,2025-12-24,Marketplace,RS,Rio Grande do Sul,Sul,2,Concluído
+1438,323,2025-03-01,Site Próprio,MG,Minas Gerais,Sudeste,3,Concluído
+1439,179,2024-08-13,Marketplace,SP,São Paulo,Sudeste,4,Concluído
+1440,118,2024-12-10,Marketplace,RS,Rio Grande do Sul,Sul,3,Concluído
+1441,429,2025-03-17,Site Próprio,RJ,Rio de Janeiro,Sudeste,1,Concluído
+1442,124,2024-07-23,Aplicativo,SP,São Paulo,Sudeste,4,Concluído
+1443,399,2025-11-07,Site Próprio,SC,Santa Catarina,Sul,5,Concluído
+1444,437,2024-12-21,Site Próprio,RJ,Rio de Janeiro,Sudeste,2,Concluído
+1445,450,2024-11-01,Marketplace,MG,Minas Gerais,Sudeste,3,Concluído
+1446,320,2024-12-10,Marketplace,SP,São Paulo,Sudeste,6,Concluído
+1447,82,2025-05-09,Site Próprio,MG,Minas Gerais,Sudeste,3,Concluído
+1448,173,2025-11-16,Site Próprio,PA,Pará,Norte,2,Concluído
+1449,302,2025-11-23,Aplicativo,BA,Bahia,Nordeste,5,Concluído
+1450,102,2025-03-05,Marketplace,SC,Santa Catarina,Sul,6,Concluído
+1451,178,2024-12-23,Marketplace,SP,São Paulo,Sudeste,5,Concluído
+1452,106,2025-11-03,Marketplace,MG,Minas Gerais,Sudeste,5,Cancelado
+1453,623,2025-09-21,Site Próprio,SP,São Paulo,Sudeste,2,Concluído
+1454,222,2024-12-16,Marketplace,SP,São Paulo,Sudeste,2,Cancelado
+1455,422,2024-12-01,Marketplace,SP,São Paulo,Sudeste,2,Concluído
+1456,402,2024-04-03,Marketplace,RS,Rio Grande do Sul,Sul,6,Concluído
+1457,609,2024-12-18,Marketplace,RJ,Rio de Janeiro,Sudeste,4,Concluído
+1458,305,2025-03-07,Site Próprio,SP,São Paulo,Sudeste,1,Concluído
+1459,125,2025-11-12,Site Próprio,MA,Maranhão,Nordeste,1,Concluído
+1460,121,2025-03-13,Marketplace,SP,São Paulo,Sudeste,5,Concluído
+1461,4,2025-10-25,Marketplace,SP,São Paulo,Sudeste,5,Concluído
+1462,402,2025-03-18,Site Próprio,RS,Rio Grande do Sul,Sul,3,Cancelado
+1463,344,2024-10-17,Marketplace,SP,São Paulo,Sudeste,3,Concluído
+1464,96,2025-03-09,Site Próprio,PE,Pernambuco,Nordeste,5,Concluído
+1465,32,2025-12-08,Marketplace,CE,Ceará,Nordeste,4,Concluído
+1466,475,2024-12-07,Marketplace,RJ,Rio de Janeiro,Sudeste,5,Concluído
+1467,361,2024-11-18,Marketplace,SP,São Paulo,Sudeste,6,Concluído
+1468,18,2025-06-06,Site Próprio,MG,Minas Gerais,Sudeste,3,Cancelado
+1469,526,2025-05-11,Site Próprio,SP,São Paulo,Sudeste,5,Cancelado
+1470,395,2024-11-02,Site Próprio,RJ,Rio de Janeiro,Sudeste,6,Concluído
+1471,441,2024-09-02,Aplicativo,RJ,Rio de Janeiro,Sudeste,6,Concluído
+1472,269,2024-11-09,Marketplace,RJ,Rio de Janeiro,Sudeste,5,Concluído
+1473,252,2025-12-10,Marketplace,RS,Rio Grande do Sul,Sul,6,Concluído
+1474,350,2025-10-11,Site Próprio,PR,Paraná,Sul,6,Concluído
+1475,552,2024-09-12,Aplicativo,SP,São Paulo,Sudeste,3,Concluído
+1476,486,2025-11-04,Site Próprio,SP,São Paulo,Sudeste,1,Concluído
+1477,407,2025-08-20,Site Próprio,MG,Minas Gerais,Sudeste,3,Concluído
+1478,62,2025-08-09,Marketplace,SP,São Paulo,Sudeste,5,Concluído
+1479,457,2025-09-11,Marketplace,SP,São Paulo,Sudeste,1,Concluído
+1480,557,2025-09-12,Site Próprio,MS,Mato Grosso do Sul,Centro-Oeste,4,Concluído
+1481,24,2025-12-20,Marketplace,DF,Distrito Federal,Centro-Oeste,5,Concluído
+1482,370,2025-05-03,Site Próprio,RJ,Rio de Janeiro,Sudeste,6,Concluído
+1483,356,2025-05-27,Marketplace,RJ,Rio de Janeiro,Sudeste,5,Concluído
+1484,269,2025-12-19,Aplicativo,RJ,Rio de Janeiro,Sudeste,4,Concluído
+1485,103,2024-11-17,Site Próprio,RJ,Rio de Janeiro,Sudeste,3,Concluído
+1486,365,2024-06-14,Site Próprio,RJ,Rio de Janeiro,Sudeste,6,Cancelado
+1487,457,2024-12-13,Marketplace,SP,São Paulo,Sudeste,6,Concluído
+1488,289,2024-11-08,Aplicativo,MS,Mato Grosso do Sul,Centro-Oeste,2,Concluído
+1489,446,2025-12-12,Site Próprio,RS,Rio Grande do Sul,Sul,6,Concluído
+1490,477,2025-06-15,Marketplace,RJ,Rio de Janeiro,Sudeste,2,Concluído
+1491,190,2024-12-15,Site Próprio,SP,São Paulo,Sudeste,1,Concluído
+1492,24,2025-11-22,Site Próprio,DF,Distrito Federal,Centro-Oeste,2,Concluído
+1493,196,2024-02-05,Site Próprio,SP,São Paulo,Sudeste,1,Concluído
+1494,183,2025-03-16,Site Próprio,AM,Amazonas,Norte,2,Concluído
+1495,573,2024-05-23,Marketplace,MG,Minas Gerais,Sudeste,3,Concluído
+1496,546,2024-11-20,Site Próprio,SP,São Paulo,Sudeste,3,Concluído
+1497,317,2025-12-07,Site Próprio,SC,Santa Catarina,Sul,2,Concluído
+1498,539,2024-11-25,Aplicativo,MT,Mato Grosso,Centro-Oeste,3,Concluído
+1499,219,2025-03-01,Site Próprio,GO,Goiás,Centro-Oeste,3,Concluído
+1500,2,2025-01-01,Site Próprio,RS,Rio Grande do Sul,Sul,3,Cancelado
+1501,536,2025-01-02,Site Próprio,SP,São Paulo,Sudeste,5,Concluído
+1502,523,2025-12-14,Site Próprio,SP,São Paulo,Sudeste,4,Concluído
+1503,381,2025-04-24,Site Próprio,PR,Paraná,Sul,2,Concluído
+1504,79,2024-07-02,Marketplace,BA,Bahia,Nordeste,4,Concluído
+1505,529,2025-07-05,Site Próprio,SP,São Paulo,Sudeste,1,Concluído
+1506,445,2025-07-21,Marketplace,RJ,Rio de Janeiro,Sudeste,6,Concluído
+1507,607,2024-06-21,Site Próprio,RJ,Rio de Janeiro,Sudeste,2,Concluído
+1508,164,2024-05-09,Site Próprio,BA,Bahia,Nordeste,6,Concluído
+1509,188,2025-08-21,Marketplace,ES,Espírito Santo,Sudeste,3,Concluído
+1510,122,2025-08-05,Marketplace,MS,Mato Grosso do Sul,Centro-Oeste,4,Concluído
+1511,383,2025-03-25,Marketplace,CE,Ceará,Nordeste,4,Cancelado
+1512,509,2025-11-04,Site Próprio,PE,Pernambuco,Nordeste,1,Concluído
+1513,38,2025-01-07,Aplicativo,BA,Bahia,Nordeste,6,Concluído
+1514,181,2024-12-21,Site Próprio,RJ,Rio de Janeiro,Sudeste,5,Concluído
+1515,621,2024-11-04,Site Próprio,PR,Paraná,Sul,2,Concluído
+1516,478,2024-07-14,Site Próprio,PR,Paraná,Sul,3,Concluído
+1517,613,2025-12-15,Site Próprio,PR,Paraná,Sul,5,Concluído
+1518,544,2025-11-05,Aplicativo,SP,São Paulo,Sudeste,4,Concluído
+1519,583,2025-12-05,Site Próprio,SP,São Paulo,Sudeste,1,Concluído
+1520,343,2025-06-05,Marketplace,ES,Espírito Santo,Sudeste,3,Concluído
+1521,475,2025-11-11,Site Próprio,RJ,Rio de Janeiro,Sudeste,6,Concluído
+1522,306,2025-12-03,Marketplace,AM,Amazonas,Norte,6,Concluído
+1523,222,2025-12-16,Marketplace,SP,São Paulo,Sudeste,2,Concluído
+1524,163,2025-04-23,Marketplace,DF,Distrito Federal,Centro-Oeste,5,Concluído
+1525,636,2024-10-10,Site Próprio,SP,São Paulo,Sudeste,3,Concluído
+1526,413,2025-10-18,Marketplace,PE,Pernambuco,Nordeste,1,Concluído
+1527,30,2025-06-14,Marketplace,RJ,Rio de Janeiro,Sudeste,2,Concluído
+1528,187,2025-10-04,Marketplace,MS,Mato Grosso do Sul,Centro-Oeste,5,Concluído
+1529,129,2025-09-12,Site Próprio,PR,Paraná,Sul,6,Concluído
+1530,364,2025-08-08,Site Próprio,GO,Goiás,Centro-Oeste,2,Concluído
+1531,461,2025-11-10,Aplicativo,MG,Minas Gerais,Sudeste,2,Concluído
+1532,89,2025-03-16,Marketplace,RJ,Rio de Janeiro,Sudeste,1,Concluído
+1533,437,2025-07-05,Site Próprio,RJ,Rio de Janeiro,Sudeste,2,Concluído
+1534,111,2025-03-27,Marketplace,DF,Distrito Federal,Centro-Oeste,1,Concluído
+1535,420,2025-08-02,Marketplace,SP,São Paulo,Sudeste,5,Concluído
+1536,576,2025-11-27,Site Próprio,SP,São Paulo,Sudeste,4,Concluído
+1537,275,2025-12-26,Aplicativo,BA,Bahia,Nordeste,5,Concluído
+1538,345,2024-11-19,Marketplace,MG,Minas Gerais,Sudeste,3,Concluído
+1539,461,2025-01-05,Marketplace,MG,Minas Gerais,Sudeste,2,Concluído
+1540,463,2024-11-16,Site Próprio,RJ,Rio de Janeiro,Sudeste,1,Concluído
+1541,465,2025-11-27,Aplicativo,RS,Rio Grande do Sul,Sul,6,Concluído
+1542,125,2025-10-09,Marketplace,MA,Maranhão,Nordeste,3,Cancelado
+1543,551,2025-02-20,Site Próprio,SP,São Paulo,Sudeste,6,Concluído
+1544,424,2024-05-10,Site Próprio,RS,Rio Grande do Sul,Sul,2,Concluído
+1545,396,2025-11-24,Marketplace,SC,Santa Catarina,Sul,6,Concluído
+1546,585,2025-06-09,Site Próprio,DF,Distrito Federal,Centro-Oeste,1,Concluído
+1547,428,2024-11-27,Marketplace,MS,Mato Grosso do Sul,Centro-Oeste,6,Concluído
+1548,158,2025-08-04,Marketplace,PR,Paraná,Sul,4,Concluído
+1549,427,2025-08-27,Site Próprio,PR,Paraná,Sul,3,Concluído
+1550,346,2025-07-24,Marketplace,SP,São Paulo,Sudeste,4,Cancelado
+1551,508,2024-04-09,Marketplace,SP,São Paulo,Sudeste,6,Concluído
+1552,478,2025-08-10,Marketplace,PR,Paraná,Sul,3,Concluído
+1553,328,2024-12-08,Site Próprio,PE,Pernambuco,Nordeste,5,Concluído
+1554,615,2025-06-27,Site Próprio,SP,São Paulo,Sudeste,3,Concluído
+1555,315,2025-10-07,Aplicativo,MS,Mato Grosso do Sul,Centro-Oeste,2,Concluído
+1556,559,2024-08-05,Site Próprio,SC,Santa Catarina,Sul,5,Concluído
+1557,329,2025-02-25,Site Próprio,MG,Minas Gerais,Sudeste,2,Concluído
+1558,274,2025-11-14,Site Próprio,RJ,Rio de Janeiro,Sudeste,1,Concluído
+1559,180,2024-10-07,Marketplace,SP,São Paulo,Sudeste,5,Concluído
+1560,214,2024-12-11,Marketplace,PR,Paraná,Sul,1,Concluído
+1561,397,2025-07-02,Marketplace,SP,São Paulo,Sudeste,4,Concluído
+1562,440,2024-08-08,Site Próprio,BA,Bahia,Nordeste,6,Concluído
+1563,137,2024-12-24,Marketplace,RJ,Rio de Janeiro,Sudeste,4,Concluído
+1564,107,2024-04-05,Site Próprio,MG,Minas Gerais,Sudeste,2,Concluído
+1565,221,2025-10-20,Marketplace,SP,São Paulo,Sudeste,1,Concluído
+1566,488,2025-06-01,Site Próprio,RJ,Rio de Janeiro,Sudeste,5,Concluído
+1567,414,2024-01-23,Site Próprio,RS,Rio Grande do Sul,Sul,1,Concluído
+1568,617,2025-11-21,Site Próprio,BA,Bahia,Nordeste,6,Concluído
+1569,257,2025-11-27,Marketplace,MG,Minas Gerais,Sudeste,4,Concluído
+1570,55,2025-09-14,Aplicativo,SC,Santa Catarina,Sul,1,Concluído
+1571,345,2025-10-20,Marketplace,MG,Minas Gerais,Sudeste,5,Concluído
+1572,539,2024-02-21,Marketplace,MT,Mato Grosso,Centro-Oeste,4,Concluído
+1573,77,2025-11-03,Marketplace,SP,São Paulo,Sudeste,5,Concluído
+1574,196,2025-01-12,Marketplace,SP,São Paulo,Sudeste,1,Concluído
+1575,485,2025-05-23,Marketplace,RS,Rio Grande do Sul,Sul,4,Concluído
+1576,196,2025-04-21,Marketplace,SP,São Paulo,Sudeste,4,Cancelado
+1577,645,2025-08-17,Site Próprio,MS,Mato Grosso do Sul,Centro-Oeste,2,Concluído
+1578,90,2024-11-10,Marketplace,RJ,Rio de Janeiro,Sudeste,5,Concluído
+1579,398,2025-12-25,Marketplace,CE,Ceará,Nordeste,2,Concluído
+1580,160,2025-03-06,Site Próprio,MG,Minas Gerais,Sudeste,3,Concluído
+1581,423,2024-02-26,Aplicativo,MS,Mato Grosso do Sul,Centro-Oeste,4,Concluído
+1582,561,2025-08-19,Marketplace,SP,São Paulo,Sudeste,6,Cancelado
+1583,214,2025-01-27,Site Próprio,PR,Paraná,Sul,6,Concluído
+1584,450,2024-05-06,Marketplace,MG,Minas Gerais,Sudeste,4,Concluído
+1585,159,2025-03-13,Marketplace,MG,Minas Gerais,Sudeste,2,Concluído
+1586,495,2025-04-11,Marketplace,PE,Pernambuco,Nordeste,4,Concluído
+1587,401,2024-07-23,Site Próprio,RS,Rio Grande do Sul,Sul,2,Concluído
+1588,519,2024-10-25,Site Próprio,RJ,Rio de Janeiro,Sudeste,1,Concluído
+1589,371,2025-12-11,Site Próprio,SP,São Paulo,Sudeste,6,Concluído
+1590,411,2025-08-12,Site Próprio,RJ,Rio de Janeiro,Sudeste,5,Concluído
+1591,61,2025-06-17,Marketplace,SP,São Paulo,Sudeste,4,Concluído
+1592,321,2025-05-27,Site Próprio,SP,São Paulo,Sudeste,2,Cancelado
+1593,609,2025-06-14,Site Próprio,RJ,Rio de Janeiro,Sudeste,1,Concluído
+1594,91,2024-05-20,Marketplace,SP,São Paulo,Sudeste,6,Concluído
+1595,255,2025-10-06,Site Próprio,RJ,Rio de Janeiro,Sudeste,4,Concluído
+1596,391,2024-12-26,Marketplace,RJ,Rio de Janeiro,Sudeste,1,Concluído
+1597,190,2024-02-10,Site Próprio,SP,São Paulo,Sudeste,5,Concluído
+1598,197,2025-11-07,Marketplace,MG,Minas Gerais,Sudeste,2,Concluído
+1599,503,2025-02-13,Site Próprio,CE,Ceará,Nordeste,6,Concluído
+1600,406,2025-11-11,Marketplace,SP,São Paulo,Sudeste,5,Concluído
+1601,255,2025-10-11,Site Próprio,RJ,Rio de Janeiro,Sudeste,3,Concluído
+1602,402,2024-12-13,Site Próprio,RS,Rio Grande do Sul,Sul,2,Cancelado
+1603,482,2024-03-09,Marketplace,SP,São Paulo,Sudeste,4,Concluído
+1604,338,2024-11-15,Site Próprio,RS,Rio Grande do Sul,Sul,6,Concluído
+1605,517,2024-11-09,Site Próprio,SP,São Paulo,Sudeste,2,Concluído
+1606,437,2025-05-08,Marketplace,RJ,Rio de Janeiro,Sudeste,2,Concluído
+1607,70,2025-04-18,Site Próprio,MS,Mato Grosso do Sul,Centro-Oeste,3,Concluído
+1608,30,2025-11-09,Site Próprio,RJ,Rio de Janeiro,Sudeste,1,Concluído
+1609,554,2025-07-14,Site Próprio,RS,Rio Grande do Sul,Sul,5,Concluído
+1610,387,2025-07-02,Site Próprio,SC,Santa Catarina,Sul,1,Concluído
+1611,247,2025-01-01,Aplicativo,DF,Distrito Federal,Centro-Oeste,2,Concluído
+1612,641,2024-12-20,Site Próprio,BA,Bahia,Nordeste,5,Concluído
+1613,271,2025-11-13,Site Próprio,RJ,Rio de Janeiro,Sudeste,2,Concluído
+1614,298,2025-09-21,Site Próprio,CE,Ceará,Nordeste,5,Concluído
+1615,139,2024-07-16,Site Próprio,RS,Rio Grande do Sul,Sul,5,Concluído
+1616,26,2025-05-22,Site Próprio,SP,São Paulo,Sudeste,5,Concluído
+1617,318,2024-11-11,Marketplace,PE,Pernambuco,Nordeste,6,Concluído
+1618,230,2025-09-23,Site Próprio,SP,São Paulo,Sudeste,6,Concluído
+1619,65,2025-08-11,Marketplace,CE,Ceará,Nordeste,4,Concluído
+1620,431,2025-12-07,Site Próprio,PR,Paraná,Sul,2,Concluído
+1621,368,2025-06-15,Site Próprio,SP,São Paulo,Sudeste,5,Concluído
+1622,107,2025-02-22,Site Próprio,MG,Minas Gerais,Sudeste,1,Concluído
+1623,455,2025-12-15,Marketplace,ES,Espírito Santo,Sudeste,4,Concluído
+1624,440,2024-12-04,Marketplace,BA,Bahia,Nordeste,5,Concluído
+1625,111,2025-06-20,Site Próprio,DF,Distrito Federal,Centro-Oeste,2,Cancelado
+1626,556,2025-03-04,Marketplace,RS,Rio Grande do Sul,Sul,1,Concluído
+1627,351,2025-10-19,Marketplace,MA,Maranhão,Nordeste,2,Concluído
+1628,585,2024-10-01,Site Próprio,DF,Distrito Federal,Centro-Oeste,3,Concluído
+1629,1,2025-12-12,Marketplace,SC,Santa Catarina,Sul,3,Concluído
+1630,361,2024-06-15,Site Próprio,SP,São Paulo,Sudeste,4,Concluído
+1631,334,2025-11-13,Aplicativo,CE,Ceará,Nordeste,5,Concluído
+1632,28,2025-06-11,Marketplace,ES,Espírito Santo,Sudeste,6,Concluído
+1633,230,2025-06-12,Marketplace,SP,São Paulo,Sudeste,6,Concluído
+1634,383,2025-04-13,Marketplace,CE,Ceará,Nordeste,4,Concluído
+1635,390,2025-11-17,Site Próprio,SP,São Paulo,Sudeste,4,Concluído
+1636,142,2025-09-02,Marketplace,RJ,Rio de Janeiro,Sudeste,6,Concluído
+1637,361,2025-04-19,Marketplace,SP,São Paulo,Sudeste,3,Concluído
+1638,83,2025-11-15,Site Próprio,DF,Distrito Federal,Centro-Oeste,3,Concluído
+1639,404,2025-11-03,Site Próprio,SP,São Paulo,Sudeste,3,Concluído
+1640,526,2025-12-03,Site Próprio,SP,São Paulo,Sudeste,5,Cancelado
+1641,392,2024-11-23,Site Próprio,SP,São Paulo,Sudeste,6,Concluído
+1642,244,2025-04-03,Site Próprio,SP,São Paulo,Sudeste,4,Concluído
+1643,494,2025-02-09,Site Próprio,MA,Maranhão,Nordeste,5,Concluído
+1644,189,2024-11-25,Marketplace,SC,Santa Catarina,Sul,4,Concluído
+1645,318,2024-06-01,Site Próprio,PE,Pernambuco,Nordeste,6,Concluído
+1646,212,2025-12-13,Site Próprio,MG,Minas Gerais,Sudeste,5,Concluído
+1647,44,2025-07-25,Site Próprio,SP,São Paulo,Sudeste,3,Concluído
+1648,606,2025-10-19,Marketplace,SP,São Paulo,Sudeste,2,Concluído
+1649,362,2025-09-05,Marketplace,BA,Bahia,Nordeste,6,Concluído
+1650,368,2024-08-21,Marketplace,SP,São Paulo,Sudeste,4,Concluído
+1651,645,2025-11-17,Site Próprio,MS,Mato Grosso do Sul,Centro-Oeste,2,Concluído
+1652,326,2025-04-14,Site Próprio,PR,Paraná,Sul,4,Concluído
+1653,578,2025-12-07,Marketplace,SP,São Paulo,Sudeste,3,Concluído
+1654,454,2025-10-11,Site Próprio,SP,São Paulo,Sudeste,5,Concluído
+1655,490,2025-11-06,Aplicativo,SP,São Paulo,Sudeste,1,Concluído
+1656,337,2025-11-13,Site Próprio,MG,Minas Gerais,Sudeste,4,Cancelado
+1657,88,2024-07-26,Marketplace,BA,Bahia,Nordeste,1,Concluído
+1658,588,2025-08-26,Site Próprio,PR,Paraná,Sul,5,Concluído
+1659,548,2024-08-06,Site Próprio,MT,Mato Grosso,Centro-Oeste,5,Concluído
+1660,387,2024-08-16,Marketplace,SC,Santa Catarina,Sul,3,Concluído
+1661,642,2025-09-10,Site Próprio,RJ,Rio de Janeiro,Sudeste,5,Concluído
+1662,472,2024-10-21,Site Próprio,SC,Santa Catarina,Sul,6,Concluído
+1663,178,2025-07-02,Marketplace,SP,São Paulo,Sudeste,2,Cancelado
+1664,324,2024-04-04,Marketplace,RJ,Rio de Janeiro,Sudeste,2,Cancelado
+1665,362,2025-12-14,Site Próprio,BA,Bahia,Nordeste,3,Concluído
+1666,253,2025-03-09,Aplicativo,RJ,Rio de Janeiro,Sudeste,6,Concluído
+1667,401,2025-05-06,Marketplace,RS,Rio Grande do Sul,Sul,1,Concluído
+1668,151,2025-12-24,Aplicativo,PR,Paraná,Sul,2,Concluído
+1669,85,2025-11-02,Site Próprio,MT,Mato Grosso,Centro-Oeste,4,Concluído
+1670,237,2025-03-15,Aplicativo,SP,São Paulo,Sudeste,4,Concluído
+1671,57,2025-11-04,Site Próprio,RS,Rio Grande do Sul,Sul,4,Concluído
+1672,494,2025-11-10,Marketplace,MA,Maranhão,Nordeste,4,Concluído
+1673,49,2024-11-23,Site Próprio,RS,Rio Grande do Sul,Sul,1,Cancelado
+1674,604,2024-07-07,Site Próprio,SP,São Paulo,Sudeste,4,Concluído
+1675,336,2024-05-21,Marketplace,SP,São Paulo,Sudeste,4,Cancelado
+1676,83,2025-05-17,Site Próprio,DF,Distrito Federal,Centro-Oeste,2,Concluído
+1677,623,2025-05-24,Marketplace,SP,São Paulo,Sudeste,6,Concluído
+1678,301,2025-07-10,Marketplace,RS,Rio Grande do Sul,Sul,3,Concluído
+1679,283,2025-07-10,Marketplace,PR,Paraná,Sul,3,Concluído
+1680,552,2024-09-10,Site Próprio,SP,São Paulo,Sudeste,5,Concluído
+1681,331,2025-12-09,Aplicativo,CE,Ceará,Nordeste,4,Concluído
+1682,628,2024-03-19,Site Próprio,CE,Ceará,Nordeste,2,Concluído
+1683,487,2025-02-20,Site Próprio,PR,Paraná,Sul,5,Concluído
+1684,464,2024-05-16,Site Próprio,SP,São Paulo,Sudeste,6,Concluído
+1685,482,2024-02-01,Site Próprio,SP,São Paulo,Sudeste,4,Concluído
+1686,33,2025-11-26,Site Próprio,MG,Minas Gerais,Sudeste,4,Concluído
+1687,129,2024-11-25,Site Próprio,PR,Paraná,Sul,5,Concluído
+1688,488,2025-08-09,Site Próprio,RJ,Rio de Janeiro,Sudeste,5,Concluído
+1689,623,2025-05-18,Marketplace,SP,São Paulo,Sudeste,1,Concluído
+1690,26,2025-04-23,Site Próprio,SP,São Paulo,Sudeste,5,Concluído
+1691,289,2025-07-22,Site Próprio,MS,Mato Grosso do Sul,Centro-Oeste,2,Concluído
+1692,125,2024-07-09,Site Próprio,MA,Maranhão,Nordeste,6,Concluído
+1693,223,2024-10-07,Site Próprio,GO,Goiás,Centro-Oeste,4,Concluído
+1694,601,2025-07-03,Marketplace,BA,Bahia,Nordeste,4,Concluído
+1695,450,2025-01-25,Marketplace,MG,Minas Gerais,Sudeste,1,Concluído
+1696,500,2024-05-07,Marketplace,MG,Minas Gerais,Sudeste,2,Concluído
+1697,47,2025-11-17,Site Próprio,SP,São Paulo,Sudeste,5,Concluído
+1698,428,2025-07-14,Marketplace,MS,Mato Grosso do Sul,Centro-Oeste,2,Concluído
+1699,90,2024-11-16,Site Próprio,RJ,Rio de Janeiro,Sudeste,6,Concluído
+1700,266,2025-12-19,Marketplace,RJ,Rio de Janeiro,Sudeste,6,Concluído
+1701,508,2024-10-01,Site Próprio,SP,São Paulo,Sudeste,6,Concluído
+1702,517,2025-03-09,Site Próprio,SP,São Paulo,Sudeste,5,Concluído
+1703,558,2025-04-17,Site Próprio,PA,Pará,Norte,2,Concluído
+1704,494,2024-03-22,Site Próprio,MA,Maranhão,Nordeste,1,Concluído
+1705,468,2024-07-24,Aplicativo,SP,São Paulo,Sudeste,6,Concluído
+1706,161,2025-01-04,Marketplace,RJ,Rio de Janeiro,Sudeste,5,Concluído
+1707,140,2025-10-07,Marketplace,SP,São Paulo,Sudeste,4,Concluído
+1708,425,2025-12-26,Marketplace,MG,Minas Gerais,Sudeste,3,Concluído
+1709,289,2024-12-12,Marketplace,MS,Mato Grosso do Sul,Centro-Oeste,5,Concluído
+1710,315,2025-05-12,Site Próprio,MS,Mato Grosso do Sul,Centro-Oeste,2,Concluído
+1711,469,2025-09-18,Site Próprio,SP,São Paulo,Sudeste,2,Concluído
+1712,115,2025-02-27,Marketplace,MG,Minas Gerais,Sudeste,2,Concluído
+1713,585,2024-04-24,Marketplace,DF,Distrito Federal,Centro-Oeste,3,Concluído
+1714,20,2024-11-22,Marketplace,SP,São Paulo,Sudeste,1,Concluído
+1715,5,2025-02-16,Marketplace,SP,São Paulo,Sudeste,2,Concluído
+1716,487,2025-11-08,Site Próprio,PR,Paraná,Sul,3,Concluído
+1717,339,2025-08-24,Marketplace,SP,São Paulo,Sudeste,1,Concluído
+1718,559,2024-08-13,Site Próprio,SC,Santa Catarina,Sul,6,Cancelado
+1719,219,2024-04-02,Site Próprio,GO,Goiás,Centro-Oeste,5,Cancelado
+1720,74,2024-10-26,Site Próprio,PE,Pernambuco,Nordeste,4,Concluído
+1721,65,2025-04-20,Site Próprio,CE,Ceará,Nordeste,3,Concluído
+1722,9,2025-11-03,Marketplace,DF,Distrito Federal,Centro-Oeste,5,Cancelado
+1723,78,2024-12-04,Site Próprio,AM,Amazonas,Norte,1,Concluído
+1724,190,2025-10-09,Marketplace,SP,São Paulo,Sudeste,6,Concluído
+1725,68,2024-11-09,Site Próprio,RJ,Rio de Janeiro,Sudeste,3,Concluído
+1726,472,2024-11-25,Marketplace,SC,Santa Catarina,Sul,5,Concluído
+1727,477,2025-02-12,Marketplace,RJ,Rio de Janeiro,Sudeste,6,Concluído
+1728,274,2024-11-01,Marketplace,RJ,Rio de Janeiro,Sudeste,4,Concluído
+1729,482,2025-11-09,Marketplace,SP,São Paulo,Sudeste,2,Concluído
+1730,320,2024-12-11,Site Próprio,SP,São Paulo,Sudeste,4,Concluído
+1731,289,2025-12-15,Aplicativo,MS,Mato Grosso do Sul,Centro-Oeste,3,Concluído
+1732,511,2025-11-06,Aplicativo,BA,Bahia,Nordeste,5,Cancelado
+1733,202,2025-11-08,Aplicativo,SP,São Paulo,Sudeste,5,Concluído
+1734,318,2024-02-08,Site Próprio,PE,Pernambuco,Nordeste,3,Concluído
+1735,200,2025-12-04,Site Próprio,RS,Rio Grande do Sul,Sul,3,Concluído
+1736,279,2024-12-17,Aplicativo,RS,Rio Grande do Sul,Sul,6,Concluído
+1737,396,2024-08-13,Site Próprio,SC,Santa Catarina,Sul,3,Concluído
+1738,295,2025-10-05,Aplicativo,BA,Bahia,Nordeste,3,Concluído
+1739,107,2024-09-22,Site Próprio,MG,Minas Gerais,Sudeste,4,Concluído
+1740,463,2025-11-18,Site Próprio,RJ,Rio de Janeiro,Sudeste,4,Cancelado
+1741,331,2025-09-22,Marketplace,CE,Ceará,Nordeste,1,Concluído
+1742,229,2024-06-24,Site Próprio,MS,Mato Grosso do Sul,Centro-Oeste,3,Concluído
+1743,355,2025-11-04,Aplicativo,SP,São Paulo,Sudeste,2,Concluído
+1744,300,2024-06-27,Site Próprio,BA,Bahia,Nordeste,2,Concluído
+1745,303,2024-12-05,Marketplace,SC,Santa Catarina,Sul,3,Concluído
+1746,512,2025-07-02,Site Próprio,RJ,Rio de Janeiro,Sudeste,5,Concluído
+1747,352,2024-12-22,Marketplace,SP,São Paulo,Sudeste,6,Concluído
+1748,629,2025-12-04,Site Próprio,SP,São Paulo,Sudeste,2,Concluído
+1749,569,2025-10-17,Marketplace,MG,Minas Gerais,Sudeste,6,Concluído
+1750,542,2024-07-20,Aplicativo,RJ,Rio de Janeiro,Sudeste,2,Concluído
+1751,624,2025-02-24,Site Próprio,SP,São Paulo,Sudeste,3,Concluído
+1752,283,2025-03-24,Site Próprio,PR,Paraná,Sul,5,Concluído
+1753,138,2025-12-25,Marketplace,MG,Minas Gerais,Sudeste,5,Concluído
+1754,169,2025-11-02,Site Próprio,SP,São Paulo,Sudeste,1,Concluído
+1755,351,2024-06-23,Site Próprio,MA,Maranhão,Nordeste,1,Concluído
+1756,137,2025-04-09,Aplicativo,RJ,Rio de Janeiro,Sudeste,2,Concluído
+1757,481,2024-09-08,Marketplace,DF,Distrito Federal,Centro-Oeste,3,Concluído
+1758,582,2024-12-14,Marketplace,BA,Bahia,Nordeste,4,Concluído
+1759,635,2024-12-22,Site Próprio,MG,Minas Gerais,Sudeste,5,Concluído
+1760,367,2025-06-24,Aplicativo,RJ,Rio de Janeiro,Sudeste,3,Concluído
+1761,184,2025-08-26,Marketplace,SP,São Paulo,Sudeste,5,Concluído
+1762,429,2024-12-10,Aplicativo,RJ,Rio de Janeiro,Sudeste,6,Concluído
+1763,107,2025-04-23,Marketplace,MG,Minas Gerais,Sudeste,5,Concluído
+1764,576,2024-07-19,Site Próprio,SP,São Paulo,Sudeste,3,Concluído
+1765,419,2024-10-27,Aplicativo,SP,São Paulo,Sudeste,5,Concluído
+1766,522,2025-11-06,Marketplace,SP,São Paulo,Sudeste,6,Concluído
+1767,313,2024-06-07,Marketplace,SP,São Paulo,Sudeste,2,Concluído
+1768,362,2025-07-07,Marketplace,BA,Bahia,Nordeste,5,Concluído
+1769,592,2025-11-12,Site Próprio,MG,Minas Gerais,Sudeste,3,Concluído
+1770,557,2025-12-21,Marketplace,MS,Mato Grosso do Sul,Centro-Oeste,1,Concluído
+1771,46,2025-06-26,Site Próprio,SP,São Paulo,Sudeste,2,Concluído
+1772,255,2024-09-25,Site Próprio,RJ,Rio de Janeiro,Sudeste,2,Concluído
+1773,267,2025-03-24,Site Próprio,SP,São Paulo,Sudeste,6,Concluído
+1774,26,2025-11-13,Site Próprio,SP,São Paulo,Sudeste,1,Concluído
+1775,478,2024-11-09,Site Próprio,PR,Paraná,Sul,1,Concluído
+1776,68,2025-03-20,Site Próprio,RJ,Rio de Janeiro,Sudeste,1,Concluído
+1777,541,2025-10-18,Marketplace,PE,Pernambuco,Nordeste,3,Concluído
+1778,514,2024-10-25,Marketplace,MS,Mato Grosso do Sul,Centro-Oeste,3,Concluído
+1779,304,2025-12-03,Site Próprio,SP,São Paulo,Sudeste,5,Concluído
+1780,128,2025-11-08,Aplicativo,MT,Mato Grosso,Centro-Oeste,3,Concluído
+1781,91,2025-12-27,Site Próprio,SP,São Paulo,Sudeste,6,Concluído
+1782,47,2024-08-08,Marketplace,SP,São Paulo,Sudeste,2,Concluído
+1783,92,2024-09-24,Marketplace,RS,Rio Grande do Sul,Sul,6,Cancelado
+1784,230,2025-11-26,Marketplace,SP,São Paulo,Sudeste,6,Concluído
+1785,70,2024-12-09,Marketplace,MS,Mato Grosso do Sul,Centro-Oeste,6,Concluído
+1786,224,2025-04-08,Marketplace,SC,Santa Catarina,Sul,3,Concluído
+1787,553,2025-07-17,Site Próprio,MS,Mato Grosso do Sul,Centro-Oeste,3,Concluído
+1788,321,2025-01-20,Site Próprio,SP,São Paulo,Sudeste,1,Concluído
+1789,289,2025-03-14,Site Próprio,MS,Mato Grosso do Sul,Centro-Oeste,5,Concluído
+1790,189,2025-02-25,Site Próprio,SC,Santa Catarina,Sul,5,Concluído
+1791,495,2025-02-26,Site Próprio,PE,Pernambuco,Nordeste,5,Concluído
+1792,140,2024-11-11,Site Próprio,SP,São Paulo,Sudeste,6,Cancelado
+1793,80,2024-09-16,Site Próprio,CE,Ceará,Nordeste,1,Concluído
+1794,628,2024-12-09,Site Próprio,CE,Ceará,Nordeste,4,Concluído
+1795,631,2024-08-09,Site Próprio,SP,São Paulo,Sudeste,6,Concluído
+1796,526,2025-06-11,Site Próprio,SP,São Paulo,Sudeste,4,Cancelado
+1797,360,2024-09-06,Marketplace,CE,Ceará,Nordeste,6,Concluído
+1798,366,2024-08-15,Site Próprio,PR,Paraná,Sul,1,Concluído
+1799,277,2024-03-15,Marketplace,RJ,Rio de Janeiro,Sudeste,6,Concluído
+1800,11,2025-06-21,Marketplace,SP,São Paulo,Sudeste,4,Concluído
+1801,335,2025-06-23,Marketplace,SP,São Paulo,Sudeste,6,Concluído
+1802,511,2025-01-14,Marketplace,BA,Bahia,Nordeste,5,Concluído
+1803,470,2025-02-10,Site Próprio,PR,Paraná,Sul,6,Concluído
+1804,349,2025-09-09,Marketplace,SP,São Paulo,Sudeste,4,Concluído
+1805,614,2025-11-06,Marketplace,SP,São Paulo,Sudeste,2,Concluído
+1806,531,2025-11-21,Site Próprio,SP,São Paulo,Sudeste,2,Concluído
+1807,362,2025-06-14,Site Próprio,BA,Bahia,Nordeste,4,Concluído
+1808,328,2025-02-07,Aplicativo,PE,Pernambuco,Nordeste,2,Concluído
+1809,195,2024-04-20,Site Próprio,SP,São Paulo,Sudeste,5,Concluído
+1810,494,2024-11-10,Site Próprio,MA,Maranhão,Nordeste,5,Concluído
+1811,351,2025-03-08,Site Próprio,MA,Maranhão,Nordeste,3,Concluído
+1812,631,2025-05-13,Site Próprio,SP,São Paulo,Sudeste,1,Concluído
+1813,416,2025-01-15,Site Próprio,PR,Paraná,Sul,5,Concluído
+1814,230,2025-12-08,Marketplace,SP,São Paulo,Sudeste,6,Concluído
+1815,381,2025-04-06,Marketplace,PR,Paraná,Sul,4,Concluído
+1816,516,2025-11-06,Site Próprio,RJ,Rio de Janeiro,Sudeste,4,Concluído
+1817,572,2025-03-01,Marketplace,MG,Minas Gerais,Sudeste,6,Concluído
+1818,420,2025-05-16,Site Próprio,SP,São Paulo,Sudeste,5,Concluído
+1819,419,2025-11-05,Marketplace,SP,São Paulo,Sudeste,2,Concluído
+1820,323,2025-06-10,Marketplace,MG,Minas Gerais,Sudeste,6,Concluído
+1821,475,2024-11-24,Site Próprio,RJ,Rio de Janeiro,Sudeste,1,Concluído
+1822,356,2025-01-12,Marketplace,RJ,Rio de Janeiro,Sudeste,4,Cancelado
+1823,202,2024-08-07,Site Próprio,SP,São Paulo,Sudeste,6,Concluído
+1824,434,2025-12-20,Aplicativo,SP,São Paulo,Sudeste,2,Concluído
+1825,590,2025-02-04,Site Próprio,RS,Rio Grande do Sul,Sul,4,Concluído
+1826,462,2024-08-19,Site Próprio,MG,Minas Gerais,Sudeste,4,Cancelado
+1827,401,2025-10-27,Site Próprio,RS,Rio Grande do Sul,Sul,5,Cancelado
+1828,88,2025-06-21,Site Próprio,BA,Bahia,Nordeste,5,Concluído
+1829,541,2024-11-26,Site Próprio,PE,Pernambuco,Nordeste,1,Concluído
+1830,501,2025-05-17,Site Próprio,RJ,Rio de Janeiro,Sudeste,6,Concluído
+1831,430,2025-12-14,Site Próprio,PR,Paraná,Sul,6,Concluído
+1832,184,2024-11-11,Site Próprio,SP,São Paulo,Sudeste,4,Concluído
+1833,609,2024-11-07,Site Próprio,RJ,Rio de Janeiro,Sudeste,2,Concluído
+1834,57,2025-02-24,Site Próprio,RS,Rio Grande do Sul,Sul,6,Concluído
+1835,299,2025-12-27,Aplicativo,BA,Bahia,Nordeste,2,Concluído
+1836,164,2024-04-08,Site Próprio,BA,Bahia,Nordeste,4,Concluído
+1837,16,2025-12-11,Marketplace,RS,Rio Grande do Sul,Sul,5,Concluído
+1838,380,2025-10-13,Aplicativo,SP,São Paulo,Sudeste,4,Concluído
+1839,636,2025-08-16,Site Próprio,SP,São Paulo,Sudeste,6,Cancelado
+1840,487,2025-10-04,Marketplace,PR,Paraná,Sul,1,Concluído
+1841,492,2025-01-20,Site Próprio,PR,Paraná,Sul,1,Concluído
+1842,176,2024-07-17,Site Próprio,GO,Goiás,Centro-Oeste,6,Concluído
+1843,389,2025-09-12,Marketplace,SP,São Paulo,Sudeste,3,Concluído
+1844,167,2025-12-20,Marketplace,SP,São Paulo,Sudeste,4,Concluído
+1845,297,2025-12-06,Site Próprio,SP,São Paulo,Sudeste,1,Concluído
+1846,559,2025-06-09,Site Próprio,SC,Santa Catarina,Sul,2,Concluído
+1847,312,2025-09-04,Marketplace,RS,Rio Grande do Sul,Sul,6,Concluído
+1848,26,2025-05-11,Marketplace,SP,São Paulo,Sudeste,2,Concluído
+1849,484,2024-11-21,Marketplace,SP,São Paulo,Sudeste,5,Concluído
+1850,350,2025-01-02,Site Próprio,PR,Paraná,Sul,1,Concluído
+1851,646,2025-11-16,Site Próprio,SP,São Paulo,Sudeste,6,Concluído
+1852,571,2025-06-10,Site Próprio,SC,Santa Catarina,Sul,5,Concluído
+1853,363,2025-10-05,Site Próprio,RS,Rio Grande do Sul,Sul,3,Concluído
+1854,535,2025-03-16,Site Próprio,PE,Pernambuco,Nordeste,6,Concluído
+1855,248,2024-05-26,Site Próprio,SP,São Paulo,Sudeste,6,Concluído
+1856,607,2025-12-22,Marketplace,RJ,Rio de Janeiro,Sudeste,3,Concluído
+1857,635,2024-03-03,Site Próprio,MG,Minas Gerais,Sudeste,6,Concluído
+1858,90,2024-07-16,Site Próprio,RJ,Rio de Janeiro,Sudeste,1,Concluído
+1859,534,2025-09-13,Marketplace,SP,São Paulo,Sudeste,5,Concluído
+1860,624,2025-01-13,Site Próprio,SP,São Paulo,Sudeste,6,Concluído
+1861,402,2025-12-06,Marketplace,RS,Rio Grande do Sul,Sul,6,Concluído
+1862,391,2024-11-01,Marketplace,RJ,Rio de Janeiro,Sudeste,3,Concluído
+1863,447,2025-12-17,Marketplace,RJ,Rio de Janeiro,Sudeste,4,Concluído
+1864,605,2025-05-14,Site Próprio,PE,Pernambuco,Nordeste,1,Concluído
+1865,101,2024-09-26,Site Próprio,SP,São Paulo,Sudeste,4,Concluído
+1866,315,2024-04-01,Marketplace,MS,Mato Grosso do Sul,Centro-Oeste,4,Concluído
+1867,630,2025-11-23,Marketplace,SP,São Paulo,Sudeste,1,Concluído
+1868,411,2024-11-03,Site Próprio,RJ,Rio de Janeiro,Sudeste,6,Concluído
+1869,397,2024-02-10,Site Próprio,SP,São Paulo,Sudeste,2,Concluído
+1870,252,2025-11-13,Marketplace,RS,Rio Grande do Sul,Sul,5,Concluído
+1871,322,2024-12-02,Marketplace,CE,Ceará,Nordeste,5,Concluído
+1872,628,2025-04-10,Site Próprio,CE,Ceará,Nordeste,1,Concluído
+1873,632,2025-04-09,Aplicativo,SP,São Paulo,Sudeste,6,Concluído
+1874,32,2025-04-07,Site Próprio,CE,Ceará,Nordeste,6,Concluído
+1875,206,2024-02-01,Site Próprio,BA,Bahia,Nordeste,4,Concluído
+1876,52,2025-10-06,Site Próprio,SP,São Paulo,Sudeste,6,Concluído
+1877,128,2024-11-14,Marketplace,MT,Mato Grosso,Centro-Oeste,2,Concluído
+1878,279,2025-12-12,Site Próprio,RS,Rio Grande do Sul,Sul,2,Concluído
+1879,583,2025-11-08,Marketplace,SP,São Paulo,Sudeste,6,Concluído
+1880,499,2025-11-10,Site Próprio,SP,São Paulo,Sudeste,2,Concluído
+1881,278,2025-04-20,Marketplace,BA,Bahia,Nordeste,3,Concluído
+1882,174,2025-01-15,Site Próprio,MS,Mato Grosso do Sul,Centro-Oeste,4,Concluído
+1883,370,2024-04-12,Site Próprio,RJ,Rio de Janeiro,Sudeste,2,Concluído
+1884,331,2025-09-13,Marketplace,CE,Ceará,Nordeste,6,Concluído
+1885,180,2025-07-01,Site Próprio,SP,São Paulo,Sudeste,2,Concluído
+1886,104,2025-09-18,Marketplace,SP,São Paulo,Sudeste,2,Concluído
+1887,9,2024-06-21,Marketplace,DF,Distrito Federal,Centro-Oeste,2,Concluído
+1888,444,2025-03-12,Site Próprio,RJ,Rio de Janeiro,Sudeste,4,Concluído
+1889,620,2024-11-16,Marketplace,SP,São Paulo,Sudeste,2,Concluído
+1890,245,2025-01-19,Site Próprio,CE,Ceará,Nordeste,1,Concluído
+1891,624,2025-06-01,Site Próprio,SP,São Paulo,Sudeste,2,Concluído
+1892,544,2025-12-15,Site Próprio,SP,São Paulo,Sudeste,4,Concluído
+1893,556,2024-05-03,Site Próprio,RS,Rio Grande do Sul,Sul,1,Concluído
+1894,248,2024-03-26,Site Próprio,SP,São Paulo,Sudeste,6,Concluído
+1895,338,2025-10-04,Marketplace,RS,Rio Grande do Sul,Sul,4,Concluído
+1896,102,2024-09-12,Site Próprio,SC,Santa Catarina,Sul,6,Concluído
+1897,215,2025-10-13,Site Próprio,SP,São Paulo,Sudeste,2,Concluído
+1898,292,2025-04-16,Site Próprio,SP,São Paulo,Sudeste,4,Concluído
+1899,205,2024-12-24,Site Próprio,CE,Ceará,Nordeste,3,Concluído
+1900,533,2025-05-14,Site Próprio,BA,Bahia,Nordeste,2,Concluído
+1901,82,2025-05-10,Site Próprio,MG,Minas Gerais,Sudeste,3,Concluído
+1902,410,2025-07-12,Marketplace,BA,Bahia,Nordeste,6,Concluído
+1903,196,2025-06-27,Marketplace,SP,São Paulo,Sudeste,5,Concluído
+1904,523,2025-03-05,Marketplace,SP,São Paulo,Sudeste,6,Concluído
+1905,219,2025-09-07,Site Próprio,GO,Goiás,Centro-Oeste,1,Concluído
+1906,374,2025-01-14,Aplicativo,SP,São Paulo,Sudeste,1,Concluído
+1907,642,2025-11-05,Site Próprio,RJ,Rio de Janeiro,Sudeste,1,Cancelado
+1908,178,2025-11-17,Site Próprio,SP,São Paulo,Sudeste,5,Concluído
+1909,256,2024-09-02,Site Próprio,RJ,Rio de Janeiro,Sudeste,5,Concluído
+1910,28,2025-06-21,Marketplace,ES,Espírito Santo,Sudeste,1,Concluído
+1911,91,2024-07-23,Site Próprio,SP,São Paulo,Sudeste,5,Concluído
+1912,621,2025-12-21,Marketplace,PR,Paraná,Sul,5,Concluído
+1913,358,2024-11-16,Marketplace,DF,Distrito Federal,Centro-Oeste,5,Concluído
+1914,450,2024-11-09,Marketplace,MG,Minas Gerais,Sudeste,4,Concluído
+1915,82,2025-05-20,Marketplace,MG,Minas Gerais,Sudeste,3,Concluído
+1916,307,2025-06-25,Aplicativo,PR,Paraná,Sul,2,Concluído
+1917,132,2025-06-18,Marketplace,MG,Minas Gerais,Sudeste,1,Concluído
+1918,207,2025-08-04,Marketplace,SC,Santa Catarina,Sul,2,Concluído
+1919,32,2024-07-07,Site Próprio,CE,Ceará,Nordeste,1,Concluído
+1920,400,2025-11-10,Marketplace,DF,Distrito Federal,Centro-Oeste,5,Concluído
+1921,432,2025-12-07,Site Próprio,CE,Ceará,Nordeste,5,Concluído
+1922,73,2024-03-12,Marketplace,SP,São Paulo,Sudeste,6,Cancelado
+1923,214,2025-08-27,Site Próprio,PR,Paraná,Sul,2,Concluído
+1924,630,2025-11-14,Site Próprio,SP,São Paulo,Sudeste,3,Concluído
+1925,379,2024-04-21,Site Próprio,PR,Paraná,Sul,2,Cancelado
+1926,86,2025-10-19,Marketplace,RS,Rio Grande do Sul,Sul,3,Concluído
+1927,356,2025-10-12,Site Próprio,RJ,Rio de Janeiro,Sudeste,5,Concluído
+1928,292,2025-10-13,Site Próprio,SP,São Paulo,Sudeste,3,Concluído
+1929,311,2025-11-19,Site Próprio,SP,São Paulo,Sudeste,2,Concluído
+1930,484,2025-12-13,Site Próprio,SP,São Paulo,Sudeste,3,Concluído
+1931,315,2025-12-15,Site Próprio,MS,Mato Grosso do Sul,Centro-Oeste,1,Concluído
+1932,40,2025-12-17,Marketplace,BA,Bahia,Nordeste,4,Concluído
+1933,547,2025-05-14,Site Próprio,SP,São Paulo,Sudeste,4,Concluído
+1934,633,2025-01-25,Marketplace,PR,Paraná,Sul,4,Concluído
+1935,478,2025-06-04,Site Próprio,PR,Paraná,Sul,3,Concluído
+1936,14,2024-08-15,Site Próprio,DF,Distrito Federal,Centro-Oeste,4,Concluído
+1937,424,2025-12-17,Site Próprio,RS,Rio Grande do Sul,Sul,5,Concluído
+1938,96,2025-10-18,Aplicativo,PE,Pernambuco,Nordeste,1,Concluído
+1939,361,2025-10-14,Aplicativo,SP,São Paulo,Sudeste,4,Concluído
+1940,118,2025-11-09,Site Próprio,RS,Rio Grande do Sul,Sul,1,Concluído
+1941,583,2025-07-03,Site Próprio,SP,São Paulo,Sudeste,4,Concluído
+1942,98,2024-12-08,Aplicativo,BA,Bahia,Nordeste,6,Concluído
+1943,206,2025-11-04,Site Próprio,BA,Bahia,Nordeste,5,Concluído
+1944,421,2024-06-10,Marketplace,ES,Espírito Santo,Sudeste,1,Concluído
+1945,279,2025-06-20,Site Próprio,RS,Rio Grande do Sul,Sul,3,Concluído
+1946,335,2025-12-06,Site Próprio,SP,São Paulo,Sudeste,5,Concluído
+1947,203,2024-11-15,Marketplace,MG,Minas Gerais,Sudeste,1,Concluído
+1948,232,2024-02-20,Site Próprio,SP,São Paulo,Sudeste,3,Concluído
+1949,85,2024-05-13,Marketplace,MT,Mato Grosso,Centro-Oeste,5,Concluído
+1950,635,2025-01-19,Site Próprio,MG,Minas Gerais,Sudeste,3,Concluído
+1951,552,2024-07-14,Site Próprio,SP,São Paulo,Sudeste,6,Concluído
+1952,261,2025-07-10,Site Próprio,MG,Minas Gerais,Sudeste,6,Concluído
+1953,572,2025-04-25,Site Próprio,MG,Minas Gerais,Sudeste,3,Concluído
+1954,204,2025-05-13,Marketplace,SP,São Paulo,Sudeste,5,Cancelado
+1955,447,2024-08-15,Site Próprio,RJ,Rio de Janeiro,Sudeste,4,Concluído
+1956,560,2025-11-09,Site Próprio,SP,São Paulo,Sudeste,3,Concluído
+1957,315,2024-09-21,Site Próprio,MS,Mato Grosso do Sul,Centro-Oeste,3,Concluído
+1958,297,2025-12-04,Site Próprio,SP,São Paulo,Sudeste,6,Concluído
+1959,455,2025-08-24,Site Próprio,ES,Espírito Santo,Sudeste,5,Concluído
+1960,114,2025-11-04,Site Próprio,PA,Pará,Norte,5,Concluído
+1961,565,2025-06-08,Marketplace,PE,Pernambuco,Nordeste,5,Concluído
+1962,10,2024-11-11,Marketplace,PE,Pernambuco,Nordeste,5,Concluído
+1963,107,2024-08-13,Marketplace,MG,Minas Gerais,Sudeste,4,Concluído
+1964,112,2025-10-23,Site Próprio,SP,São Paulo,Sudeste,5,Concluído
+1965,597,2024-03-07,Site Próprio,SP,São Paulo,Sudeste,3,Concluído
+1966,621,2024-09-23,Site Próprio,PR,Paraná,Sul,6,Concluído
+1967,252,2024-12-07,Marketplace,RS,Rio Grande do Sul,Sul,4,Concluído
+1968,550,2024-12-14,Site Próprio,PR,Paraná,Sul,5,Concluído
+1969,245,2025-05-14,Site Próprio,CE,Ceará,Nordeste,4,Concluído
+1970,278,2025-04-04,Site Próprio,BA,Bahia,Nordeste,4,Concluído
+1971,565,2025-11-20,Site Próprio,PE,Pernambuco,Nordeste,1,Concluído
+1972,530,2024-05-01,Site Próprio,SP,São Paulo,Sudeste,5,Concluído
+1973,298,2025-01-26,Marketplace,CE,Ceará,Nordeste,4,Concluído
+1974,336,2025-03-24,Site Próprio,SP,São Paulo,Sudeste,6,Concluído
+1975,397,2025-03-13,Site Próprio,SP,São Paulo,Sudeste,3,Concluído
+1976,65,2025-10-13,Marketplace,CE,Ceará,Nordeste,4,Concluído
+1977,549,2025-05-14,Marketplace,SP,São Paulo,Sudeste,5,Concluído
+1978,237,2024-12-17,Marketplace,SP,São Paulo,Sudeste,3,Concluído
+1979,626,2024-08-15,Site Próprio,RS,Rio Grande do Sul,Sul,5,Concluído
+1980,225,2025-10-27,Marketplace,RJ,Rio de Janeiro,Sudeste,4,Concluído
+1981,392,2024-11-25,Aplicativo,SP,São Paulo,Sudeste,3,Concluído
+1982,621,2025-01-24,Marketplace,PR,Paraná,Sul,4,Concluído
+1983,294,2025-11-13,Site Próprio,SP,São Paulo,Sudeste,6,Concluído
+1984,5,2024-06-16,Site Próprio,SP,São Paulo,Sudeste,3,Concluído
+1985,133,2024-11-16,Marketplace,RJ,Rio de Janeiro,Sudeste,5,Concluído
+1986,106,2024-09-26,Site Próprio,MG,Minas Gerais,Sudeste,5,Concluído
+1987,380,2024-05-06,Site Próprio,SP,São Paulo,Sudeste,1,Concluído
+1988,336,2024-12-23,Site Próprio,SP,São Paulo,Sudeste,2,Cancelado
+1989,410,2025-03-06,Marketplace,BA,Bahia,Nordeste,3,Concluído
+1990,211,2025-07-01,Marketplace,ES,Espírito Santo,Sudeste,1,Cancelado
+1991,528,2025-05-05,Marketplace,PE,Pernambuco,Nordeste,1,Concluído
+1992,24,2025-05-14,Site Próprio,DF,Distrito Federal,Centro-Oeste,4,Cancelado
+1993,107,2024-11-24,Marketplace,MG,Minas Gerais,Sudeste,5,Concluído
+1994,465,2024-08-04,Site Próprio,RS,Rio Grande do Sul,Sul,6,Concluído
+1995,329,2025-09-25,Site Próprio,MG,Minas Gerais,Sudeste,6,Concluído
+1996,316,2025-10-27,Site Próprio,MA,Maranhão,Nordeste,3,Concluído
+1997,235,2024-04-27,Marketplace,RJ,Rio de Janeiro,Sudeste,5,Concluído
+1998,29,2025-11-04,Site Próprio,SP,São Paulo,Sudeste,1,Concluído
+1999,514,2024-12-11,Aplicativo,MS,Mato Grosso do Sul,Centro-Oeste,6,Concluído
+2000,247,2024-12-01,Marketplace,DF,Distrito Federal,Centro-Oeste,1,Concluído
+2001,14,2024-05-02,Site Próprio,DF,Distrito Federal,Centro-Oeste,4,Concluído
+2002,582,2025-11-06,Aplicativo,BA,Bahia,Nordeste,6,Concluído
+2003,528,2024-06-24,Site Próprio,PE,Pernambuco,Nordeste,2,Concluído
+2004,41,2025-04-01,Site Próprio,BA,Bahia,Nordeste,6,Concluído
+2005,208,2025-02-26,Site Próprio,PR,Paraná,Sul,6,Concluído
+2006,26,2024-03-07,Site Próprio,SP,São Paulo,Sudeste,2,Concluído
+2007,382,2025-11-25,Site Próprio,SP,São Paulo,Sudeste,6,Concluído
+2008,96,2025-12-22,Site Próprio,PE,Pernambuco,Nordeste,6,Cancelado
+2009,318,2024-03-01,Marketplace,PE,Pernambuco,Nordeste,1,Concluído
+2010,283,2025-07-10,Site Próprio,PR,Paraná,Sul,6,Concluído
+2011,177,2025-08-22,Marketplace,SP,São Paulo,Sudeste,3,Concluído
+2012,202,2024-11-07,Site Próprio,SP,São Paulo,Sudeste,4,Concluído
+2013,328,2025-07-12,Marketplace,PE,Pernambuco,Nordeste,5,Concluído
+2014,546,2024-10-20,Site Próprio,SP,São Paulo,Sudeste,3,Concluído
+2015,361,2024-03-19,Marketplace,SP,São Paulo,Sudeste,3,Concluído
+2016,119,2025-12-10,Site Próprio,CE,Ceará,Nordeste,4,Concluído
+2017,551,2024-06-21,Site Próprio,SP,São Paulo,Sudeste,4,Concluído
+2018,461,2025-02-19,Site Próprio,MG,Minas Gerais,Sudeste,5,Concluído
+2019,356,2024-05-21,Marketplace,RJ,Rio de Janeiro,Sudeste,6,Concluído
+2020,75,2025-03-14,Marketplace,PR,Paraná,Sul,4,Concluído
+2021,638,2024-05-10,Site Próprio,SC,Santa Catarina,Sul,4,Concluído
+2022,463,2025-04-26,Site Próprio,RJ,Rio de Janeiro,Sudeste,5,Cancelado
+2023,385,2025-10-01,Marketplace,DF,Distrito Federal,Centro-Oeste,1,Concluído
+2024,465,2024-10-20,Site Próprio,RS,Rio Grande do Sul,Sul,1,Concluído
+2025,472,2024-11-04,Marketplace,SC,Santa Catarina,Sul,6,Concluído
+2026,42,2024-09-03,Marketplace,RJ,Rio de Janeiro,Sudeste,5,Concluído
+2027,115,2025-08-07,Site Próprio,MG,Minas Gerais,Sudeste,2,Concluído
+2028,413,2025-06-20,Site Próprio,PE,Pernambuco,Nordeste,4,Concluído
+2029,168,2025-10-12,Site Próprio,SP,São Paulo,Sudeste,1,Concluído
+2030,328,2025-02-09,Marketplace,PE,Pernambuco,Nordeste,5,Concluído
+2031,359,2024-05-08,Marketplace,SP,São Paulo,Sudeste,2,Concluído
+2032,322,2024-07-02,Marketplace,CE,Ceará,Nordeste,3,Concluído
+2033,390,2025-07-14,Marketplace,SP,São Paulo,Sudeste,4,Concluído
+2034,204,2024-02-02,Site Próprio,SP,São Paulo,Sudeste,3,Concluído
+2035,174,2025-12-17,Site Próprio,MS,Mato Grosso do Sul,Centro-Oeste,6,Concluído
+2036,346,2025-06-18,Site Próprio,SP,São Paulo,Sudeste,5,Concluído
+2037,388,2024-07-16,Marketplace,SP,São Paulo,Sudeste,4,Concluído
+2038,648,2025-09-24,Site Próprio,GO,Goiás,Centro-Oeste,6,Concluído
+2039,131,2025-09-05,Site Próprio,BA,Bahia,Nordeste,5,Concluído
+2040,472,2025-12-10,Marketplace,SC,Santa Catarina,Sul,5,Concluído
+2041,106,2024-07-17,Marketplace,MG,Minas Gerais,Sudeste,5,Concluído
+2042,115,2025-11-04,Aplicativo,MG,Minas Gerais,Sudeste,4,Concluído
+2043,523,2024-12-04,Marketplace,SP,São Paulo,Sudeste,3,Concluído
+2044,510,2025-12-09,Site Próprio,GO,Goiás,Centro-Oeste,4,Concluído
+2045,602,2025-11-19,Marketplace,PE,Pernambuco,Nordeste,1,Concluído
+2046,33,2025-12-14,Site Próprio,MG,Minas Gerais,Sudeste,4,Concluído
+2047,395,2024-09-26,Site Próprio,RJ,Rio de Janeiro,Sudeste,1,Concluído
+2048,491,2025-11-11,Marketplace,RJ,Rio de Janeiro,Sudeste,2,Cancelado
+2049,27,2025-03-04,Site Próprio,SP,São Paulo,Sudeste,5,Concluído
+2050,138,2025-09-05,Site Próprio,MG,Minas Gerais,Sudeste,3,Concluído
+2051,298,2025-04-09,Site Próprio,CE,Ceará,Nordeste,6,Concluído
+2052,390,2024-03-24,Marketplace,SP,São Paulo,Sudeste,1,Concluído
+2053,167,2025-11-27,Marketplace,SP,São Paulo,Sudeste,3,Cancelado
+2054,104,2024-09-18,Site Próprio,SP,São Paulo,Sudeste,5,Concluído
+2055,139,2025-12-16,Site Próprio,RS,Rio Grande do Sul,Sul,2,Cancelado
+2056,488,2025-09-18,Site Próprio,RJ,Rio de Janeiro,Sudeste,3,Concluído
+2057,440,2025-07-19,Site Próprio,BA,Bahia,Nordeste,3,Concluído
+2058,585,2024-04-25,Marketplace,DF,Distrito Federal,Centro-Oeste,3,Concluído
+2059,568,2024-12-23,Site Próprio,BA,Bahia,Nordeste,5,Concluído
+2060,204,2025-11-07,Site Próprio,SP,São Paulo,Sudeste,3,Concluído
+2061,319,2024-11-04,Aplicativo,MG,Minas Gerais,Sudeste,2,Concluído
+2062,455,2024-04-16,Site Próprio,ES,Espírito Santo,Sudeste,6,Concluído
+2063,455,2025-06-11,Site Próprio,ES,Espírito Santo,Sudeste,2,Concluído
+2064,45,2025-11-02,Site Próprio,SP,São Paulo,Sudeste,6,Concluído
+2065,321,2025-01-02,Site Próprio,SP,São Paulo,Sudeste,5,Concluído
+2066,579,2025-06-19,Marketplace,SP,São Paulo,Sudeste,2,Concluído
+2067,168,2024-06-19,Site Próprio,SP,São Paulo,Sudeste,2,Concluído
+2068,635,2025-04-24,Aplicativo,MG,Minas Gerais,Sudeste,2,Concluído
+2069,231,2025-10-27,Marketplace,RS,Rio Grande do Sul,Sul,5,Concluído
+2070,310,2025-11-07,Site Próprio,RS,Rio Grande do Sul,Sul,1,Concluído
+2071,80,2024-08-13,Site Próprio,CE,Ceará,Nordeste,4,Concluído
+2072,108,2025-06-09,Site Próprio,RS,Rio Grande do Sul,Sul,1,Concluído
+2073,199,2025-09-14,Marketplace,SP,São Paulo,Sudeste,2,Concluído
+2074,611,2025-11-07,Site Próprio,SC,Santa Catarina,Sul,1,Concluído
+2075,77,2025-02-24,Site Próprio,SP,São Paulo,Sudeste,5,Concluído
+2076,323,2025-05-14,Marketplace,MG,Minas Gerais,Sudeste,5,Concluído
+2077,395,2025-05-19,Marketplace,RJ,Rio de Janeiro,Sudeste,4,Concluído
+2078,13,2025-04-03,Site Próprio,SP,São Paulo,Sudeste,1,Concluído
+2079,532,2024-11-10,Site Próprio,SP,São Paulo,Sudeste,6,Concluído
+2080,395,2025-06-19,Site Próprio,RJ,Rio de Janeiro,Sudeste,4,Concluído
+2081,650,2024-11-26,Site Próprio,CE,Ceará,Nordeste,3,Concluído
+2082,352,2025-03-04,Aplicativo,SP,São Paulo,Sudeste,6,Concluído
+2083,475,2025-12-03,Site Próprio,RJ,Rio de Janeiro,Sudeste,4,Concluído
+2084,61,2025-06-09,Marketplace,SP,São Paulo,Sudeste,4,Concluído
+2085,437,2024-11-06,Site Próprio,RJ,Rio de Janeiro,Sudeste,1,Concluído
+2086,582,2024-08-13,Site Próprio,BA,Bahia,Nordeste,1,Concluído
+2087,76,2024-11-15,Site Próprio,SC,Santa Catarina,Sul,4,Concluído
+2088,347,2025-10-27,Site Próprio,MS,Mato Grosso do Sul,Centro-Oeste,1,Concluído
+2089,520,2025-11-20,Site Próprio,SP,São Paulo,Sudeste,1,Cancelado
+2090,434,2024-02-23,Site Próprio,SP,São Paulo,Sudeste,2,Concluído
+2091,189,2024-12-23,Site Próprio,SC,Santa Catarina,Sul,4,Concluído
+2092,28,2024-03-06,Site Próprio,ES,Espírito Santo,Sudeste,5,Concluído
+2093,169,2025-08-11,Site Próprio,SP,São Paulo,Sudeste,2,Concluído
+2094,608,2025-11-16,Marketplace,SP,São Paulo,Sudeste,3,Concluído
+2095,385,2025-10-14,Site Próprio,DF,Distrito Federal,Centro-Oeste,6,Concluído
+2096,575,2024-11-02,Marketplace,CE,Ceará,Nordeste,4,Concluído
+2097,247,2024-06-03,Site Próprio,DF,Distrito Federal,Centro-Oeste,3,Concluído
+2098,463,2024-09-13,Marketplace,RJ,Rio de Janeiro,Sudeste,4,Concluído
+2099,133,2025-05-07,Marketplace,RJ,Rio de Janeiro,Sudeste,2,Concluído
+2100,459,2025-12-12,Site Próprio,SP,São Paulo,Sudeste,5,Concluído
+2101,326,2024-06-15,Marketplace,PR,Paraná,Sul,1,Concluído
+2102,148,2025-10-03,Site Próprio,SP,São Paulo,Sudeste,5,Concluído
+2103,195,2025-09-25,Marketplace,SP,São Paulo,Sudeste,5,Concluído
+2104,271,2025-12-01,Site Próprio,RJ,Rio de Janeiro,Sudeste,4,Concluído
+2105,107,2024-10-12,Marketplace,MG,Minas Gerais,Sudeste,6,Concluído
+2106,85,2025-01-15,Site Próprio,MT,Mato Grosso,Centro-Oeste,5,Concluído
+2107,383,2025-11-17,Marketplace,CE,Ceará,Nordeste,5,Concluído
+2108,192,2025-12-26,Site Próprio,PR,Paraná,Sul,4,Concluído
+2109,25,2025-10-13,Site Próprio,MG,Minas Gerais,Sudeste,4,Concluído
+2110,133,2025-11-18,Site Próprio,RJ,Rio de Janeiro,Sudeste,5,Concluído
+2111,104,2024-12-24,Site Próprio,SP,São Paulo,Sudeste,3,Concluído
+2112,608,2024-06-21,Site Próprio,SP,São Paulo,Sudeste,2,Concluído
+2113,546,2025-11-09,Site Próprio,SP,São Paulo,Sudeste,5,Concluído
+2114,4,2024-10-25,Marketplace,SP,São Paulo,Sudeste,3,Concluído
+2115,386,2025-06-11,Site Próprio,RJ,Rio de Janeiro,Sudeste,4,Cancelado
+2116,589,2024-11-08,Site Próprio,SP,São Paulo,Sudeste,6,Concluído
+2117,329,2024-09-07,Marketplace,MG,Minas Gerais,Sudeste,6,Concluído
+2118,582,2024-09-21,Site Próprio,BA,Bahia,Nordeste,5,Concluído
+2119,403,2025-04-15,Site Próprio,SP,São Paulo,Sudeste,5,Concluído
+2120,649,2025-11-13,Site Próprio,PR,Paraná,Sul,3,Concluído
+2121,508,2025-12-07,Site Próprio,SP,São Paulo,Sudeste,5,Concluído
+2122,42,2024-05-24,Aplicativo,RJ,Rio de Janeiro,Sudeste,6,Concluído
+2123,605,2025-12-21,Marketplace,PE,Pernambuco,Nordeste,4,Concluído
+2124,552,2025-05-04,Marketplace,SP,São Paulo,Sudeste,1,Concluído
+2125,441,2024-04-20,Marketplace,RJ,Rio de Janeiro,Sudeste,5,Concluído
+2126,636,2024-08-04,Site Próprio,SP,São Paulo,Sudeste,1,Concluído
+2127,487,2025-06-21,Aplicativo,PR,Paraná,Sul,1,Concluído
+2128,429,2025-04-23,Site Próprio,RJ,Rio de Janeiro,Sudeste,4,Concluído
+2129,476,2024-05-07,Site Próprio,AM,Amazonas,Norte,4,Concluído
+2130,527,2025-11-17,Marketplace,SP,São Paulo,Sudeste,3,Cancelado
+2131,127,2025-07-18,Site Próprio,SP,São Paulo,Sudeste,1,Concluído
+2132,296,2025-08-01,Site Próprio,DF,Distrito Federal,Centro-Oeste,2,Concluído
+2133,593,2024-12-12,Site Próprio,BA,Bahia,Nordeste,6,Concluído
+2134,345,2024-04-21,Aplicativo,MG,Minas Gerais,Sudeste,1,Concluído
+2135,325,2025-11-03,Marketplace,RJ,Rio de Janeiro,Sudeste,6,Concluído
+2136,355,2025-12-08,Marketplace,SP,São Paulo,Sudeste,6,Concluído
+2137,171,2025-11-22,Aplicativo,SP,São Paulo,Sudeste,2,Concluído
+2138,519,2025-08-01,Site Próprio,RJ,Rio de Janeiro,Sudeste,4,Concluído
+2139,552,2025-12-06,Marketplace,SP,São Paulo,Sudeste,5,Concluído
+2140,346,2024-12-24,Site Próprio,SP,São Paulo,Sudeste,6,Cancelado
+2141,149,2024-12-02,Site Próprio,SP,São Paulo,Sudeste,5,Concluído
+2142,269,2025-02-11,Marketplace,RJ,Rio de Janeiro,Sudeste,2,Concluído
+2143,553,2025-04-04,Site Próprio,MS,Mato Grosso do Sul,Centro-Oeste,6,Concluído
+2144,286,2024-04-09,Marketplace,PR,Paraná,Sul,2,Concluído
+2145,607,2024-08-23,Site Próprio,RJ,Rio de Janeiro,Sudeste,6,Concluído
+2146,177,2025-09-16,Site Próprio,SP,São Paulo,Sudeste,6,Concluído
+2147,497,2024-09-03,Site Próprio,PE,Pernambuco,Nordeste,5,Concluído
+2148,643,2024-05-26,Site Próprio,RJ,Rio de Janeiro,Sudeste,2,Cancelado
+2149,80,2024-12-04,Site Próprio,CE,Ceará,Nordeste,1,Concluído
+2150,294,2025-05-10,Site Próprio,SP,São Paulo,Sudeste,4,Concluído
+2151,397,2025-11-05,Aplicativo,SP,São Paulo,Sudeste,3,Concluído
+2152,468,2025-11-03,Site Próprio,SP,São Paulo,Sudeste,5,Concluído
+2153,617,2025-03-15,Aplicativo,BA,Bahia,Nordeste,2,Concluído
+2154,243,2025-10-25,Site Próprio,SP,São Paulo,Sudeste,2,Concluído
+2155,460,2024-09-20,Site Próprio,SP,São Paulo,Sudeste,5,Concluído
+2156,549,2025-05-05,Marketplace,SP,São Paulo,Sudeste,2,Cancelado
+2157,477,2025-11-10,Site Próprio,RJ,Rio de Janeiro,Sudeste,2,Concluído
+2158,73,2024-08-10,Site Próprio,SP,São Paulo,Sudeste,1,Concluído
+2159,451,2025-09-10,Site Próprio,BA,Bahia,Nordeste,5,Concluído
+2160,190,2024-02-16,Site Próprio,SP,São Paulo,Sudeste,5,Concluído
+2161,431,2024-12-03,Site Próprio,PR,Paraná,Sul,3,Concluído
+2162,572,2025-11-11,Site Próprio,MG,Minas Gerais,Sudeste,2,Concluído
+2163,616,2025-07-21,Aplicativo,SP,São Paulo,Sudeste,4,Concluído
+2164,469,2025-05-04,Marketplace,SP,São Paulo,Sudeste,5,Cancelado
+2165,605,2025-09-07,Marketplace,PE,Pernambuco,Nordeste,4,Concluído
+2166,224,2024-08-26,Aplicativo,SC,Santa Catarina,Sul,5,Concluído
+2167,504,2024-07-27,Site Próprio,SP,São Paulo,Sudeste,6,Concluído
+2168,359,2024-08-23,Site Próprio,SP,São Paulo,Sudeste,3,Concluído
+2169,181,2025-03-21,Marketplace,RJ,Rio de Janeiro,Sudeste,2,Concluído
+2170,579,2025-12-15,Marketplace,SP,São Paulo,Sudeste,3,Concluído
+2171,592,2025-11-15,Marketplace,MG,Minas Gerais,Sudeste,3,Concluído
+2172,12,2024-05-09,Site Próprio,DF,Distrito Federal,Centro-Oeste,5,Concluído
+2173,289,2025-10-02,Site Próprio,MS,Mato Grosso do Sul,Centro-Oeste,4,Concluído
+2174,626,2025-05-19,Site Próprio,RS,Rio Grande do Sul,Sul,4,Concluído
+2175,526,2024-09-20,Aplicativo,SP,São Paulo,Sudeste,2,Concluído
+2176,123,2025-08-18,Marketplace,RJ,Rio de Janeiro,Sudeste,1,Concluído
+2177,592,2024-11-14,Site Próprio,MG,Minas Gerais,Sudeste,6,Concluído
+2178,622,2025-04-04,Marketplace,ES,Espírito Santo,Sudeste,4,Concluído
+2179,166,2025-03-23,Site Próprio,RJ,Rio de Janeiro,Sudeste,2,Concluído
+2180,24,2024-11-04,Marketplace,DF,Distrito Federal,Centro-Oeste,5,Concluído
+2181,393,2025-08-16,Marketplace,RS,Rio Grande do Sul,Sul,3,Cancelado
+2182,132,2024-04-16,Marketplace,MG,Minas Gerais,Sudeste,2,Cancelado
+2183,355,2025-01-03,Marketplace,SP,São Paulo,Sudeste,4,Concluído
+2184,605,2025-07-06,Site Próprio,PE,Pernambuco,Nordeste,1,Concluído
+2185,250,2025-08-24,Site Próprio,PE,Pernambuco,Nordeste,1,Concluído
+2186,402,2025-04-02,Marketplace,RS,Rio Grande do Sul,Sul,6,Concluído
+2187,428,2024-12-13,Site Próprio,MS,Mato Grosso do Sul,Centro-Oeste,2,Concluído
+2188,361,2024-12-14,Site Próprio,SP,São Paulo,Sudeste,3,Concluído
+2189,92,2024-11-04,Site Próprio,RS,Rio Grande do Sul,Sul,1,Concluído
+2190,138,2025-10-26,Marketplace,MG,Minas Gerais,Sudeste,5,Concluído
+2191,497,2025-06-05,Marketplace,PE,Pernambuco,Nordeste,6,Concluído
+2192,1,2024-06-04,Marketplace,SC,Santa Catarina,Sul,5,Concluído
+2193,162,2025-07-07,Marketplace,SP,São Paulo,Sudeste,6,Concluído
+2194,456,2024-03-24,Marketplace,RJ,Rio de Janeiro,Sudeste,1,Concluído
+2195,344,2025-10-10,Site Próprio,SP,São Paulo,Sudeste,2,Concluído
+2196,221,2025-05-23,Marketplace,SP,São Paulo,Sudeste,2,Concluído
+2197,382,2025-07-01,Site Próprio,SP,São Paulo,Sudeste,1,Concluído
+2198,616,2024-03-05,Marketplace,SP,São Paulo,Sudeste,4,Concluído
+2199,318,2025-08-03,Site Próprio,PE,Pernambuco,Nordeste,2,Concluído
+2200,287,2024-10-02,Site Próprio,MG,Minas Gerais,Sudeste,4,Concluído
+2201,572,2024-09-16,Site Próprio,MG,Minas Gerais,Sudeste,1,Concluído
+2202,441,2024-08-02,Site Próprio,RJ,Rio de Janeiro,Sudeste,1,Concluído
+2203,434,2025-06-14,Site Próprio,SP,São Paulo,Sudeste,1,Concluído
+2204,494,2024-11-12,Site Próprio,MA,Maranhão,Nordeste,4,Concluído
+2205,117,2025-09-11,Site Próprio,PE,Pernambuco,Nordeste,5,Concluído
+2206,589,2024-12-11,Site Próprio,SP,São Paulo,Sudeste,2,Concluído
+2207,467,2025-12-19,Marketplace,RJ,Rio de Janeiro,Sudeste,4,Concluído
+2208,218,2025-07-21,Site Próprio,AM,Amazonas,Norte,2,Concluído
+2209,152,2024-08-26,Aplicativo,RS,Rio Grande do Sul,Sul,2,Concluído
+2210,237,2025-03-14,Site Próprio,SP,São Paulo,Sudeste,1,Concluído
+2211,338,2025-12-10,Marketplace,RS,Rio Grande do Sul,Sul,6,Cancelado
+2212,346,2024-03-23,Site Próprio,SP,São Paulo,Sudeste,1,Concluído
+2213,391,2025-05-08,Site Próprio,RJ,Rio de Janeiro,Sudeste,2,Cancelado
+2214,446,2025-03-12,Marketplace,RS,Rio Grande do Sul,Sul,2,Concluído
+2215,27,2025-05-07,Aplicativo,SP,São Paulo,Sudeste,1,Concluído
+2216,326,2024-11-09,Marketplace,PR,Paraná,Sul,6,Concluído
+2217,646,2025-08-15,Site Próprio,SP,São Paulo,Sudeste,3,Concluído
+2218,585,2025-08-02,Marketplace,DF,Distrito Federal,Centro-Oeste,2,Concluído
+2219,559,2025-12-10,Site Próprio,SC,Santa Catarina,Sul,6,Concluído
+2220,397,2024-12-24,Site Próprio,SP,São Paulo,Sudeste,4,Concluído
+2221,26,2024-04-10,Marketplace,SP,São Paulo,Sudeste,5,Concluído
+2222,540,2024-05-07,Marketplace,PR,Paraná,Sul,1,Concluído
+2223,237,2025-04-02,Site Próprio,SP,São Paulo,Sudeste,1,Concluído
+2224,431,2025-11-25,Site Próprio,PR,Paraná,Sul,5,Concluído
+2225,438,2024-06-16,Marketplace,MG,Minas Gerais,Sudeste,4,Concluído
+2226,234,2025-11-23,Site Próprio,MG,Minas Gerais,Sudeste,5,Concluído
+2227,356,2025-03-04,Site Próprio,RJ,Rio de Janeiro,Sudeste,3,Concluído
+2228,381,2025-02-24,Site Próprio,PR,Paraná,Sul,5,Concluído
+2229,310,2024-10-11,Site Próprio,RS,Rio Grande do Sul,Sul,6,Concluído
+2230,73,2024-11-06,Site Próprio,SP,São Paulo,Sudeste,6,Concluído
+2231,196,2024-08-19,Site Próprio,SP,São Paulo,Sudeste,5,Concluído
+2232,564,2025-12-14,Site Próprio,DF,Distrito Federal,Centro-Oeste,3,Concluído
+2233,620,2024-11-06,Marketplace,SP,São Paulo,Sudeste,6,Concluído
+2234,475,2025-03-21,Marketplace,RJ,Rio de Janeiro,Sudeste,2,Cancelado
+2235,56,2025-12-04,Marketplace,MT,Mato Grosso,Centro-Oeste,6,Concluído
+2236,395,2024-12-02,Site Próprio,RJ,Rio de Janeiro,Sudeste,4,Concluído
+2237,131,2025-02-04,Aplicativo,BA,Bahia,Nordeste,3,Concluído
+2238,195,2024-11-02,Marketplace,SP,São Paulo,Sudeste,5,Concluído
+2239,623,2025-03-03,Marketplace,SP,São Paulo,Sudeste,6,Concluído
+2240,196,2024-07-06,Site Próprio,SP,São Paulo,Sudeste,1,Concluído
+2241,392,2025-01-16,Marketplace,SP,São Paulo,Sudeste,2,Concluído
+2242,246,2025-03-13,Site Próprio,PR,Paraná,Sul,4,Concluído
+2243,572,2025-11-06,Marketplace,MG,Minas Gerais,Sudeste,6,Cancelado
+2244,361,2024-11-15,Marketplace,SP,São Paulo,Sudeste,1,Concluído
+2245,532,2025-09-02,Site Próprio,SP,São Paulo,Sudeste,5,Concluído
+2246,85,2024-05-07,Site Próprio,MT,Mato Grosso,Centro-Oeste,6,Concluído
+2247,646,2025-07-06,Marketplace,SP,São Paulo,Sudeste,3,Concluído
+2248,203,2025-03-04,Marketplace,MG,Minas Gerais,Sudeste,2,Concluído
+2249,212,2025-05-06,Site Próprio,MG,Minas Gerais,Sudeste,6,Concluído
+2250,538,2025-12-17,Site Próprio,RJ,Rio de Janeiro,Sudeste,5,Concluído
+2251,179,2025-04-24,Marketplace,SP,São Paulo,Sudeste,6,Concluído
+2252,321,2025-08-21,Marketplace,SP,São Paulo,Sudeste,5,Concluído
+2253,115,2025-03-08,Site Próprio,MG,Minas Gerais,Sudeste,2,Concluído
+2254,132,2024-05-26,Marketplace,MG,Minas Gerais,Sudeste,5,Concluído
+2255,12,2025-12-07,Site Próprio,DF,Distrito Federal,Centro-Oeste,6,Concluído
+2256,116,2025-11-02,Site Próprio,PR,Paraná,Sul,3,Concluído
+2257,405,2025-04-21,Site Próprio,SP,São Paulo,Sudeste,6,Concluído
+2258,216,2025-11-16,Site Próprio,RJ,Rio de Janeiro,Sudeste,2,Concluído
+2259,134,2024-11-11,Site Próprio,SC,Santa Catarina,Sul,3,Concluído
+2260,22,2025-11-26,Aplicativo,SP,São Paulo,Sudeste,6,Concluído
+2261,102,2024-12-05,Marketplace,SC,Santa Catarina,Sul,5,Concluído
+2262,5,2024-10-06,Site Próprio,SP,São Paulo,Sudeste,2,Concluído
+2263,165,2025-06-06,Marketplace,MG,Minas Gerais,Sudeste,3,Concluído
+2264,322,2024-07-25,Site Próprio,CE,Ceará,Nordeste,6,Cancelado
+2265,352,2025-09-01,Aplicativo,SP,São Paulo,Sudeste,3,Concluído
+2266,169,2024-11-06,Site Próprio,SP,São Paulo,Sudeste,4,Concluído
+2267,572,2025-03-24,Marketplace,MG,Minas Gerais,Sudeste,3,Concluído
+2268,23,2024-11-05,Site Próprio,SP,São Paulo,Sudeste,5,Concluído
+2269,490,2025-09-03,Marketplace,SP,São Paulo,Sudeste,5,Cancelado
+2270,618,2025-08-26,Site Próprio,SP,São Paulo,Sudeste,3,Cancelado
+2271,472,2024-12-15,Site Próprio,SC,Santa Catarina,Sul,4,Concluído
+2272,72,2025-07-05,Site Próprio,SP,São Paulo,Sudeste,2,Concluído
+2273,485,2025-12-26,Site Próprio,RS,Rio Grande do Sul,Sul,1,Concluído
+2274,136,2025-05-22,Marketplace,SP,São Paulo,Sudeste,3,Concluído
+2275,645,2025-09-18,Site Próprio,MS,Mato Grosso do Sul,Centro-Oeste,1,Concluído
+2276,346,2024-03-05,Site Próprio,SP,São Paulo,Sudeste,3,Concluído
+2277,174,2025-06-13,Marketplace,MS,Mato Grosso do Sul,Centro-Oeste,1,Concluído
+2278,226,2025-02-26,Aplicativo,RJ,Rio de Janeiro,Sudeste,6,Concluído
+2279,178,2024-06-20,Marketplace,SP,São Paulo,Sudeste,5,Concluído
+2280,424,2024-07-11,Site Próprio,RS,Rio Grande do Sul,Sul,5,Concluído
+2281,274,2025-08-07,Site Próprio,RJ,Rio de Janeiro,Sudeste,5,Concluído
+2282,485,2024-07-04,Aplicativo,RS,Rio Grande do Sul,Sul,3,Concluído
+2283,495,2025-09-24,Site Próprio,PE,Pernambuco,Nordeste,5,Concluído
+2284,286,2025-11-25,Marketplace,PR,Paraná,Sul,6,Concluído
+2285,450,2025-11-22,Marketplace,MG,Minas Gerais,Sudeste,2,Concluído
+2286,472,2025-09-27,Site Próprio,SC,Santa Catarina,Sul,5,Concluído
+2287,368,2025-11-02,Site Próprio,SP,São Paulo,Sudeste,6,Concluído
+2288,632,2025-03-09,Site Próprio,SP,São Paulo,Sudeste,4,Concluído
+2289,438,2025-08-11,Site Próprio,MG,Minas Gerais,Sudeste,6,Concluído
+2290,579,2025-12-11,Marketplace,SP,São Paulo,Sudeste,1,Concluído
+2291,171,2025-12-07,Site Próprio,SP,São Paulo,Sudeste,4,Concluído
+2292,244,2025-11-10,Marketplace,SP,São Paulo,Sudeste,1,Concluído
+2293,568,2024-11-09,Aplicativo,BA,Bahia,Nordeste,6,Concluído
+2294,150,2025-11-14,Site Próprio,SP,São Paulo,Sudeste,3,Concluído
+2295,379,2025-12-19,Marketplace,PR,Paraná,Sul,6,Concluído
+2296,54,2025-08-09,Marketplace,SP,São Paulo,Sudeste,3,Concluído
+2297,560,2024-08-09,Aplicativo,SP,São Paulo,Sudeste,6,Concluído
+2298,601,2024-12-23,Site Próprio,BA,Bahia,Nordeste,3,Concluído
+2299,145,2025-01-04,Site Próprio,RS,Rio Grande do Sul,Sul,4,Concluído
+2300,409,2024-10-08,Site Próprio,SP,São Paulo,Sudeste,2,Concluído
+2301,188,2025-12-16,Marketplace,ES,Espírito Santo,Sudeste,5,Concluído
+2302,146,2025-12-07,Site Próprio,DF,Distrito Federal,Centro-Oeste,1,Concluído
+2303,41,2025-09-24,Marketplace,BA,Bahia,Nordeste,6,Concluído
+2304,603,2024-10-17,Site Próprio,RS,Rio Grande do Sul,Sul,2,Concluído
+2305,104,2025-02-05,Site Próprio,SP,São Paulo,Sudeste,4,Concluído
+2306,265,2025-08-09,Marketplace,PR,Paraná,Sul,6,Concluído
+2307,65,2025-11-10,Marketplace,CE,Ceará,Nordeste,3,Concluído
+2308,599,2024-05-26,Site Próprio,SC,Santa Catarina,Sul,4,Concluído
+2309,9,2025-11-07,Marketplace,DF,Distrito Federal,Centro-Oeste,1,Concluído
+2310,298,2025-11-10,Marketplace,CE,Ceará,Nordeste,4,Concluído
+2311,360,2025-02-12,Site Próprio,CE,Ceará,Nordeste,4,Concluído
+2312,278,2025-07-15,Marketplace,BA,Bahia,Nordeste,6,Concluído
+2313,494,2025-10-14,Marketplace,MA,Maranhão,Nordeste,4,Concluído
+2314,343,2025-08-09,Site Próprio,ES,Espírito Santo,Sudeste,1,Concluído
+2315,184,2025-12-07,Site Próprio,SP,São Paulo,Sudeste,1,Concluído
+2316,122,2025-07-25,Marketplace,MS,Mato Grosso do Sul,Centro-Oeste,5,Concluído
+2317,224,2025-05-11,Site Próprio,SC,Santa Catarina,Sul,3,Concluído
+2318,396,2025-09-20,Site Próprio,SC,Santa Catarina,Sul,3,Concluído
+2319,234,2025-09-12,Site Próprio,MG,Minas Gerais,Sudeste,5,Concluído
+2320,157,2024-10-23,Marketplace,SC,Santa Catarina,Sul,6,Concluído
+2321,89,2025-11-05,Marketplace,RJ,Rio de Janeiro,Sudeste,2,Concluído
+2322,238,2025-11-05,Aplicativo,RJ,Rio de Janeiro,Sudeste,1,Concluído
+2323,35,2025-10-06,Marketplace,AM,Amazonas,Norte,4,Concluído
+2324,51,2025-06-27,Site Próprio,SP,São Paulo,Sudeste,5,Cancelado
+2325,25,2025-05-02,Site Próprio,MG,Minas Gerais,Sudeste,3,Concluído
+2326,44,2025-05-22,Marketplace,SP,São Paulo,Sudeste,2,Concluído
+2327,71,2025-05-20,Site Próprio,SP,São Paulo,Sudeste,1,Concluído
+2328,342,2025-09-05,Site Próprio,RS,Rio Grande do Sul,Sul,2,Concluído
+2329,114,2025-12-15,Site Próprio,PA,Pará,Norte,2,Concluído
+2330,624,2025-06-04,Site Próprio,SP,São Paulo,Sudeste,5,Concluído
+2331,502,2025-06-27,Site Próprio,GO,Goiás,Centro-Oeste,6,Concluído
+2332,425,2025-12-26,Marketplace,MG,Minas Gerais,Sudeste,6,Cancelado
+2333,114,2024-11-13,Marketplace,PA,Pará,Norte,6,Concluído
+2334,504,2025-02-23,Marketplace,SP,São Paulo,Sudeste,2,Concluído
+2335,203,2025-08-06,Site Próprio,MG,Minas Gerais,Sudeste,5,Concluído
+2336,464,2025-05-14,Marketplace,SP,São Paulo,Sudeste,5,Cancelado
+2337,35,2025-09-08,Marketplace,AM,Amazonas,Norte,3,Concluído
+2338,583,2025-12-26,Marketplace,SP,São Paulo,Sudeste,4,Concluído
+2339,52,2025-10-12,Site Próprio,SP,São Paulo,Sudeste,5,Concluído
+2340,568,2025-10-17,Aplicativo,BA,Bahia,Nordeste,5,Concluído
+2341,115,2025-02-12,Marketplace,MG,Minas Gerais,Sudeste,3,Concluído
+2342,137,2025-07-18,Site Próprio,RJ,Rio de Janeiro,Sudeste,6,Concluído
+2343,25,2025-06-21,Site Próprio,MG,Minas Gerais,Sudeste,3,Concluído
+2344,194,2025-11-10,Marketplace,RJ,Rio de Janeiro,Sudeste,6,Concluído
+2345,9,2024-07-10,Site Próprio,DF,Distrito Federal,Centro-Oeste,5,Concluído
+2346,599,2024-08-19,Site Próprio,SC,Santa Catarina,Sul,6,Concluído
+2347,354,2025-07-19,Site Próprio,RS,Rio Grande do Sul,Sul,5,Concluído
+2348,478,2025-01-12,Aplicativo,PR,Paraná,Sul,2,Concluído
+2349,270,2024-03-10,Site Próprio,SC,Santa Catarina,Sul,4,Concluído
+2350,360,2024-12-08,Marketplace,CE,Ceará,Nordeste,4,Concluído
+2351,605,2025-01-03,Site Próprio,PE,Pernambuco,Nordeste,2,Concluído
+2352,18,2025-04-17,Site Próprio,MG,Minas Gerais,Sudeste,6,Concluído
+2353,599,2025-08-09,Site Próprio,SC,Santa Catarina,Sul,2,Concluído
+2354,485,2024-07-03,Site Próprio,RS,Rio Grande do Sul,Sul,2,Concluído
+2355,552,2025-09-09,Site Próprio,SP,São Paulo,Sudeste,5,Concluído
+2356,475,2024-11-25,Site Próprio,RJ,Rio de Janeiro,Sudeste,6,Concluído
+2357,146,2024-09-05,Site Próprio,DF,Distrito Federal,Centro-Oeste,2,Concluído
+2358,318,2025-09-07,Marketplace,PE,Pernambuco,Nordeste,1,Concluído
+2359,135,2025-11-05,Marketplace,SP,São Paulo,Sudeste,6,Concluído
+2360,80,2024-02-09,Site Próprio,CE,Ceará,Nordeste,1,Concluído
+2361,434,2024-08-26,Site Próprio,SP,São Paulo,Sudeste,6,Concluído
+2362,452,2025-12-09,Marketplace,MT,Mato Grosso,Centro-Oeste,3,Concluído
+2363,222,2025-12-24,Site Próprio,SP,São Paulo,Sudeste,1,Concluído
+2364,274,2025-08-15,Site Próprio,RJ,Rio de Janeiro,Sudeste,2,Concluído
+2365,107,2025-05-07,Site Próprio,MG,Minas Gerais,Sudeste,5,Concluído
+2366,406,2024-10-26,Site Próprio,SP,São Paulo,Sudeste,3,Concluído
+2367,523,2024-11-27,Marketplace,SP,São Paulo,Sudeste,6,Concluído
+2368,505,2025-09-25,Site Próprio,DF,Distrito Federal,Centro-Oeste,5,Concluído
+2369,390,2025-01-20,Site Próprio,SP,São Paulo,Sudeste,2,Concluído
+2370,206,2025-03-16,Site Próprio,BA,Bahia,Nordeste,5,Concluído
+2371,433,2025-12-20,Marketplace,ES,Espírito Santo,Sudeste,2,Concluído
+2372,88,2025-01-16,Marketplace,BA,Bahia,Nordeste,6,Concluído
+2373,1,2025-05-12,Marketplace,SC,Santa Catarina,Sul,4,Concluído
+2374,420,2024-11-17,Marketplace,SP,São Paulo,Sudeste,3,Concluído
+2375,395,2024-10-10,Site Próprio,RJ,Rio de Janeiro,Sudeste,2,Concluído
+2376,579,2024-12-03,Site Próprio,SP,São Paulo,Sudeste,5,Concluído
+2377,145,2025-12-02,Marketplace,RS,Rio Grande do Sul,Sul,3,Concluído
+2378,50,2025-11-18,Marketplace,MG,Minas Gerais,Sudeste,2,Concluído
+2379,361,2025-01-02,Marketplace,SP,São Paulo,Sudeste,5,Concluído
+2380,41,2024-12-17,Site Próprio,BA,Bahia,Nordeste,3,Concluído
+2381,587,2025-06-19,Aplicativo,RS,Rio Grande do Sul,Sul,4,Concluído
+2382,46,2024-11-02,Aplicativo,SP,São Paulo,Sudeste,1,Concluído
+2383,608,2024-12-25,Site Próprio,SP,São Paulo,Sudeste,4,Cancelado
+2384,257,2025-10-06,Site Próprio,MG,Minas Gerais,Sudeste,2,Concluído
+2385,255,2025-11-05,Site Próprio,RJ,Rio de Janeiro,Sudeste,5,Concluído
+2386,476,2025-06-08,Marketplace,AM,Amazonas,Norte,4,Cancelado
+2387,257,2025-10-08,Site Próprio,MG,Minas Gerais,Sudeste,4,Concluído
+2388,329,2024-04-09,Site Próprio,MG,Minas Gerais,Sudeste,3,Concluído
+2389,352,2024-10-13,Site Próprio,SP,São Paulo,Sudeste,4,Concluído
+2390,62,2025-04-22,Marketplace,SP,São Paulo,Sudeste,1,Concluído
+2391,343,2024-09-01,Marketplace,ES,Espírito Santo,Sudeste,1,Concluído
+2392,447,2024-09-25,Site Próprio,RJ,Rio de Janeiro,Sudeste,2,Concluído
+2393,635,2025-11-13,Marketplace,MG,Minas Gerais,Sudeste,1,Concluído
+2394,620,2025-10-25,Aplicativo,SP,São Paulo,Sudeste,6,Concluído
+2395,311,2025-06-13,Marketplace,SP,São Paulo,Sudeste,2,Concluído
+2396,550,2024-11-05,Aplicativo,PR,Paraná,Sul,1,Concluído
+2397,26,2025-12-16,Site Próprio,SP,São Paulo,Sudeste,3,Concluído
+2398,14,2025-01-09,Site Próprio,DF,Distrito Federal,Centro-Oeste,1,Concluído
+2399,485,2025-04-12,Site Próprio,RS,Rio Grande do Sul,Sul,2,Concluído
+2400,168,2024-03-18,Site Próprio,SP,São Paulo,Sudeste,6,Concluído
+2401,527,2025-03-24,Site Próprio,SP,São Paulo,Sudeste,3,Concluído
+2402,331,2025-06-17,Site Próprio,CE,Ceará,Nordeste,6,Concluído
+2403,627,2025-05-17,Marketplace,SP,São Paulo,Sudeste,6,Concluído
+2404,602,2024-11-25,Site Próprio,PE,Pernambuco,Nordeste,6,Concluído
+2405,342,2025-03-13,Aplicativo,RS,Rio Grande do Sul,Sul,6,Concluído
+2406,248,2025-07-12,Site Próprio,SP,São Paulo,Sudeste,2,Concluído
+2407,396,2025-11-09,Marketplace,SC,Santa Catarina,Sul,3,Concluído
+2408,343,2025-01-07,Site Próprio,ES,Espírito Santo,Sudeste,2,Concluído
+2409,382,2025-03-24,Aplicativo,SP,São Paulo,Sudeste,3,Concluído
+2410,269,2025-06-24,Site Próprio,RJ,Rio de Janeiro,Sudeste,5,Concluído
+2411,285,2025-07-12,Aplicativo,AM,Amazonas,Norte,3,Concluído
+2412,621,2025-07-01,Marketplace,PR,Paraná,Sul,5,Concluído
+2413,339,2025-05-25,Site Próprio,SP,São Paulo,Sudeste,2,Concluído
+2414,8,2025-06-06,Site Próprio,SP,São Paulo,Sudeste,5,Concluído
+2415,131,2025-03-11,Site Próprio,BA,Bahia,Nordeste,6,Concluído
+2416,214,2025-05-03,Site Próprio,PR,Paraná,Sul,6,Concluído
+2417,453,2025-11-17,Aplicativo,SP,São Paulo,Sudeste,1,Concluído
+2418,251,2024-11-02,Site Próprio,RJ,Rio de Janeiro,Sudeste,6,Concluído
+2419,278,2025-06-02,Site Próprio,BA,Bahia,Nordeste,5,Concluído
+2420,98,2024-12-13,Site Próprio,BA,Bahia,Nordeste,3,Concluído
+2421,249,2025-08-22,Site Próprio,MG,Minas Gerais,Sudeste,3,Concluído
+2422,445,2024-10-20,Site Próprio,RJ,Rio de Janeiro,Sudeste,3,Concluído
+2423,203,2025-11-14,Marketplace,MG,Minas Gerais,Sudeste,4,Concluído
+2424,475,2025-12-19,Marketplace,RJ,Rio de Janeiro,Sudeste,1,Concluído
+2425,67,2025-03-13,Marketplace,MG,Minas Gerais,Sudeste,3,Concluído
+2426,582,2025-07-21,Aplicativo,BA,Bahia,Nordeste,2,Concluído
+2427,208,2025-05-05,Aplicativo,PR,Paraná,Sul,2,Concluído
+2428,453,2024-10-23,Aplicativo,SP,São Paulo,Sudeste,4,Concluído
+2429,380,2024-10-09,Site Próprio,SP,São Paulo,Sudeste,5,Concluído
+2430,160,2025-02-16,Marketplace,MG,Minas Gerais,Sudeste,1,Concluído
+2431,147,2025-05-27,Aplicativo,SP,São Paulo,Sudeste,2,Concluído
+2432,71,2024-03-25,Aplicativo,SP,São Paulo,Sudeste,2,Concluído
+2433,499,2025-12-02,Site Próprio,SP,São Paulo,Sudeste,1,Concluído
+2434,187,2024-07-10,Site Próprio,MS,Mato Grosso do Sul,Centro-Oeste,5,Concluído
+2435,322,2024-08-20,Aplicativo,CE,Ceará,Nordeste,4,Concluído
+2436,486,2025-10-22,Site Próprio,SP,São Paulo,Sudeste,4,Concluído
+2437,542,2025-11-23,Site Próprio,RJ,Rio de Janeiro,Sudeste,3,Concluído
+2438,132,2024-10-26,Marketplace,MG,Minas Gerais,Sudeste,1,Concluído
+2439,72,2025-06-26,Site Próprio,SP,São Paulo,Sudeste,1,Concluído
+2440,490,2025-01-27,Site Próprio,SP,São Paulo,Sudeste,4,Concluído
+2441,216,2025-12-19,Aplicativo,RJ,Rio de Janeiro,Sudeste,1,Concluído
+2442,604,2024-11-10,Marketplace,SP,São Paulo,Sudeste,3,Concluído
+2443,318,2024-02-22,Marketplace,PE,Pernambuco,Nordeste,6,Concluído
+2444,12,2024-11-12,Site Próprio,DF,Distrito Federal,Centro-Oeste,1,Cancelado
+2445,581,2025-10-02,Marketplace,BA,Bahia,Nordeste,6,Concluído
+2446,122,2025-01-25,Site Próprio,MS,Mato Grosso do Sul,Centro-Oeste,5,Cancelado
+2447,500,2025-10-07,Site Próprio,MG,Minas Gerais,Sudeste,5,Concluído
+2448,553,2024-11-07,Marketplace,MS,Mato Grosso do Sul,Centro-Oeste,2,Concluído
+2449,525,2024-11-14,Marketplace,RS,Rio Grande do Sul,Sul,5,Concluído
+2450,557,2024-10-21,Marketplace,MS,Mato Grosso do Sul,Centro-Oeste,1,Concluído
+2451,179,2025-05-04,Site Próprio,SP,São Paulo,Sudeste,3,Concluído
+2452,114,2024-11-04,Site Próprio,PA,Pará,Norte,6,Concluído
+2453,489,2025-02-16,Site Próprio,MT,Mato Grosso,Centro-Oeste,1,Concluído
+2454,321,2025-06-20,Marketplace,SP,São Paulo,Sudeste,1,Concluído
+2455,9,2025-09-04,Marketplace,DF,Distrito Federal,Centro-Oeste,5,Concluído
+2456,258,2025-03-08,Marketplace,SP,São Paulo,Sudeste,6,Concluído
+2457,394,2025-04-05,Marketplace,SP,São Paulo,Sudeste,1,Cancelado
+2458,555,2025-11-19,Aplicativo,SP,São Paulo,Sudeste,2,Concluído
+2459,214,2025-01-02,Site Próprio,PR,Paraná,Sul,3,Concluído
+2460,379,2024-12-12,Site Próprio,PR,Paraná,Sul,5,Concluído
+2461,610,2025-06-18,Site Próprio,SC,Santa Catarina,Sul,4,Concluído
+2462,618,2025-04-05,Site Próprio,SP,São Paulo,Sudeste,5,Concluído
+2463,638,2024-08-02,Marketplace,SC,Santa Catarina,Sul,6,Concluído
+2464,615,2025-11-09,Aplicativo,SP,São Paulo,Sudeste,2,Concluído
+2465,608,2025-01-11,Site Próprio,SP,São Paulo,Sudeste,3,Concluído
+2466,283,2025-09-19,Site Próprio,PR,Paraná,Sul,3,Concluído
+2467,505,2025-04-22,Site Próprio,DF,Distrito Federal,Centro-Oeste,4,Concluído
+2468,642,2025-12-25,Site Próprio,RJ,Rio de Janeiro,Sudeste,2,Concluído
+2469,520,2025-07-01,Site Próprio,SP,São Paulo,Sudeste,6,Concluído
+2470,96,2025-09-10,Aplicativo,PE,Pernambuco,Nordeste,5,Concluído
+2471,522,2025-09-20,Site Próprio,SP,São Paulo,Sudeste,3,Concluído
+2472,26,2025-02-15,Site Próprio,SP,São Paulo,Sudeste,2,Concluído
+2473,602,2025-11-22,Site Próprio,PE,Pernambuco,Nordeste,6,Concluído
+2474,368,2025-11-18,Site Próprio,SP,São Paulo,Sudeste,3,Concluído
+2475,330,2025-09-26,Site Próprio,BA,Bahia,Nordeste,3,Concluído
+2476,172,2025-05-16,Site Próprio,SP,São Paulo,Sudeste,5,Concluído
+2477,58,2025-10-18,Aplicativo,SP,São Paulo,Sudeste,6,Concluído
+2478,585,2025-09-24,Site Próprio,DF,Distrito Federal,Centro-Oeste,6,Concluído
+2479,181,2025-03-01,Site Próprio,RJ,Rio de Janeiro,Sudeste,2,Concluído
+2480,139,2024-06-10,Site Próprio,RS,Rio Grande do Sul,Sul,5,Concluído
+2481,42,2024-02-22,Site Próprio,RJ,Rio de Janeiro,Sudeste,1,Cancelado
+2482,20,2025-05-26,Aplicativo,SP,São Paulo,Sudeste,2,Concluído
+2483,24,2025-12-05,Aplicativo,DF,Distrito Federal,Centro-Oeste,1,Concluído
+2484,90,2025-11-10,Aplicativo,RJ,Rio de Janeiro,Sudeste,4,Cancelado
+2485,571,2024-11-02,Marketplace,SC,Santa Catarina,Sul,2,Concluído
+2486,350,2025-06-25,Marketplace,PR,Paraná,Sul,5,Concluído
+2487,45,2025-06-10,Site Próprio,SP,São Paulo,Sudeste,5,Cancelado
+2488,104,2024-02-18,Marketplace,SP,São Paulo,Sudeste,6,Concluído
+2489,114,2024-11-13,Site Próprio,PA,Pará,Norte,4,Concluído
+2490,98,2025-05-18,Site Próprio,BA,Bahia,Nordeste,2,Concluído
+2491,259,2025-04-20,Site Próprio,MG,Minas Gerais,Sudeste,4,Concluído
+2492,415,2025-04-21,Marketplace,SP,São Paulo,Sudeste,6,Concluído
+2493,406,2024-03-15,Site Próprio,SP,São Paulo,Sudeste,1,Concluído
+2494,58,2024-05-25,Aplicativo,SP,São Paulo,Sudeste,2,Concluído
+2495,11,2024-12-14,Site Próprio,SP,São Paulo,Sudeste,6,Concluído
+2496,70,2025-12-25,Site Próprio,MS,Mato Grosso do Sul,Centro-Oeste,6,Concluído
+2497,80,2024-08-02,Site Próprio,CE,Ceará,Nordeste,6,Cancelado
+2498,638,2025-12-24,Site Próprio,SC,Santa Catarina,Sul,3,Concluído
+2499,288,2024-10-15,Aplicativo,PR,Paraná,Sul,3,Concluído
+2500,455,2024-10-26,Marketplace,ES,Espírito Santo,Sudeste,4,Concluído
+2501,631,2024-08-03,Marketplace,SP,São Paulo,Sudeste,4,Concluído
+2502,30,2024-03-16,Aplicativo,RJ,Rio de Janeiro,Sudeste,2,Concluído
+2503,608,2025-11-23,Site Próprio,SP,São Paulo,Sudeste,6,Concluído
+2504,255,2025-05-09,Site Próprio,RJ,Rio de Janeiro,Sudeste,4,Concluído
+2505,103,2024-12-05,Site Próprio,RJ,Rio de Janeiro,Sudeste,3,Concluído
+2506,384,2025-12-08,Aplicativo,SP,São Paulo,Sudeste,1,Concluído
+2507,82,2025-06-06,Site Próprio,MG,Minas Gerais,Sudeste,2,Cancelado
+2508,422,2025-12-17,Site Próprio,SP,São Paulo,Sudeste,2,Concluído
+2509,531,2025-11-13,Aplicativo,SP,São Paulo,Sudeste,6,Concluído
+2510,43,2024-04-15,Marketplace,SP,São Paulo,Sudeste,1,Concluído
+2511,67,2025-12-25,Site Próprio,MG,Minas Gerais,Sudeste,1,Concluído
+2512,96,2025-05-06,Marketplace,PE,Pernambuco,Nordeste,5,Concluído
+2513,390,2024-08-15,Marketplace,SP,São Paulo,Sudeste,5,Concluído
+2514,226,2025-12-13,Marketplace,RJ,Rio de Janeiro,Sudeste,6,Concluído
+2515,75,2025-12-18,Site Próprio,PR,Paraná,Sul,4,Concluído
+2516,314,2025-12-27,Marketplace,BA,Bahia,Nordeste,6,Concluído
+2517,141,2024-10-13,Site Próprio,SP,São Paulo,Sudeste,4,Concluído
+2518,324,2025-10-24,Site Próprio,RJ,Rio de Janeiro,Sudeste,5,Concluído
+2519,454,2025-12-20,Site Próprio,SP,São Paulo,Sudeste,6,Cancelado
+2520,240,2025-08-01,Marketplace,SC,Santa Catarina,Sul,2,Concluído
+2521,197,2025-11-20,Marketplace,MG,Minas Gerais,Sudeste,2,Concluído
+2522,85,2024-11-05,Site Próprio,MT,Mato Grosso,Centro-Oeste,2,Concluído
+2523,195,2025-12-26,Site Próprio,SP,São Paulo,Sudeste,1,Concluído
+2524,286,2025-12-12,Site Próprio,PR,Paraná,Sul,2,Concluído
+2525,131,2024-10-06,Marketplace,BA,Bahia,Nordeste,4,Concluído
+2526,485,2025-10-11,Site Próprio,RS,Rio Grande do Sul,Sul,1,Cancelado
+2527,289,2024-12-17,Site Próprio,MS,Mato Grosso do Sul,Centro-Oeste,3,Concluído
+2528,212,2025-10-08,Marketplace,MG,Minas Gerais,Sudeste,4,Concluído
+2529,212,2025-10-07,Marketplace,MG,Minas Gerais,Sudeste,5,Concluído
+2530,461,2025-05-03,Site Próprio,MG,Minas Gerais,Sudeste,6,Concluído
+2531,57,2024-12-12,Marketplace,RS,Rio Grande do Sul,Sul,1,Concluído
+2532,583,2025-03-05,Marketplace,SP,São Paulo,Sudeste,3,Concluído
+2533,28,2024-02-03,Site Próprio,ES,Espírito Santo,Sudeste,2,Concluído
+2534,607,2024-12-18,Site Próprio,RJ,Rio de Janeiro,Sudeste,4,Concluído
+2535,105,2025-03-06,Site Próprio,MS,Mato Grosso do Sul,Centro-Oeste,4,Concluído
+2536,435,2025-12-21,Aplicativo,RS,Rio Grande do Sul,Sul,6,Concluído
+2537,646,2024-11-15,Site Próprio,SP,São Paulo,Sudeste,5,Concluído
+2538,49,2025-03-21,Marketplace,RS,Rio Grande do Sul,Sul,6,Concluído
+2539,77,2024-04-15,Site Próprio,SP,São Paulo,Sudeste,4,Concluído
+2540,226,2025-04-06,Site Próprio,RJ,Rio de Janeiro,Sudeste,3,Concluído
+2541,207,2024-05-15,Aplicativo,SC,Santa Catarina,Sul,6,Concluído
+2542,104,2024-11-07,Site Próprio,SP,São Paulo,Sudeste,3,Concluído
+2543,469,2024-03-18,Marketplace,SP,São Paulo,Sudeste,1,Concluído
+2544,400,2024-12-07,Site Próprio,DF,Distrito Federal,Centro-Oeste,5,Concluído
+2545,119,2025-08-07,Site Próprio,CE,Ceará,Nordeste,5,Cancelado
+2546,110,2024-06-23,Marketplace,SP,São Paulo,Sudeste,4,Concluído
+2547,255,2024-04-17,Site Próprio,RJ,Rio de Janeiro,Sudeste,6,Concluído
+2548,641,2025-05-18,Aplicativo,BA,Bahia,Nordeste,3,Concluído
+2549,242,2024-12-26,Site Próprio,SP,São Paulo,Sudeste,3,Concluído
+2550,204,2024-08-24,Site Próprio,SP,São Paulo,Sudeste,6,Concluído
+2551,77,2024-03-19,Marketplace,SP,São Paulo,Sudeste,6,Concluído
+2552,198,2025-06-24,Marketplace,SP,São Paulo,Sudeste,1,Concluído
+2553,370,2024-12-26,Site Próprio,RJ,Rio de Janeiro,Sudeste,5,Concluído
+2554,631,2024-08-24,Marketplace,SP,São Paulo,Sudeste,4,Concluído
+2555,300,2025-11-11,Aplicativo,BA,Bahia,Nordeste,3,Concluído
+2556,135,2025-12-15,Aplicativo,SP,São Paulo,Sudeste,6,Concluído
+2557,560,2025-11-08,Site Próprio,SP,São Paulo,Sudeste,6,Concluído
+2558,620,2024-06-17,Site Próprio,SP,São Paulo,Sudeste,1,Concluído
+2559,566,2025-08-14,Site Próprio,GO,Goiás,Centro-Oeste,6,Cancelado
+2560,75,2024-09-12,Site Próprio,PR,Paraná,Sul,2,Concluído
+2561,422,2024-12-23,Site Próprio,SP,São Paulo,Sudeste,2,Concluído
+2562,137,2024-11-06,Site Próprio,RJ,Rio de Janeiro,Sudeste,6,Concluído
+2563,121,2025-04-05,Site Próprio,SP,São Paulo,Sudeste,3,Concluído
+2564,332,2024-07-22,Site Próprio,PR,Paraná,Sul,4,Concluído
+2565,180,2025-06-27,Site Próprio,SP,São Paulo,Sudeste,5,Concluído
+2566,280,2025-12-19,Site Próprio,GO,Goiás,Centro-Oeste,1,Concluído
+2567,216,2024-05-03,Aplicativo,RJ,Rio de Janeiro,Sudeste,5,Concluído
+2568,242,2025-05-17,Site Próprio,SP,São Paulo,Sudeste,2,Concluído
+2569,443,2025-12-02,Marketplace,SP,São Paulo,Sudeste,4,Concluído
+2570,397,2025-11-26,Aplicativo,SP,São Paulo,Sudeste,1,Concluído
+2571,87,2025-08-10,Site Próprio,SP,São Paulo,Sudeste,1,Concluído
+2572,433,2025-11-02,Marketplace,ES,Espírito Santo,Sudeste,4,Concluído
+2573,610,2025-11-24,Site Próprio,SC,Santa Catarina,Sul,4,Cancelado
+2574,325,2025-11-10,Marketplace,RJ,Rio de Janeiro,Sudeste,1,Cancelado
+2575,92,2024-06-14,Marketplace,RS,Rio Grande do Sul,Sul,2,Concluído
+2576,494,2025-12-11,Site Próprio,MA,Maranhão,Nordeste,4,Concluído
+2577,193,2025-11-16,Site Próprio,DF,Distrito Federal,Centro-Oeste,3,Concluído
+2578,258,2025-03-23,Site Próprio,SP,São Paulo,Sudeste,1,Concluído
+2579,219,2024-11-18,Marketplace,GO,Goiás,Centro-Oeste,6,Concluído
+2580,567,2025-12-08,Site Próprio,RJ,Rio de Janeiro,Sudeste,4,Concluído
+2581,388,2025-03-07,Site Próprio,SP,São Paulo,Sudeste,3,Concluído
+2582,438,2025-12-11,Marketplace,MG,Minas Gerais,Sudeste,3,Concluído
+2583,161,2024-04-18,Site Próprio,RJ,Rio de Janeiro,Sudeste,4,Cancelado
+2584,639,2025-11-08,Aplicativo,DF,Distrito Federal,Centro-Oeste,6,Cancelado
+2585,577,2025-03-21,Site Próprio,SP,São Paulo,Sudeste,1,Cancelado
+2586,175,2024-06-09,Site Próprio,SP,São Paulo,Sudeste,3,Concluído
+2587,91,2025-02-16,Marketplace,SP,São Paulo,Sudeste,1,Concluído
+2588,341,2025-12-14,Site Próprio,MG,Minas Gerais,Sudeste,3,Concluído
+2589,40,2025-10-25,Marketplace,BA,Bahia,Nordeste,5,Concluído
+2590,579,2025-01-02,Site Próprio,SP,São Paulo,Sudeste,3,Concluído
+2591,405,2024-06-07,Marketplace,SP,São Paulo,Sudeste,6,Concluído
+2592,494,2024-05-06,Site Próprio,MA,Maranhão,Nordeste,4,Concluído
+2593,114,2025-03-01,Marketplace,PA,Pará,Norte,4,Concluído
+2594,647,2024-12-02,Marketplace,RS,Rio Grande do Sul,Sul,1,Concluído
+2595,73,2024-07-05,Site Próprio,SP,São Paulo,Sudeste,3,Concluído
+2596,301,2024-11-20,Site Próprio,RS,Rio Grande do Sul,Sul,4,Concluído
+2597,633,2025-02-15,Site Próprio,PR,Paraná,Sul,6,Concluído
+2598,481,2025-02-04,Marketplace,DF,Distrito Federal,Centro-Oeste,4,Concluído
+2599,481,2025-09-16,Marketplace,DF,Distrito Federal,Centro-Oeste,4,Concluído
+2600,599,2024-01-14,Site Próprio,SC,Santa Catarina,Sul,6,Concluído
+2601,114,2024-10-19,Site Próprio,PA,Pará,Norte,4,Concluído
+2602,5,2025-01-21,Site Próprio,SP,São Paulo,Sudeste,6,Concluído
+2603,1,2025-11-23,Site Próprio,SC,Santa Catarina,Sul,4,Concluído
+2604,19,2025-12-19,Marketplace,SP,São Paulo,Sudeste,2,Concluído
+2605,12,2024-11-20,Marketplace,DF,Distrito Federal,Centro-Oeste,5,Concluído
+2606,160,2024-11-19,Marketplace,MG,Minas Gerais,Sudeste,2,Concluído
+2607,405,2025-07-07,Marketplace,SP,São Paulo,Sudeste,5,Concluído
+2608,76,2025-11-04,Marketplace,SC,Santa Catarina,Sul,2,Concluído
+2609,83,2024-11-12,Marketplace,DF,Distrito Federal,Centro-Oeste,6,Concluído
+2610,554,2024-11-05,Aplicativo,RS,Rio Grande do Sul,Sul,6,Concluído
+2611,508,2025-02-09,Marketplace,SP,São Paulo,Sudeste,6,Concluído
+2612,315,2025-11-21,Marketplace,MS,Mato Grosso do Sul,Centro-Oeste,1,Concluído
+2613,575,2024-09-27,Marketplace,CE,Ceará,Nordeste,3,Concluído
+2614,203,2024-10-17,Site Próprio,MG,Minas Gerais,Sudeste,6,Concluído
+2615,471,2025-11-24,Marketplace,RJ,Rio de Janeiro,Sudeste,5,Concluído
+2616,569,2025-09-06,Marketplace,MG,Minas Gerais,Sudeste,2,Concluído
+2617,251,2024-11-03,Marketplace,RJ,Rio de Janeiro,Sudeste,2,Concluído
+2618,284,2025-11-04,Site Próprio,SP,São Paulo,Sudeste,6,Concluído
+2619,82,2024-04-08,Site Próprio,MG,Minas Gerais,Sudeste,2,Concluído
+2620,444,2024-07-23,Site Próprio,RJ,Rio de Janeiro,Sudeste,5,Concluído
+2621,274,2024-11-18,Marketplace,RJ,Rio de Janeiro,Sudeste,2,Concluído
+2622,435,2025-10-19,Marketplace,RS,Rio Grande do Sul,Sul,2,Concluído
+2623,588,2024-11-04,Marketplace,PR,Paraná,Sul,6,Concluído
+2624,265,2025-04-16,Site Próprio,PR,Paraná,Sul,2,Concluído
+2625,151,2024-09-21,Marketplace,PR,Paraná,Sul,3,Concluído
+2626,511,2025-12-15,Site Próprio,BA,Bahia,Nordeste,4,Concluído
+2627,495,2024-05-18,Site Próprio,PE,Pernambuco,Nordeste,4,Concluído
+2628,326,2024-11-07,Aplicativo,PR,Paraná,Sul,3,Cancelado
+2629,223,2024-11-04,Aplicativo,GO,Goiás,Centro-Oeste,1,Concluído
+2630,396,2024-08-05,Marketplace,SC,Santa Catarina,Sul,2,Concluído
+2631,72,2024-07-27,Site Próprio,SP,São Paulo,Sudeste,5,Concluído
+2632,137,2024-08-01,Site Próprio,RJ,Rio de Janeiro,Sudeste,6,Concluído
+2633,202,2025-06-15,Site Próprio,SP,São Paulo,Sudeste,4,Concluído
+2634,322,2025-03-06,Site Próprio,CE,Ceará,Nordeste,1,Concluído
+2635,450,2024-06-27,Marketplace,MG,Minas Gerais,Sudeste,1,Concluído
+2636,648,2025-12-20,Site Próprio,GO,Goiás,Centro-Oeste,6,Concluído
+2637,610,2025-06-03,Site Próprio,SC,Santa Catarina,Sul,3,Concluído
+2638,385,2024-06-18,Marketplace,DF,Distrito Federal,Centro-Oeste,2,Concluído

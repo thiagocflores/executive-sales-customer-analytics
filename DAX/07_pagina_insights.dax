@@ -1,0 +1,74 @@
+// =============================================================================
+// PÁGINA 6 — INSIGHTS
+// Medidas que geram os textos dinâmicos usados nos cards de "Insight do Mês".
+// Combinam CALCULATE + FILTER + VAR + FORMAT + a lógica das páginas anteriores.
+// =============================================================================
+
+// --- Insight 1: SP concentra receita mas com margem abaixo da média --------
+Texto Insight SP =
+VAR PctReceitaSP =
+    CALCULATE([% Receita do Estado sobre o Total], dim_Estados[estado] = "São Paulo")
+VAR MargemSP =
+    CALCULATE([Margem %], dim_Estados[estado] = "São Paulo")
+VAR MargemNacional = CALCULATE([Margem %], REMOVEFILTERS(dim_Estados))
+RETURN
+    "Apesar de São Paulo representar " & FORMAT(PctReceitaSP, "0.0%") &
+    " da receita, sua margem (" & FORMAT(MargemSP, "0.0%") &
+    ") está " & FORMAT(MargemNacional - MargemSP, "0.0%") &
+    " p.p. abaixo da margem nacional (" & FORMAT(MargemNacional, "0.0%") & ")."
+
+// --- Insight 2: produto de alto volume e baixa margem -----------------------
+Texto Insight Produto Isca =
+VAR ProdutoIsca =
+    CALCULATE(
+        SELECTEDVALUE(dim_Produtos[nome_produto]),
+        TOPN(
+            1,
+            FILTER(ALL(dim_Produtos), CALCULATE([Margem % Produto]) < 0.18),
+            CALCULATE([Quantidade Vendida]), DESC
+        )
+    )
+VAR MargemProdutoIsca =
+    CALCULATE([Margem % Produto], dim_Produtos[nome_produto] = ProdutoIsca)
+RETURN
+    "O produto '" & ProdutoIsca & "' está entre os mais vendidos, mas opera com margem de apenas " &
+    FORMAT(MargemProdutoIsca, "0.0%") & "."
+
+// --- Insight 3: clientes recorrentes têm ticket maior -----------------------
+Texto Insight Recorrencia =
+VAR TicketRecorrente =
+    CALCULATE([Ticket Médio do Cliente], FILTER(dim_Clientes, [Segmento Cliente] = "Recorrente"))
+VAR TicketNovo =
+    CALCULATE([Ticket Médio do Cliente], FILTER(dim_Clientes, [Segmento Cliente] = "Novo"))
+VAR DiferencaPct = DIVIDE(TicketRecorrente - TicketNovo, TicketNovo)
+RETURN
+    "Clientes recorrentes possuem ticket " & FORMAT(DiferencaPct, "0.0%") &
+    " maior que clientes novos (R$ " & FORMAT(TicketRecorrente, "#,##0") &
+    " vs. R$ " & FORMAT(TicketNovo, "#,##0") & ")."
+
+// --- Insight 4: canal de aquisição com pior recorrência ---------------------
+Texto Insight Canal =
+VAR PiorCanal =
+    CALCULATE(
+        SELECTEDVALUE(dim_Clientes[canal_aquisicao]),
+        TOPN(
+            1, ALL(dim_Clientes[canal_aquisicao]),
+            CALCULATE(DIVIDE([Qtd Clientes Recorrentes], DISTINCTCOUNT(dim_Clientes[cliente_id]))), ASC
+        )
+    )
+VAR MelhorCanal =
+    CALCULATE(
+        SELECTEDVALUE(dim_Clientes[canal_aquisicao]),
+        TOPN(
+            1, ALL(dim_Clientes[canal_aquisicao]),
+            CALCULATE(DIVIDE([Qtd Clientes Recorrentes], DISTINCTCOUNT(dim_Clientes[cliente_id]))), DESC
+        )
+    )
+RETURN
+    "O canal '" & PiorCanal & "' traz o maior volume de clientes novos, mas com a menor taxa de recompra — '" &
+    MelhorCanal & "' converte proporcionalmente muito mais clientes em recorrentes."
+
+// Observação: estas medidas retornam texto e devem ser usadas em caixas de
+// texto/cards com "Campos" habilitados para referenciar medida, ou via um
+// visual de cartão simples (Card). Os números exatos batem com os cálculos
+// em Dataset/insights_calculados.json, usados também no README.

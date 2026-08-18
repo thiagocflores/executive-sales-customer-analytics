@@ -1,0 +1,651 @@
+cliente_id,nome_cliente,email,telefone,cidade,uf,cep,estado,regiao,data_cadastro,canal_aquisicao
+1,Benicio Sousa,benicio.sou@hotmail.com,(48) 98019-7543,Blumenau,SC,85328-710,Santa Catarina,Sul,2024-02-27,Facebook Ads
+2,Pietro Carvalho,pietrocarvalho@outlook.com,(55) 92040-7304,Porto Alegre,RS,96978-480,Rio Grande do Sul,Sul,2024-08-29,Google Ads
+3,Zoe Borges,zoe699@outlook.com,(87) 92827-5808,Recife,PE,56270-482,Pernambuco,Nordeste,2025-05-09,Facebook Ads
+4,Benício Alves,benicio.alv@gmail.com,(19) 94258-3504,São Bernardo do Campo,SP,05288-095,São Paulo,Sudeste,2024-02-23,Google Ads
+5,Ravi Lucca Montenegro,r.montenegro@yahoo.com.br,(15) 94923-1949,São Paulo,SP,03911-718,São Paulo,Sudeste,2024-01-09,Google Ads
+6,Miguel Silva,miguel.silva17@yahoo.com.br,(53) 95342-9645,Canoas,RS,99638-346,Rio Grande do Sul,Sul,2025-02-24,Instagram Ads
+7,Zoe Leão,zoe.leao84@yahoo.com.br,(22) 92982-5061,Rio de Janeiro,RJ,23150-983,Rio de Janeiro,Sudeste,2025-03-23,Email Marketing
+8,Agatha Abreu,agatha.abr@hotmail.com,(14) 92104-1514,São José dos Campos,SP,05183-473,São Paulo,Sudeste,2024-07-30,Instagram Ads
+9,Liam Sampaio,liam958@hotmail.com,(61) 98749-7669,Ceilândia,DF,73116-566,Distrito Federal,Centro-Oeste,2024-03-09,Instagram Ads
+10,Agatha Cassiano,agatha.cas@hotmail.com,(81) 91993-7596,Jaboatão dos Guararapes,PE,55133-387,Pernambuco,Nordeste,2024-02-08,Google Ads
+11,Bárbara Caldeira,barbara.caldeira24@gmail.com,(12) 98260-2604,São José dos Campos,SP,00801-326,São Paulo,Sudeste,2024-01-20,Instagram Ads
+12,Gael Fogaça,gael.fogaca28@yahoo.com.br,(61) 97209-1035,Brasília,DF,76474-687,Distrito Federal,Centro-Oeste,2024-01-09,Google Ads
+13,Vinícius Aparecida,vinicius.aparecida@hotmail.com,(19) 91998-6138,São José dos Campos,SP,00097-882,São Paulo,Sudeste,2024-03-17,Orgânico/Busca
+14,Stella Campos,stellacampos@gmail.com,(61) 94853-7615,Ceilândia,DF,71939-909,Distrito Federal,Centro-Oeste,2024-03-06,Orgânico/Busca
+15,Gabriela Barros,gabriela598@hotmail.com,(15) 94346-6147,São José dos Campos,SP,03462-475,São Paulo,Sudeste,2024-03-28,Instagram Ads
+16,Eloá Oliveira,eloa.oliveira10@hotmail.com,(51) 92200-9808,Porto Alegre,RS,93842-513,Rio Grande do Sul,Sul,2025-01-28,Instagram Ads
+17,Davi Miguel Aparecida,davimiguel449@hotmail.com,(45) 99666-1128,Curitiba,PR,88412-411,Paraná,Sul,2024-01-18,Instagram Ads
+18,Amanda Barros,a.barros@hotmail.com,(37) 96617-4335,Juiz de Fora,MG,34874-016,Minas Gerais,Sudeste,2025-03-29,Orgânico/Busca
+19,Guilherme Garcia,g.garcia@outlook.com,(15) 93647-8239,São Paulo,SP,08680-112,São Paulo,Sudeste,2025-07-13,Orgânico/Busca
+20,Emanuella Castro,emanuella597@gmail.com,(13) 91685-6050,São Bernardo do Campo,SP,05053-315,São Paulo,Sudeste,2024-01-26,Orgânico/Busca
+21,Otto Rios,otto998@outlook.com,(85) 93662-3900,Juazeiro do Norte,CE,66025-634,Ceará,Nordeste,2024-10-20,Google Ads
+22,Diego Pereira,diego.pereira90@yahoo.com.br,(18) 94644-4269,São Paulo,SP,07543-303,São Paulo,Sudeste,2024-01-25,Facebook Ads
+23,Sophie Siqueira,sophie.siqueira@icloud.com,(15) 96753-9346,São Paulo,SP,06850-142,São Paulo,Sudeste,2024-02-27,Email Marketing
+24,Maria Eduarda Garcia,mariaeduarda.garcia@hotmail.com,(61) 96139-8149,Águas Claras,DF,79816-934,Distrito Federal,Centro-Oeste,2024-08-13,Google Ads
+25,Pedro Lucas Rodrigues,pedrolucas2@yahoo.com.br,(35) 94228-6967,Uberlândia,MG,36159-514,Minas Gerais,Sudeste,2024-01-25,Google Ads
+26,Daniel da Conceição,d.daconceicao@gmail.com,(15) 93085-4143,São Paulo,SP,06629-946,São Paulo,Sudeste,2024-01-30,Orgânico/Busca
+27,Ana Vitória Guerra,a.guerra@gmail.com,(16) 98618-8238,São Paulo,SP,07387-214,São Paulo,Sudeste,2024-03-14,Google Ads
+28,Otávio Nunes,o.nunes@gmail.com,(27) 96085-4680,Linhares,ES,23200-379,Espírito Santo,Sudeste,2024-01-25,Email Marketing
+29,Ana Vitória Cunha,anavitoria.cunha10@yahoo.com.br,(14) 97291-9099,São José dos Campos,SP,06320-163,São Paulo,Sudeste,2025-07-25,Instagram Ads
+30,Isabela Ramos,isabela.ramos90@gmail.com,(21) 92988-8478,Campos dos Goytacazes,RJ,22788-957,Rio de Janeiro,Sudeste,2024-02-28,Email Marketing
+31,Vinícius Carvalho,vinicius914@gmail.com,(88) 93607-8777,Fortaleza,CE,67434-873,Ceará,Nordeste,2024-12-08,Instagram Ads
+32,Stephany da Luz,s.daluz@gmail.com,(88) 96238-9849,Fortaleza,CE,61223-623,Ceará,Nordeste,2024-01-23,Facebook Ads
+33,Liz Pacheco,liz339@gmail.com,(31) 94388-7883,Juiz de Fora,MG,36909-670,Minas Gerais,Sudeste,2024-03-08,Email Marketing
+34,Pedro Lucas Carvalho,pedrolucas.carvalho39@outlook.com,(38) 97865-9818,Juiz de Fora,MG,38937-346,Minas Gerais,Sudeste,2024-11-05,Instagram Ads
+35,Fernando Sá,fernando.sa@hotmail.com,(97) 93704-8657,Parintins,AM,62980-699,Amazonas,Norte,2024-02-15,Instagram Ads
+36,Henry Cassiano,henry.cassiano11@gmail.com,(61) 93977-1823,Ceilândia,DF,74653-755,Distrito Federal,Centro-Oeste,2024-04-26,Orgânico/Busca
+37,Lavínia Peixoto,lavinia.peixoto49@gmail.com,(41) 98705-1317,Curitiba,PR,88053-100,Paraná,Sul,2025-03-10,Facebook Ads
+38,Giovanna Peixoto,giovanna.peixoto@hotmail.com,(73) 93068-8758,Itabuna,BA,41937-452,Bahia,Nordeste,2024-05-05,Orgânico/Busca
+39,Sarah da Cunha,sarah.dacunha@outlook.com,(62) 96096-2771,Aparecida de Goiânia,GO,79049-663,Goiás,Centro-Oeste,2025-09-28,Google Ads
+40,Antônio Rodrigues,antonio.rod@gmail.com,(74) 92983-1672,Camaçari,BA,45865-185,Bahia,Nordeste,2024-03-28,Google Ads
+41,Stella Sá,stella.sa54@gmail.com,(74) 98532-3506,Salvador,BA,46284-987,Bahia,Nordeste,2024-03-05,Indicação
+42,Carolina Camargo,c.camargo@gmail.com,(21) 92419-5569,Duque de Caxias,RJ,27379-965,Rio de Janeiro,Sudeste,2024-01-25,Instagram Ads
+43,Levi Marques,levi.marques42@gmail.com,(15) 96576-5581,Guarulhos,SP,09480-831,São Paulo,Sudeste,2024-01-27,Facebook Ads
+44,Vinicius Montenegro,vinicius501@outlook.com,(18) 99041-8342,São Paulo,SP,00143-634,São Paulo,Sudeste,2024-01-01,Google Ads
+45,Natália Caldeira,natalia485@hotmail.com,(17) 96419-6764,São Paulo,SP,07444-313,São Paulo,Sudeste,2025-05-23,Orgânico/Busca
+46,Ana Cecília Porto,anacecilia.por@gmail.com,(14) 98933-5530,Sorocaba,SP,09894-134,São Paulo,Sudeste,2024-03-19,Google Ads
+47,Miguel Cassiano,miguel.cassiano@hotmail.com,(13) 95494-1745,São Paulo,SP,00842-710,São Paulo,Sudeste,2024-02-15,Google Ads
+48,Lorenzo Nogueira,lorenzo.nogueira61@gmail.com,(11) 95136-8827,Guarulhos,SP,01167-190,São Paulo,Sudeste,2024-10-22,Google Ads
+49,Sofia Abreu,s.abreu@gmail.com,(53) 92940-7818,Gravataí,RS,99993-867,Rio Grande do Sul,Sul,2024-03-26,Orgânico/Busca
+50,Mariana Almeida,mariana881@icloud.com,(33) 91986-2625,Betim,MG,33341-232,Minas Gerais,Sudeste,2025-02-23,Facebook Ads
+51,Eloá das Neves,eloa.dasneves21@gmail.com,(18) 95771-1534,São Paulo,SP,03447-134,São Paulo,Sudeste,2024-06-01,Facebook Ads
+52,Rodrigo Nunes,rodrigo.nun@outlook.com,(14) 97965-2880,Ribeirão Preto,SP,08324-210,São Paulo,Sudeste,2024-08-10,Email Marketing
+53,Enzo Gabriel Siqueira,enzogabriel.siq@outlook.com,(43) 98195-3037,Curitiba,PR,87464-887,Paraná,Sul,2024-03-26,Facebook Ads
+54,Davi Miguel Teixeira,davimiguel.teixeira77@outlook.com,(15) 91423-2496,Santo André,SP,03990-490,São Paulo,Sudeste,2024-02-13,Instagram Ads
+55,José Cardoso,jose482@hotmail.com,(48) 93973-8141,Florianópolis,SC,87175-655,Santa Catarina,Sul,2025-01-17,Google Ads
+56,Ísis Cavalcante,isis.cavalcante21@hotmail.com,(66) 97561-1601,Várzea Grande,MT,77154-516,Mato Grosso,Centro-Oeste,2025-03-28,Orgânico/Busca
+57,Lavínia Cunha,lavinia674@gmail.com,(51) 94073-9494,Porto Alegre,RS,95977-034,Rio Grande do Sul,Sul,2024-08-24,Facebook Ads
+58,Murilo Silva,murilo.sil@gmail.com,(11) 94920-3594,São Paulo,SP,04808-613,São Paulo,Sudeste,2024-03-24,Orgânico/Busca
+59,Evelyn Macedo,evelyn.macedo@hotmail.com,(13) 99165-5781,São Paulo,SP,08467-737,São Paulo,Sudeste,2024-09-18,Instagram Ads
+60,Marcela Campos,marcela196@gmail.com,(85) 92143-5526,Caucaia,CE,66584-044,Ceará,Nordeste,2025-08-06,Orgânico/Busca
+61,Davi Lucas Fernandes,davilucas.fernandes75@yahoo.com.br,(18) 99824-8935,Campinas,SP,05588-675,São Paulo,Sudeste,2024-08-14,Facebook Ads
+62,Raul Pastor,raul245@gmail.com,(17) 91715-6213,São Paulo,SP,07662-702,São Paulo,Sudeste,2024-04-12,Facebook Ads
+63,Diego Santos,diego.santos@yahoo.com.br,(55) 92633-9617,Porto Alegre,RS,97026-217,Rio Grande do Sul,Sul,2024-01-20,Google Ads
+64,Raul Azevedo,raul347@hotmail.com,(24) 92315-6383,Duque de Caxias,RJ,28657-809,Rio de Janeiro,Sudeste,2025-03-12,Google Ads
+65,Bianca Barbosa,b.barbosa@icloud.com,(85) 98110-2612,Fortaleza,CE,61724-005,Ceará,Nordeste,2024-03-22,Google Ads
+66,Agatha Rios,a.rios@gmail.com,(14) 99702-7751,São Paulo,SP,09222-196,São Paulo,Sudeste,2025-01-07,Google Ads
+67,Valentina Cardoso,valentina510@gmail.com,(34) 95161-8529,Contagem,MG,34074-821,Minas Gerais,Sudeste,2024-12-23,Email Marketing
+68,Maria Júlia da Cruz,m.dacruz@hotmail.com,(22) 95097-8484,Niterói,RJ,24367-136,Rio de Janeiro,Sudeste,2024-03-06,Google Ads
+69,Joana Correia,joana.cor@gmail.com,(38) 97484-5497,Belo Horizonte,MG,30909-743,Minas Gerais,Sudeste,2025-06-04,Email Marketing
+70,Lorena Fogaça,lorena.fog@gmail.com,(67) 93240-2591,Campo Grande,MS,70470-952,Mato Grosso do Sul,Centro-Oeste,2024-05-22,Indicação
+71,Maria Helena Siqueira,mariahelena.siq@gmail.com,(14) 93165-9837,São Paulo,SP,05884-247,São Paulo,Sudeste,2024-02-08,Instagram Ads
+72,Gael Henrique Araújo,g.araujo@outlook.com,(18) 92233-3306,São Paulo,SP,03685-160,São Paulo,Sudeste,2024-04-30,Orgânico/Busca
+73,Camila Caldeira,c.caldeira@hotmail.com,(15) 97242-7086,São Paulo,SP,01370-985,São Paulo,Sudeste,2024-02-06,Indicação
+74,Mateus Nascimento,mateus.nascimento@hotmail.com,(87) 95951-7689,Recife,PE,51200-471,Pernambuco,Nordeste,2024-08-15,Instagram Ads
+75,Lavínia Cirino,lavinia.cirino69@gmail.com,(46) 99850-7866,Cascavel,PR,89261-796,Paraná,Sul,2024-02-10,Google Ads
+76,Theo Barbosa,theo.bar@gmail.com,(48) 98285-4868,Florianópolis,SC,85158-506,Santa Catarina,Sul,2024-08-31,Orgânico/Busca
+77,Ísis Brito,isis.brito16@gmail.com,(14) 91349-1828,Ribeirão Preto,SP,05329-318,São Paulo,Sudeste,2024-02-09,Orgânico/Busca
+78,Valentina Albuquerque,valentinaalbuquerque@gmail.com,(92) 91046-5542,Manaus,AM,62284-210,Amazonas,Norte,2024-01-05,Facebook Ads
+79,Renan Cavalcante,renancavalcante@hotmail.com,(71) 93854-5347,Ilhéus,BA,40268-117,Bahia,Nordeste,2024-03-28,Facebook Ads
+80,Maria Luísa Cunha,marialuisa526@gmail.com,(85) 91710-9543,Sobral,CE,64700-766,Ceará,Nordeste,2024-02-06,Facebook Ads
+81,Dante Cavalcante,dante.cavalcante63@gmail.com,(47) 96277-3430,Criciúma,SC,81249-985,Santa Catarina,Sul,2025-07-18,Instagram Ads
+82,Heloisa da Luz,h.daluz@gmail.com,(35) 98048-2624,Belo Horizonte,MG,31836-736,Minas Gerais,Sudeste,2024-02-04,Orgânico/Busca
+83,Maria da Paz,maria.dapaz59@outlook.com,(61) 97992-6120,Brasília,DF,74527-111,Distrito Federal,Centro-Oeste,2024-03-24,Facebook Ads
+84,Mariah Cassiano,mariah.cas@gmail.com,(62) 91982-6400,Goiânia,GO,71656-049,Goiás,Centro-Oeste,2024-02-08,Instagram Ads
+85,Pedro Henrique Araújo,pedrohenrique592@gmail.com,(66) 94674-2773,Várzea Grande,MT,75851-493,Mato Grosso,Centro-Oeste,2024-01-18,Email Marketing
+86,Vitória Araújo,vitoria998@hotmail.com,(51) 95381-1474,Porto Alegre,RS,92445-502,Rio Grande do Sul,Sul,2025-02-12,Facebook Ads
+87,Danilo Aragão,danilo.aragao73@gmail.com,(11) 92503-9691,Sorocaba,SP,03667-525,São Paulo,Sudeste,2025-05-15,Google Ads
+88,Milena Moura,milena796@hotmail.com,(71) 93549-3579,Salvador,BA,49014-767,Bahia,Nordeste,2024-02-22,Orgânico/Busca
+89,Nicole Barros,nicolebarros@outlook.com,(21) 96655-8043,Duque de Caxias,RJ,21497-840,Rio de Janeiro,Sudeste,2024-06-26,Instagram Ads
+90,Davi Miguel Peixoto,davimiguel.peixoto@gmail.com,(21) 93248-5186,Rio de Janeiro,RJ,24510-762,Rio de Janeiro,Sudeste,2024-03-17,Indicação
+91,Ravy Guerra,ravyguerra@gmail.com,(16) 92180-7505,Sorocaba,SP,00607-159,São Paulo,Sudeste,2024-01-07,Instagram Ads
+92,Thales Pacheco,thales.pac@gmail.com,(51) 97636-1341,Porto Alegre,RS,95297-516,Rio Grande do Sul,Sul,2024-01-11,Instagram Ads
+93,Enrico Leão,enrico447@gmail.com,(41) 97484-6083,Cascavel,PR,85352-181,Paraná,Sul,2025-02-20,Instagram Ads
+94,Rebeca Dias,r.dias@gmail.com,(46) 93419-4871,Curitiba,PR,81243-292,Paraná,Sul,2024-02-29,Instagram Ads
+95,Nicolas Rios,nicolasrios@icloud.com,(97) 98601-8354,Manaus,AM,69955-271,Amazonas,Norte,2025-08-26,Facebook Ads
+96,Rhavi da Luz,r.daluz@hotmail.com,(87) 99312-2215,Petrolina,PE,54770-054,Pernambuco,Nordeste,2024-03-05,Email Marketing
+97,Ana Clara Marques,anaclara630@gmail.com,(48) 91672-8368,Florianópolis,SC,89359-782,Santa Catarina,Sul,2024-02-05,Facebook Ads
+98,Diogo Albuquerque,d.albuquerque@icloud.com,(71) 99266-3827,Feira de Santana,BA,40377-889,Bahia,Nordeste,2024-09-21,Google Ads
+99,Guilherme Barbosa,g.barbosa@gmail.com,(64) 91857-6482,Aparecida de Goiânia,GO,71518-644,Goiás,Centro-Oeste,2024-02-11,Instagram Ads
+100,Natália da Luz,natalia988@yahoo.com.br,(16) 92335-3317,São Paulo,SP,05462-914,São Paulo,Sudeste,2025-01-20,Facebook Ads
+101,Cecília Azevedo,c.azevedo@outlook.com,(19) 92531-7937,São Bernardo do Campo,SP,08505-423,São Paulo,Sudeste,2024-06-12,Instagram Ads
+102,Ester da Paz,esterdapaz@gmail.com,(47) 93538-2264,Criciúma,SC,84188-805,Santa Catarina,Sul,2024-03-20,Google Ads
+103,Yasmin Santos,yasmin135@gmail.com,(21) 93962-3712,Volta Redonda,RJ,27065-379,Rio de Janeiro,Sudeste,2024-06-26,Instagram Ads
+104,Sarah Albuquerque,sarah.albuquerque96@gmail.com,(14) 96070-8684,São Paulo,SP,03597-746,São Paulo,Sudeste,2024-01-28,Email Marketing
+105,Ana Clara Ribeiro,anaclararibeiro@outlook.com,(67) 95096-1854,Corumbá,MS,77581-814,Mato Grosso do Sul,Centro-Oeste,2024-03-01,Instagram Ads
+106,João Felipe da Luz,joaofelipe.daluz21@yahoo.com.br,(32) 98167-2502,Belo Horizonte,MG,33750-606,Minas Gerais,Sudeste,2024-01-10,Email Marketing
+107,Heitor Souza,heitor.souza@gmail.com,(31) 96221-2623,Contagem,MG,35220-472,Minas Gerais,Sudeste,2024-01-11,Email Marketing
+108,Yago da Paz,yago460@gmail.com,(51) 91311-5193,Caxias do Sul,RS,93289-861,Rio Grande do Sul,Sul,2025-01-29,Orgânico/Busca
+109,Caroline Costela,caroline.costela@gmail.com,(55) 98489-2029,Gravataí,RS,91798-089,Rio Grande do Sul,Sul,2025-02-26,Google Ads
+110,Vinícius Montenegro,vinicius.montenegro19@gmail.com,(16) 94941-7825,Santos,SP,02185-188,São Paulo,Sudeste,2024-03-02,Instagram Ads
+111,Cauã Borges,caua.borges@gmail.com,(61) 91713-7338,Ceilândia,DF,75405-153,Distrito Federal,Centro-Oeste,2024-02-13,Facebook Ads
+112,Yuri Aparecida,yuri107@outlook.com,(16) 93185-1726,Campinas,SP,05852-772,São Paulo,Sudeste,2025-03-14,Instagram Ads
+113,José Pedro Porto,josepedro.porto9@gmail.com,(14) 91717-4268,São Paulo,SP,00548-687,São Paulo,Sudeste,2024-04-02,Google Ads
+114,Lorenzo Sousa,lorenzosousa@gmail.com,(91) 96438-5476,Santarém,PA,61566-765,Pará,Norte,2024-03-29,Email Marketing
+115,Letícia Novais,leticia.novais64@gmail.com,(38) 99507-5369,Montes Claros,MG,31616-928,Minas Gerais,Sudeste,2024-11-29,Facebook Ads
+116,Dom Sales,d.sales@hotmail.com,(43) 98305-7981,Foz do Iguaçu,PR,82757-059,Paraná,Sul,2024-01-01,Instagram Ads
+117,Zoe Andrade,zoe.andrade@gmail.com,(87) 96952-9406,Caruaru,PE,52029-702,Pernambuco,Nordeste,2025-08-09,Email Marketing
+118,Juan Lopes,j.lopes@gmail.com,(51) 93513-8371,Gravataí,RS,95571-928,Rio Grande do Sul,Sul,2024-03-16,Facebook Ads
+119,Ana Liz Fonseca,a.fonseca@gmail.com,(85) 91424-4048,Fortaleza,CE,67868-144,Ceará,Nordeste,2024-01-12,Instagram Ads
+120,Bruno Fogaça,b.fogaca@hotmail.com,(22) 94279-3009,Campos dos Goytacazes,RJ,22172-715,Rio de Janeiro,Sudeste,2025-08-06,Orgânico/Busca
+121,Theo Rios,theo67@hotmail.com,(15) 93580-3852,São Paulo,SP,05831-323,São Paulo,Sudeste,2024-07-25,Google Ads
+122,Joana Pinto,joana370@hotmail.com,(67) 93126-2412,Corumbá,MS,71467-866,Mato Grosso do Sul,Centro-Oeste,2024-05-27,Indicação
+123,Renan Castro,r.castro@hotmail.com,(22) 98632-9476,Rio de Janeiro,RJ,25289-226,Rio de Janeiro,Sudeste,2025-05-16,Facebook Ads
+124,Luiz Gustavo Jesus,luizgustavo.jesus@gmail.com,(15) 93697-3653,Ribeirão Preto,SP,05358-414,São Paulo,Sudeste,2024-03-28,Indicação
+125,Brenda Viana,brendaviana@hotmail.com,(98) 99234-3762,Imperatriz,MA,69922-995,Maranhão,Nordeste,2024-01-03,Email Marketing
+126,Theo da Mata,theo.damata@gmail.com,(77) 95336-4453,Itabuna,BA,49690-784,Bahia,Nordeste,2025-08-24,Email Marketing
+127,Henrique Garcia,henriquegarcia@outlook.com,(17) 95873-8430,São Paulo,SP,01027-677,São Paulo,Sudeste,2024-06-27,Facebook Ads
+128,Maria Isis Câmara,m.camara@yahoo.com.br,(66) 96658-7532,Cuiabá,MT,72588-153,Mato Grosso,Centro-Oeste,2024-03-19,Google Ads
+129,Maria Clara Ferreira,mariaclaraferreira@gmail.com,(41) 95754-7293,Curitiba,PR,89632-595,Paraná,Sul,2024-01-18,Google Ads
+130,Rafael Câmara,rafael511@gmail.com,(15) 99148-1379,Guarulhos,SP,01687-339,São Paulo,Sudeste,2024-01-28,Google Ads
+131,Matheus Guerra,matheus.guerra7@hotmail.com,(75) 95681-9793,Itabuna,BA,40162-456,Bahia,Nordeste,2024-01-03,Google Ads
+132,Davi Miguel Vargas,davimiguel53@hotmail.com,(33) 95728-2204,Montes Claros,MG,36878-499,Minas Gerais,Sudeste,2024-01-30,Google Ads
+133,Nicole Guerra,n.guerra@outlook.com,(22) 96990-3363,Rio de Janeiro,RJ,23986-800,Rio de Janeiro,Sudeste,2024-01-26,Instagram Ads
+134,Stella Farias,stella.farias92@gmail.com,(47) 99446-3290,Chapecó,SC,85952-694,Santa Catarina,Sul,2024-03-02,Google Ads
+135,Igor da Luz,igor849@hotmail.com,(15) 98780-1272,São Paulo,SP,05516-940,São Paulo,Sudeste,2025-08-28,Instagram Ads
+136,Vinícius Andrade,vinicius.and@outlook.com,(14) 91841-8871,São Paulo,SP,02896-230,São Paulo,Sudeste,2024-07-07,Google Ads
+137,Luara Ferreira,luaraferreira@gmail.com,(22) 97861-3481,Rio de Janeiro,RJ,26368-970,Rio de Janeiro,Sudeste,2024-05-30,Indicação
+138,Ana Sophia Lopes,anasophia213@gmail.com,(37) 98837-9609,Belo Horizonte,MG,36527-858,Minas Gerais,Sudeste,2025-05-05,Orgânico/Busca
+139,Nina Camargo,nina.cam@hotmail.com,(54) 98932-4150,Gravataí,RS,93484-344,Rio Grande do Sul,Sul,2024-02-24,Indicação
+140,Mateus da Cunha,mateus.dacunha89@gmail.com,(16) 95480-5715,Guarulhos,SP,01986-652,São Paulo,Sudeste,2024-10-29,Email Marketing
+141,Luiza Abreu,luiza.abr@gmail.com,(18) 95201-8849,Santos,SP,03384-842,São Paulo,Sudeste,2024-01-04,Facebook Ads
+142,Stephany Rodrigues,stephanyrodrigues@gmail.com,(24) 99700-4697,Nova Iguaçu,RJ,23016-571,Rio de Janeiro,Sudeste,2024-02-16,Facebook Ads
+143,Matteo Fonseca,matteo6@icloud.com,(13) 97666-8793,São Paulo,SP,07345-401,São Paulo,Sudeste,2025-04-30,Instagram Ads
+144,Bianca Pinto,bianca.pin@outlook.com,(11) 93868-7846,São Paulo,SP,02067-240,São Paulo,Sudeste,2024-11-23,Instagram Ads
+145,Josué Silveira,josue.silveira@yahoo.com.br,(54) 95662-8444,Porto Alegre,RS,98872-874,Rio Grande do Sul,Sul,2024-01-29,Instagram Ads
+146,Natália das Neves,nataliadasneves@outlook.com,(61) 94050-1230,Ceilândia,DF,75493-296,Distrito Federal,Centro-Oeste,2024-03-22,Facebook Ads
+147,Beatriz Guerra,beatriz.guerra@gmail.com,(12) 94027-3303,São Paulo,SP,07530-463,São Paulo,Sudeste,2025-04-01,Instagram Ads
+148,José Miguel Correia,j.correia@gmail.com,(11) 95285-6890,São Paulo,SP,03017-426,São Paulo,Sudeste,2024-03-03,Instagram Ads
+149,Gabrielly Rocha,g.rocha@hotmail.com,(15) 97021-4618,Campinas,SP,03272-795,São Paulo,Sudeste,2024-11-17,Instagram Ads
+150,Luiz Fernando Pimenta,luizfernando.pimenta71@outlook.com,(14) 95054-2341,Guarulhos,SP,08785-191,São Paulo,Sudeste,2024-03-08,Facebook Ads
+151,Jade Novaes,jade925@gmail.com,(45) 93455-3695,Cascavel,PR,85871-397,Paraná,Sul,2024-02-21,Instagram Ads
+152,Ana Júlia da Paz,anajulia.dapaz@gmail.com,(55) 98484-1945,Santa Maria,RS,98740-640,Rio Grande do Sul,Sul,2024-03-16,Instagram Ads
+153,Aurora Martins,aurora.martins@gmail.com,(62) 99866-1987,Goiânia,GO,71704-622,Goiás,Centro-Oeste,2024-07-25,Instagram Ads
+154,Paulo Moraes,paulo.moraes94@gmail.com,(75) 98348-7184,Salvador,BA,46182-512,Bahia,Nordeste,2024-11-29,Orgânico/Busca
+155,Lucca Ribeiro,luccaribeiro@outlook.com,(14) 91056-1372,Guarulhos,SP,04786-863,São Paulo,Sudeste,2024-12-16,Facebook Ads
+156,Olívia Ribeiro,o.ribeiro@gmail.com,(51) 91527-7868,Caxias do Sul,RS,99033-119,Rio Grande do Sul,Sul,2024-01-08,Facebook Ads
+157,Bruna Borges,bruna.bor@yahoo.com.br,(47) 91724-7590,Florianópolis,SC,87383-028,Santa Catarina,Sul,2024-02-26,Instagram Ads
+158,Ravy Rocha,ravy.roc@hotmail.com,(45) 96253-4881,Londrina,PR,84283-644,Paraná,Sul,2025-06-23,Indicação
+159,Miguel Casa Grande,miguel.cas@yahoo.com.br,(37) 97999-9120,Uberlândia,MG,30568-566,Minas Gerais,Sudeste,2024-01-28,Instagram Ads
+160,Samuel Melo,samuel189@gmail.com,(38) 94692-5927,Belo Horizonte,MG,32708-668,Minas Gerais,Sudeste,2024-01-03,Instagram Ads
+161,Diogo Marques,d.marques@gmail.com,(24) 92295-8369,Rio de Janeiro,RJ,25183-046,Rio de Janeiro,Sudeste,2024-02-25,Instagram Ads
+162,Mathias Silva,mathias.silva@gmail.com,(19) 94555-8854,São Paulo,SP,03540-331,São Paulo,Sudeste,2024-11-14,Facebook Ads
+163,Maya Guerra,mayaguerra@hotmail.com,(61) 97498-4921,Ceilândia,DF,78546-785,Distrito Federal,Centro-Oeste,2025-04-17,Google Ads
+164,Anthony Sá,anthony.sa47@gmail.com,(75) 96246-4328,Salvador,BA,45560-932,Bahia,Nordeste,2024-01-22,Facebook Ads
+165,Heitor Vasconcelos,heitor958@hotmail.com,(34) 95836-3497,Betim,MG,33536-937,Minas Gerais,Sudeste,2024-03-18,Google Ads
+166,Luiz Gustavo Sampaio,l.sampaio@outlook.com,(22) 99037-8550,Rio de Janeiro,RJ,22522-872,Rio de Janeiro,Sudeste,2024-11-19,Instagram Ads
+167,Carlos Eduardo Novais,carloseduardo.novais@hotmail.com,(12) 91794-1104,Santo André,SP,06231-203,São Paulo,Sudeste,2025-01-09,Google Ads
+168,Joaquim Marques,joaquim62@hotmail.com,(18) 98993-1257,Santo André,SP,00886-008,São Paulo,Sudeste,2024-01-23,Email Marketing
+169,Maria Fernanda Rios,mariafernanda.rios@gmail.com,(17) 93937-2753,São Paulo,SP,01823-398,São Paulo,Sudeste,2024-06-13,Instagram Ads
+170,Anna Liz Sá,annaliz.sa46@gmail.com,(17) 98520-4984,São Paulo,SP,03410-166,São Paulo,Sudeste,2024-02-17,Instagram Ads
+171,Mirella Lima,mirella.lim@gmail.com,(13) 92354-9189,São José dos Campos,SP,06591-803,São Paulo,Sudeste,2024-03-21,Instagram Ads
+172,Ágatha Machado,agatha909@gmail.com,(11) 92218-5593,São Paulo,SP,08902-503,São Paulo,Sudeste,2024-03-15,Google Ads
+173,Maria Laura Machado,marialaura.mac@outlook.com,(91) 95903-3661,Belém,PA,69396-856,Pará,Norte,2025-08-05,Instagram Ads
+174,Thales Porto,thales.por@outlook.com,(67) 91879-2600,Corumbá,MS,76315-999,Mato Grosso do Sul,Centro-Oeste,2024-08-21,Indicação
+175,Raquel Mendonça,raquel.men@gmail.com,(18) 99038-4737,São Bernardo do Campo,SP,05866-296,São Paulo,Sudeste,2024-01-25,Instagram Ads
+176,Yan Macedo,yanmacedo@hotmail.com,(62) 95390-3526,Anápolis,GO,76265-511,Goiás,Centro-Oeste,2024-02-26,Google Ads
+177,Allana da Costa,a.dacosta@outlook.com,(12) 93170-2430,São Paulo,SP,02678-886,São Paulo,Sudeste,2024-01-07,Orgânico/Busca
+178,Antonella Nogueira,antonella363@gmail.com,(16) 97311-1202,Guarulhos,SP,04661-839,São Paulo,Sudeste,2024-01-25,Facebook Ads
+179,Kevin da Conceição,kevindaconceicao@gmail.com,(15) 95397-9079,Santo André,SP,02126-464,São Paulo,Sudeste,2024-01-08,Instagram Ads
+180,Leandro Santos,l.santos@yahoo.com.br,(18) 94203-8501,São Paulo,SP,01240-659,São Paulo,Sudeste,2024-02-04,Google Ads
+181,Kamilly Jesus,k.jesus@gmail.com,(24) 93230-5922,Rio de Janeiro,RJ,25937-526,Rio de Janeiro,Sudeste,2024-01-20,Google Ads
+182,Maria Flor Leão,mariaflor.lea@hotmail.com,(14) 96339-7161,São Paulo,SP,04651-939,São Paulo,Sudeste,2024-09-29,Instagram Ads
+183,Laura Gomes,laura699@gmail.com,(97) 94434-8183,Itacoatiara,AM,64167-243,Amazonas,Norte,2024-05-05,Facebook Ads
+184,Asafe Teixeira,asafe.teixeira20@outlook.com,(12) 98357-8851,Sorocaba,SP,09688-680,São Paulo,Sudeste,2024-03-22,Orgânico/Busca
+185,Maria Liz Abreu,marializ719@hotmail.com,(51) 92791-5067,Porto Alegre,RS,95290-965,Rio Grande do Sul,Sul,2025-02-10,Facebook Ads
+186,Ana Cecília Sá,anacecilia.sa@gmail.com,(14) 99366-9499,Ribeirão Preto,SP,08993-756,São Paulo,Sudeste,2025-08-30,Email Marketing
+187,Larissa Nascimento,larissa.nas@gmail.com,(67) 91402-8909,Três Lagoas,MS,71461-125,Mato Grosso do Sul,Centro-Oeste,2024-02-05,Instagram Ads
+188,Zoe Pereira,zoepereira@hotmail.com,(28) 98801-2599,Vitória,ES,27751-401,Espírito Santo,Sudeste,2024-03-08,Instagram Ads
+189,Mariah Câmara,mariah.camara@hotmail.com,(47) 94996-9454,Itajaí,SC,82825-867,Santa Catarina,Sul,2024-03-21,Google Ads
+190,Maria Vitória Alves,mariavitoriaalves@gmail.com,(17) 97481-1478,São Paulo,SP,09379-660,São Paulo,Sudeste,2024-01-25,Orgânico/Busca
+191,Jade Silveira,jade.sil@outlook.com,(12) 92667-9796,Ribeirão Preto,SP,02553-714,São Paulo,Sudeste,2024-10-31,Instagram Ads
+192,Maria Helena Cardoso,mariahelena.car@gmail.com,(44) 97431-2871,Curitiba,PR,85579-249,Paraná,Sul,2024-06-30,Google Ads
+193,Sophie Alves,s.alves@gmail.com,(61) 92916-3999,Águas Claras,DF,75286-692,Distrito Federal,Centro-Oeste,2025-09-20,Facebook Ads
+194,Benjamim Barros,benjamim.barros55@hotmail.com,(24) 93838-3733,Niterói,RJ,27422-579,Rio de Janeiro,Sudeste,2025-08-10,Facebook Ads
+195,João Gabriel Martins,joaogabriel.martins@gmail.com,(14) 97290-9281,Guarulhos,SP,07676-772,São Paulo,Sudeste,2024-02-27,Orgânico/Busca
+196,Vicente Garcia,vicentegarcia@gmail.com,(15) 94683-9808,São Paulo,SP,04279-788,São Paulo,Sudeste,2024-01-17,Indicação
+197,Maria Duarte,maria275@outlook.com,(33) 99880-1681,Juiz de Fora,MG,37836-134,Minas Gerais,Sudeste,2024-01-30,Indicação
+198,Gabrielly da Mota,g.damota@gmail.com,(12) 98193-2923,São Bernardo do Campo,SP,03395-962,São Paulo,Sudeste,2024-10-02,Email Marketing
+199,Laura da Cunha,lauradacunha@outlook.com,(16) 99720-5605,Sorocaba,SP,09825-449,São Paulo,Sudeste,2025-05-18,Instagram Ads
+200,Maria Isis Almeida,mariaisis.alm@outlook.com,(53) 97743-1971,Gravataí,RS,94223-253,Rio Grande do Sul,Sul,2024-03-16,Google Ads
+201,Cauã Ferreira,caua.ferreira87@gmail.com,(74) 97786-7146,Salvador,BA,47116-845,Bahia,Nordeste,2025-05-16,Instagram Ads
+202,Davi Miguel Vasconcelos,davimiguel336@gmail.com,(12) 98511-6869,São Paulo,SP,01863-637,São Paulo,Sudeste,2024-01-21,Orgânico/Busca
+203,Bruno Sá,bruno346@hotmail.com,(35) 98951-6631,Montes Claros,MG,30017-012,Minas Gerais,Sudeste,2024-03-27,Orgânico/Busca
+204,Thales Costa,thales.costa1@gmail.com,(13) 95945-3604,São Paulo,SP,04154-152,São Paulo,Sudeste,2024-01-03,Orgânico/Busca
+205,Leandro da Costa,leandro.dac@hotmail.com,(85) 98032-2494,Fortaleza,CE,61037-129,Ceará,Nordeste,2024-03-16,Instagram Ads
+206,Ian Nunes,ian.nunes@gmail.com,(74) 92975-7919,Salvador,BA,42713-611,Bahia,Nordeste,2024-01-12,Instagram Ads
+207,Maria Flor Sampaio,m.sampaio@gmail.com,(47) 93340-2120,Blumenau,SC,88909-275,Santa Catarina,Sul,2024-03-26,Orgânico/Busca
+208,Emilly Cavalcante,emillycavalcante@yahoo.com.br,(45) 98248-4559,Curitiba,PR,81121-965,Paraná,Sul,2024-08-19,Google Ads
+209,Ian Vasconcelos,ianvasconcelos@gmail.com,(12) 95065-5668,São José dos Campos,SP,00438-983,São Paulo,Sudeste,2025-02-27,Instagram Ads
+210,Ana Lívia Caldeira,analivia.caldeira@outlook.com,(38) 94921-9108,Uberlândia,MG,36137-918,Minas Gerais,Sudeste,2025-06-23,Facebook Ads
+211,Ana Lívia Oliveira,a.oliveira@gmail.com,(28) 96986-9951,Serra,ES,22710-910,Espírito Santo,Sudeste,2025-02-12,Instagram Ads
+212,Fernanda Gonçalves,fernanda.goncalves@yahoo.com.br,(34) 99300-5693,Belo Horizonte,MG,38666-188,Minas Gerais,Sudeste,2024-03-01,Google Ads
+213,Miguel Barbosa,m.barbosa@gmail.com,(85) 93545-9788,Juazeiro do Norte,CE,65691-463,Ceará,Nordeste,2025-08-29,Email Marketing
+214,Ryan Caldeira,ryan.caldeira12@gmail.com,(45) 91901-6067,Ponta Grossa,PR,82102-027,Paraná,Sul,2024-02-23,Email Marketing
+215,Ana Julia Rodrigues,anajulia.rod@gmail.com,(16) 93079-5403,Santo André,SP,01056-481,São Paulo,Sudeste,2025-04-18,Google Ads
+216,Isaque Vieira,isaque.vieira@gmail.com,(24) 96900-1908,Campos dos Goytacazes,RJ,27925-241,Rio de Janeiro,Sudeste,2024-02-24,Orgânico/Busca
+217,Bryan Ferreira,bryan.ferreira@gmail.com,(62) 91721-1201,Goiânia,GO,73075-622,Goiás,Centro-Oeste,2025-09-22,Facebook Ads
+218,Ester Azevedo,ester.aze@outlook.com,(97) 94678-6272,Manaus,AM,63654-195,Amazonas,Norte,2025-01-17,Orgânico/Busca
+219,Carolina Albuquerque,carolina.albuquerque@gmail.com,(62) 97568-2129,Aparecida de Goiânia,GO,77445-187,Goiás,Centro-Oeste,2024-02-15,Indicação
+220,Mariana Caldeira,mariana299@outlook.com,(53) 98600-7033,Porto Alegre,RS,99738-320,Rio Grande do Sul,Sul,2024-03-17,Facebook Ads
+221,Eloá Porto,eloa239@gmail.com,(11) 96488-1023,São Paulo,SP,06413-836,São Paulo,Sudeste,2024-11-24,Orgânico/Busca
+222,Maria Clara Santos,mariaclarasantos@hotmail.com,(12) 91719-4792,Guarulhos,SP,08657-191,São Paulo,Sudeste,2024-03-21,Facebook Ads
+223,Luiz Gustavo Siqueira,luizgustavo.siqueira82@gmail.com,(62) 98126-3141,Goiânia,GO,73445-655,Goiás,Centro-Oeste,2024-01-14,Facebook Ads
+224,Vitor Hugo Pimenta,vitorhugopimenta@gmail.com,(49) 92785-3546,Florianópolis,SC,81277-561,Santa Catarina,Sul,2024-02-16,Facebook Ads
+225,Stephany Vasconcelos,stephany.vasconcelos99@gmail.com,(22) 92964-2481,Rio de Janeiro,RJ,22490-352,Rio de Janeiro,Sudeste,2024-03-13,Instagram Ads
+226,Luiza Siqueira,l.siqueira@gmail.com,(21) 95896-5262,Volta Redonda,RJ,22067-883,Rio de Janeiro,Sudeste,2024-02-13,Facebook Ads
+227,Ayla da Cruz,ayladacruz@gmail.com,(11) 94641-3141,São Bernardo do Campo,SP,03651-994,São Paulo,Sudeste,2024-02-23,Google Ads
+228,Erick da Mota,erick.damota@gmail.com,(18) 93110-2506,São Paulo,SP,05107-029,São Paulo,Sudeste,2025-06-30,Google Ads
+229,Ryan Sá,ryan.sa93@gmail.com,(67) 93831-6799,Campo Grande,MS,73244-720,Mato Grosso do Sul,Centro-Oeste,2024-03-20,Instagram Ads
+230,Gabrielly Fernandes,gabrielly.fer@gmail.com,(17) 98848-1999,Guarulhos,SP,01462-638,São Paulo,Sudeste,2024-12-11,Email Marketing
+231,Aylla Cirino,aylla.cirino@icloud.com,(54) 98859-9921,Canoas,RS,97598-564,Rio Grande do Sul,Sul,2024-01-03,Instagram Ads
+232,Daniela da Luz,danieladaluz@gmail.com,(15) 91959-8728,São Paulo,SP,08593-213,São Paulo,Sudeste,2024-02-13,Indicação
+233,Yuri Novais,yuri.nov@gmail.com,(14) 97363-6813,Campinas,SP,02239-559,São Paulo,Sudeste,2024-10-04,Instagram Ads
+234,Mateus Barros,mateus361@hotmail.com,(35) 94084-9064,Betim,MG,38427-010,Minas Gerais,Sudeste,2024-01-01,Instagram Ads
+235,Joana Mendonça,joana21@gmail.com,(22) 94300-3137,Niterói,RJ,25250-029,Rio de Janeiro,Sudeste,2024-01-22,Google Ads
+236,Rodrigo Sales,rodrigo.sales@outlook.com,(22) 92188-7120,Rio de Janeiro,RJ,26915-452,Rio de Janeiro,Sudeste,2025-01-30,Google Ads
+237,Mariane Machado,mariane.machado94@outlook.com,(18) 96198-3854,Santos,SP,08953-926,São Paulo,Sudeste,2024-12-17,Indicação
+238,Francisco da Rocha,franciscodarocha@gmail.com,(21) 97415-1530,Nova Iguaçu,RJ,22959-391,Rio de Janeiro,Sudeste,2024-03-12,Instagram Ads
+239,Ryan das Neves,ryan.das@gmail.com,(22) 96234-3750,Rio de Janeiro,RJ,21570-433,Rio de Janeiro,Sudeste,2024-07-31,Instagram Ads
+240,Emilly Melo,emilly.melo@outlook.com,(47) 97323-8179,Florianópolis,SC,86267-658,Santa Catarina,Sul,2025-03-30,Google Ads
+241,Catarina Lima,catarina808@hotmail.com,(14) 93664-8393,São Bernardo do Campo,SP,01040-541,São Paulo,Sudeste,2024-02-19,Instagram Ads
+242,Ísis Farias,isis.farias22@gmail.com,(12) 99962-2525,Sorocaba,SP,05997-062,São Paulo,Sudeste,2024-03-30,Instagram Ads
+243,Maria da Mata,maria.damata@gmail.com,(14) 94112-7705,São Paulo,SP,08844-431,São Paulo,Sudeste,2024-10-10,Google Ads
+244,Ravi Campos,ravi.campos74@gmail.com,(16) 91062-8005,Osasco,SP,01497-310,São Paulo,Sudeste,2024-01-28,Instagram Ads
+245,Ana Vitória Campos,anavitoria.campos@gmail.com,(85) 96052-7512,Fortaleza,CE,67741-862,Ceará,Nordeste,2024-03-05,Orgânico/Busca
+246,Léo Correia,leocorreia@gmail.com,(43) 98204-8619,Curitiba,PR,84349-021,Paraná,Sul,2024-03-07,Instagram Ads
+247,Maria Sophia da Mota,mariasophia828@gmail.com,(61) 91999-7342,Brasília,DF,78687-937,Distrito Federal,Centro-Oeste,2024-01-20,Instagram Ads
+248,Sabrina Peixoto,sabrina.pei@gmail.com,(19) 93415-2970,São Paulo,SP,07223-320,São Paulo,Sudeste,2024-03-06,Instagram Ads
+249,Guilherme Correia,guilhermecorreia@icloud.com,(37) 93422-5225,Montes Claros,MG,35116-868,Minas Gerais,Sudeste,2024-01-26,Facebook Ads
+250,Eloah Cavalcanti,eloah.cavalcanti36@yahoo.com.br,(81) 99561-7874,Recife,PE,51622-999,Pernambuco,Nordeste,2024-01-27,Facebook Ads
+251,Sophie Cardoso,sophie.cardoso@hotmail.com,(21) 95687-9775,Rio de Janeiro,RJ,25646-799,Rio de Janeiro,Sudeste,2024-09-13,Google Ads
+252,Cauê Novaes,caue.novaes23@gmail.com,(55) 91635-7484,Pelotas,RS,95307-450,Rio Grande do Sul,Sul,2024-01-25,Facebook Ads
+253,José Porto,j.porto@outlook.com,(24) 92609-4734,Campos dos Goytacazes,RJ,22475-469,Rio de Janeiro,Sudeste,2024-01-27,Instagram Ads
+254,Mariane Caldeira,marianecaldeira@yahoo.com.br,(75) 98937-9462,Itabuna,BA,45082-148,Bahia,Nordeste,2025-07-20,Instagram Ads
+255,Alice Melo,alice901@gmail.com,(21) 94288-1944,Petrópolis,RJ,23070-534,Rio de Janeiro,Sudeste,2024-03-19,Indicação
+256,Carolina Cirino,carolina.cirino60@hotmail.com,(21) 91500-4963,Rio de Janeiro,RJ,25797-279,Rio de Janeiro,Sudeste,2024-02-13,Instagram Ads
+257,Thiago Mendes,t.mendes@outlook.com,(37) 92480-5670,Belo Horizonte,MG,30602-933,Minas Gerais,Sudeste,2025-09-12,Google Ads
+258,Davi Lucca Guerra,d.guerra@hotmail.com,(19) 91328-1145,Santos,SP,07229-034,São Paulo,Sudeste,2024-06-02,Orgânico/Busca
+259,Cauê Cassiano,caue.cas@hotmail.com,(34) 97168-6713,Belo Horizonte,MG,37437-489,Minas Gerais,Sudeste,2024-12-26,Instagram Ads
+260,Ana Júlia Barros,anajulia8@icloud.com,(16) 95631-5890,São Paulo,SP,01715-454,São Paulo,Sudeste,2024-01-14,Indicação
+261,Isaac Novais,isaac.nov@gmail.com,(32) 99475-4937,Contagem,MG,30965-207,Minas Gerais,Sudeste,2024-03-30,Instagram Ads
+262,Rael Vasconcelos,rael.vasconcelos34@gmail.com,(51) 94111-6622,Porto Alegre,RS,93875-842,Rio Grande do Sul,Sul,2025-05-24,Orgânico/Busca
+263,Manuella Macedo,m.macedo@gmail.com,(13) 95237-3999,São José dos Campos,SP,05135-346,São Paulo,Sudeste,2025-01-12,Instagram Ads
+264,Liz das Neves,l.dasneves@hotmail.com,(88) 92929-8709,Juazeiro do Norte,CE,60999-173,Ceará,Nordeste,2024-09-10,Google Ads
+265,Dante Pimenta,dante391@gmail.com,(41) 93470-3250,Foz do Iguaçu,PR,83569-725,Paraná,Sul,2024-02-21,Instagram Ads
+266,Gael Henrique Teixeira,gaelhenrique.teixeira@gmail.com,(24) 93897-6134,Duque de Caxias,RJ,20074-329,Rio de Janeiro,Sudeste,2025-09-09,Facebook Ads
+267,Otávio da Luz,otavio.daluz@gmail.com,(17) 98035-7609,Osasco,SP,06760-083,São Paulo,Sudeste,2024-07-23,Instagram Ads
+268,Levi da Costa,l.dacosta@outlook.com,(19) 94122-1293,São Paulo,SP,00335-421,São Paulo,Sudeste,2025-03-28,Google Ads
+269,Dom Castro,domcastro@gmail.com,(21) 95885-5764,Rio de Janeiro,RJ,27898-562,Rio de Janeiro,Sudeste,2024-01-16,Instagram Ads
+270,Manuella Sales,manuellasales@gmail.com,(48) 91313-4742,Blumenau,SC,83230-982,Santa Catarina,Sul,2024-01-01,Instagram Ads
+271,Ana Andrade,ana.andrade@gmail.com,(24) 95190-9761,Campos dos Goytacazes,RJ,29090-100,Rio de Janeiro,Sudeste,2024-02-23,Google Ads
+272,Alexia Sampaio,alexia.sampaio54@gmail.com,(48) 98772-3508,Florianópolis,SC,83046-184,Santa Catarina,Sul,2024-08-05,Instagram Ads
+273,Diego Rodrigues,diego.rodrigues90@outlook.com,(12) 99381-2928,São Paulo,SP,04117-393,São Paulo,Sudeste,2025-07-16,Google Ads
+274,Vinícius Viana,viniciusviana@gmail.com,(22) 95839-3627,Rio de Janeiro,RJ,20873-753,Rio de Janeiro,Sudeste,2024-08-06,Google Ads
+275,Miguel Lima,miguel.lima@outlook.com,(75) 93443-2475,Salvador,BA,48114-374,Bahia,Nordeste,2024-03-12,Instagram Ads
+276,Rael Ramos,raelramos@yahoo.com.br,(48) 96901-6123,Chapecó,SC,86110-022,Santa Catarina,Sul,2024-01-11,Facebook Ads
+277,Vitor Casa Grande,vitor979@gmail.com,(24) 92522-7105,Petrópolis,RJ,25216-674,Rio de Janeiro,Sudeste,2024-01-14,Instagram Ads
+278,Lucas Vieira,lucas.vieira89@outlook.com,(73) 92852-3171,Salvador,BA,40216-979,Bahia,Nordeste,2024-05-10,Orgânico/Busca
+279,Alícia Macedo,alicia.macedo24@outlook.com,(51) 93140-8914,Porto Alegre,RS,97167-014,Rio Grande do Sul,Sul,2024-09-16,Facebook Ads
+280,Ana Júlia Sampaio,anajulia.sam@hotmail.com,(62) 96542-9504,Luziânia,GO,78916-375,Goiás,Centro-Oeste,2024-06-08,Instagram Ads
+281,Yago Montenegro,yagomontenegro@outlook.com,(24) 91894-1190,Duque de Caxias,RJ,22877-217,Rio de Janeiro,Sudeste,2024-11-07,Instagram Ads
+282,Luna Barros,l.barros@gmail.com,(85) 97203-7607,Sobral,CE,63177-971,Ceará,Nordeste,2024-02-18,Orgânico/Busca
+283,Luana Sousa,luana.sousa@icloud.com,(46) 91291-2681,Cascavel,PR,86608-801,Paraná,Sul,2025-02-22,Orgânico/Busca
+284,Theodoro Alves,t.alves@yahoo.com.br,(19) 94389-8474,São Paulo,SP,05503-758,São Paulo,Sudeste,2024-09-24,Facebook Ads
+285,Asafe Teixeira,asafe.tei@hotmail.com,(97) 92868-2596,Manaus,AM,63055-488,Amazonas,Norte,2024-05-21,Email Marketing
+286,Vitor Gabriel Oliveira,vitorgabrieloliveira@gmail.com,(46) 97704-2752,Curitiba,PR,84933-163,Paraná,Sul,2024-03-01,Email Marketing
+287,Luiz Fernando Melo,l.melo@gmail.com,(34) 91761-3018,Belo Horizonte,MG,37798-270,Minas Gerais,Sudeste,2024-01-04,Indicação
+288,Luísa da Mota,luisa.damota7@outlook.com,(44) 99328-3903,Foz do Iguaçu,PR,89221-699,Paraná,Sul,2024-02-16,Instagram Ads
+289,Luiza Porto,luiza.porto65@gmail.com,(67) 95482-7518,Dourados,MS,75472-269,Mato Grosso do Sul,Centro-Oeste,2024-07-09,Email Marketing
+290,Fernando Melo,f.melo@outlook.com,(88) 94560-4291,Fortaleza,CE,63945-228,Ceará,Nordeste,2025-06-21,Indicação
+291,Brenda Duarte,brenda.dua@gmail.com,(87) 98870-7839,Olinda,PE,58460-810,Pernambuco,Nordeste,2024-02-01,Instagram Ads
+292,Lorenzo Farias,lorenzo.farias@gmail.com,(13) 95695-5105,São Paulo,SP,02043-805,São Paulo,Sudeste,2024-03-01,Instagram Ads
+293,Maya da Paz,maya.dap@outlook.com,(42) 97371-4892,Ponta Grossa,PR,88406-665,Paraná,Sul,2024-11-12,Facebook Ads
+294,Isadora Teixeira,isadora.tei@gmail.com,(18) 94695-7025,Guarulhos,SP,09893-347,São Paulo,Sudeste,2025-03-30,Facebook Ads
+295,Maria Borges,mariaborges@icloud.com,(77) 92955-7180,Vitória da Conquista,BA,40648-422,Bahia,Nordeste,2024-02-19,Facebook Ads
+296,Ayla Camargo,a.camargo@gmail.com,(61) 91654-3518,Brasília,DF,75909-479,Distrito Federal,Centro-Oeste,2024-09-20,Google Ads
+297,Isis Moraes,isis.mor@gmail.com,(14) 94012-9529,São Paulo,SP,01826-886,São Paulo,Sudeste,2025-09-14,Indicação
+298,Alexandre Ribeiro,alexandreribeiro@hotmail.com,(88) 96911-5809,Maracanaú,CE,63987-801,Ceará,Nordeste,2024-03-15,Google Ads
+299,Maria Eduarda Jesus,mariaeduarda.jes@hotmail.com,(77) 94994-1653,Salvador,BA,45616-484,Bahia,Nordeste,2025-07-21,Email Marketing
+300,Rafaela Fonseca,r.fonseca@gmail.com,(77) 98300-8975,Feira de Santana,BA,40435-811,Bahia,Nordeste,2024-01-05,Facebook Ads
+301,Melina Pires,melina551@gmail.com,(51) 94453-4492,Gravataí,RS,96138-612,Rio Grande do Sul,Sul,2024-02-26,Indicação
+302,Cauã Costela,caua.costela@gmail.com,(71) 93916-5127,Feira de Santana,BA,48193-466,Bahia,Nordeste,2024-02-09,Facebook Ads
+303,João da Paz,j.dapaz@gmail.com,(49) 92938-9762,Florianópolis,SC,80919-015,Santa Catarina,Sul,2024-01-25,Instagram Ads
+304,Maria Vitória Campos,mariavitoria.cam@gmail.com,(12) 95612-8170,São Paulo,SP,06607-283,São Paulo,Sudeste,2024-11-27,Instagram Ads
+305,Rhavi Santos,rhavi816@gmail.com,(13) 95883-7113,São Paulo,SP,00882-100,São Paulo,Sudeste,2024-01-03,Instagram Ads
+306,Arthur Novaes,arthur551@yahoo.com.br,(97) 94441-6633,Manaus,AM,63682-223,Amazonas,Norte,2024-06-26,Facebook Ads
+307,Rael Camargo,rael.camargo@gmail.com,(45) 91891-9992,Foz do Iguaçu,PR,87814-141,Paraná,Sul,2024-11-10,Instagram Ads
+308,Isaac Ramos,i.ramos@gmail.com,(73) 92639-5671,Salvador,BA,49135-775,Bahia,Nordeste,2024-02-11,Instagram Ads
+309,Melina Silva,melina711@gmail.com,(61) 96182-8017,Taguatinga,DF,72053-364,Distrito Federal,Centro-Oeste,2025-07-01,Email Marketing
+310,Yago Leão,yago.lea@gmail.com,(55) 98583-8296,Gravataí,RS,95478-129,Rio Grande do Sul,Sul,2024-09-07,Instagram Ads
+311,Maria Julia da Cruz,mariajuliadacruz@yahoo.com.br,(14) 95312-2252,São Bernardo do Campo,SP,01080-996,São Paulo,Sudeste,2024-03-16,Email Marketing
+312,João Vitor Gomes,joaovitor.gomes@hotmail.com,(55) 93435-6993,Porto Alegre,RS,96394-278,Rio Grande do Sul,Sul,2024-12-07,Google Ads
+313,Nicole Souza,nicole373@gmail.com,(14) 93717-9423,São Paulo,SP,02722-992,São Paulo,Sudeste,2024-01-18,Instagram Ads
+314,Davi Miguel da Mota,d.damota@gmail.com,(75) 94796-2029,Salvador,BA,44530-385,Bahia,Nordeste,2025-07-26,Facebook Ads
+315,Kamilly Fernandes,kamilly.fernandes@gmail.com,(67) 92691-9542,Corumbá,MS,74498-926,Mato Grosso do Sul,Centro-Oeste,2024-03-10,Indicação
+316,Natália da Mata,natalia.dam@yahoo.com.br,(98) 99465-5121,São Luís,MA,66386-557,Maranhão,Nordeste,2025-08-25,Instagram Ads
+317,Alexia Silveira,alexia7@yahoo.com.br,(48) 93713-4768,Florianópolis,SC,81843-222,Santa Catarina,Sul,2025-06-24,Orgânico/Busca
+318,Mariana Cassiano,mariana.cassiano@hotmail.com,(87) 96410-2856,Recife,PE,57773-926,Pernambuco,Nordeste,2024-01-27,Instagram Ads
+319,Maria Sophia Ferreira,mariasophia131@hotmail.com,(32) 99399-1642,Contagem,MG,39202-428,Minas Gerais,Sudeste,2024-02-10,Google Ads
+320,Yasmin Garcia,yasmin993@hotmail.com,(15) 92404-4548,São Paulo,SP,07977-236,São Paulo,Sudeste,2024-09-30,Indicação
+321,Aurora Correia,auroracorreia@hotmail.com,(19) 95333-3747,Santos,SP,05799-136,São Paulo,Sudeste,2024-12-06,Indicação
+322,Rhavi Oliveira,rhavioliveira@hotmail.com,(88) 93450-2577,Juazeiro do Norte,CE,62799-088,Ceará,Nordeste,2024-03-29,Orgânico/Busca
+323,Juliana Aparecida,juliana.apa@gmail.com,(35) 99835-1019,Belo Horizonte,MG,36865-086,Minas Gerais,Sudeste,2024-10-27,Instagram Ads
+324,Maria Júlia Santos,mariajulia.santos62@gmail.com,(24) 92600-7971,São Gonçalo,RJ,22473-149,Rio de Janeiro,Sudeste,2024-01-29,Instagram Ads
+325,Giovanna Gomes,giovannagomes@gmail.com,(24) 91116-9561,Rio de Janeiro,RJ,21806-356,Rio de Janeiro,Sudeste,2025-08-14,Instagram Ads
+326,Kevin Monteiro,kevin.mon@hotmail.com,(43) 99783-7939,Cascavel,PR,89594-636,Paraná,Sul,2024-03-29,Instagram Ads
+327,José Montenegro,josemontenegro@gmail.com,(24) 98925-5157,Nova Iguaçu,RJ,24956-213,Rio de Janeiro,Sudeste,2025-09-11,Facebook Ads
+328,Bianca Brito,biancabrito@gmail.com,(87) 96544-1852,Olinda,PE,52601-279,Pernambuco,Nordeste,2024-03-27,Facebook Ads
+329,Lunna Brito,lunnabrito@gmail.com,(35) 91618-7296,Montes Claros,MG,36984-902,Minas Gerais,Sudeste,2024-03-19,Instagram Ads
+330,Maria Alice Albuquerque,mariaalicealbuquerque@outlook.com,(77) 95685-4190,Itabuna,BA,40988-392,Bahia,Nordeste,2025-01-14,Google Ads
+331,Julia Rezende,julia.rez@gmail.com,(85) 92422-5520,Sobral,CE,66566-938,Ceará,Nordeste,2025-05-01,Orgânico/Busca
+332,Dom Melo,dom.melo@hotmail.com,(46) 96703-6693,Maringá,PR,84393-769,Paraná,Sul,2024-03-28,Orgânico/Busca
+333,Vinícius Fernandes,vinicius417@gmail.com,(47) 99243-5821,Itajaí,SC,85184-894,Santa Catarina,Sul,2024-03-11,Instagram Ads
+334,Isabella Rezende,isabella.rezende49@outlook.com,(88) 98517-8548,Sobral,CE,69071-416,Ceará,Nordeste,2025-03-08,Instagram Ads
+335,Bella Rocha,bella.roc@gmail.com,(16) 97757-6785,Sorocaba,SP,08804-341,São Paulo,Sudeste,2024-05-15,Facebook Ads
+336,Gabrielly Dias,g.dias@gmail.com,(13) 98807-6142,Ribeirão Preto,SP,05394-237,São Paulo,Sudeste,2024-03-18,Orgânico/Busca
+337,Mariah Nogueira,mariahnogueira@yahoo.com.br,(32) 94755-4322,Belo Horizonte,MG,33952-111,Minas Gerais,Sudeste,2025-03-10,Instagram Ads
+338,Davi Miguel da Costa,davimiguel505@gmail.com,(51) 98901-7081,Pelotas,RS,99579-472,Rio Grande do Sul,Sul,2024-04-20,Email Marketing
+339,Alícia da Conceição,alicia.daconceicao66@gmail.com,(13) 91887-9613,Guarulhos,SP,06780-856,São Paulo,Sudeste,2025-03-12,Google Ads
+340,Luara Brito,luara.brito@hotmail.com,(75) 96171-1137,Camaçari,BA,40369-155,Bahia,Nordeste,2025-05-15,Instagram Ads
+341,Guilherme Macedo,guilherme192@gmail.com,(33) 98722-6621,Belo Horizonte,MG,35276-365,Minas Gerais,Sudeste,2025-05-22,Email Marketing
+342,Ana Clara Alves,anaclara.alves52@gmail.com,(53) 94744-2636,Porto Alegre,RS,94386-632,Rio Grande do Sul,Sul,2024-01-15,Email Marketing
+343,Daniel da Rocha,daniel.darocha95@outlook.com,(27) 97906-9185,Vitória,ES,22885-744,Espírito Santo,Sudeste,2024-04-26,Orgânico/Busca
+344,Lorena Casa Grande,lorena.casagrande73@gmail.com,(13) 91983-4530,São Paulo,SP,04717-545,São Paulo,Sudeste,2024-10-14,Orgânico/Busca
+345,Juliana Nunes,j.nunes@gmail.com,(34) 92986-6752,Juiz de Fora,MG,39399-824,Minas Gerais,Sudeste,2024-01-22,Facebook Ads
+346,Luiz Miguel Cavalcante,luizmiguel.cavalcante87@outlook.com,(18) 92284-7243,Santos,SP,09472-256,São Paulo,Sudeste,2024-03-02,Indicação
+347,Giovanna Pinto,giovanna.pinto@gmail.com,(67) 94739-6136,Campo Grande,MS,75449-647,Mato Grosso do Sul,Centro-Oeste,2024-07-05,Orgânico/Busca
+348,Maysa Pacheco,maysa766@hotmail.com,(48) 97782-3741,Florianópolis,SC,82023-413,Santa Catarina,Sul,2025-04-10,Instagram Ads
+349,Maria Eduarda Porto,mariaeduarda.porto@yahoo.com.br,(18) 99985-1881,Sorocaba,SP,00681-149,São Paulo,Sudeste,2024-01-13,Facebook Ads
+350,Thomas Rios,thomas.rios84@gmail.com,(42) 95655-8260,Curitiba,PR,82282-005,Paraná,Sul,2024-01-23,Facebook Ads
+351,Maria Flor da Paz,mariaflor.dapaz42@gmail.com,(99) 99987-8288,Imperatriz,MA,62829-979,Maranhão,Nordeste,2024-04-06,Facebook Ads
+352,Levi Barbosa,levi655@gmail.com,(16) 98891-9841,Osasco,SP,03174-564,São Paulo,Sudeste,2024-03-01,Orgânico/Busca
+353,Catarina Pastor,catarina1@outlook.com,(13) 96634-5698,Osasco,SP,07807-740,São Paulo,Sudeste,2024-02-09,Instagram Ads
+354,Laís Sales,laissales@outlook.com,(54) 94089-7745,Gravataí,RS,98663-266,Rio Grande do Sul,Sul,2024-09-11,Instagram Ads
+355,Ana Julia Costa,anajulia.cos@gmail.com,(15) 95664-9715,Santos,SP,04631-224,São Paulo,Sudeste,2024-01-23,Facebook Ads
+356,Maria Sophia Caldeira,mariasophia.caldeira59@gmail.com,(24) 99060-4076,Rio de Janeiro,RJ,25020-802,Rio de Janeiro,Sudeste,2024-03-30,Google Ads
+357,Elisa Oliveira,elisaoliveira@hotmail.com,(11) 94814-2477,São Paulo,SP,02073-564,São Paulo,Sudeste,2024-08-08,Email Marketing
+358,Ana Carolina Almeida,anacarolina.almeida64@hotmail.com,(61) 96410-2314,Brasília,DF,72046-187,Distrito Federal,Centro-Oeste,2024-09-10,Instagram Ads
+359,Isabela da Mota,isabela.damota33@outlook.com,(12) 95078-7304,São Paulo,SP,07303-718,São Paulo,Sudeste,2024-03-29,Google Ads
+360,Carlos Eduardo Pereira,carloseduardo.pereira27@hotmail.com,(88) 96293-3598,Maracanaú,CE,60881-474,Ceará,Nordeste,2024-04-05,Facebook Ads
+361,Allana Vasconcelos,allana.vas@gmail.com,(12) 94866-8113,Sorocaba,SP,05024-916,São Paulo,Sudeste,2024-03-08,Indicação
+362,Clarice Câmara,clarice.camara@hotmail.com,(75) 93539-7084,Camaçari,BA,41327-195,Bahia,Nordeste,2025-06-12,Indicação
+363,Theodoro Rocha,theodoro.rocha@gmail.com,(53) 99787-2759,Porto Alegre,RS,92735-857,Rio Grande do Sul,Sul,2025-03-15,Instagram Ads
+364,João Guilherme Pires,joaoguilherme.pires3@gmail.com,(62) 95107-1646,Rio Verde,GO,77784-873,Goiás,Centro-Oeste,2025-05-20,Google Ads
+365,Bruno das Neves,b.dasneves@outlook.com,(22) 93627-2128,Rio de Janeiro,RJ,28274-485,Rio de Janeiro,Sudeste,2024-05-24,Instagram Ads
+366,Bernardo Pacheco,bernardo.pacheco82@outlook.com,(41) 96965-4912,Curitiba,PR,85186-387,Paraná,Sul,2024-03-11,Facebook Ads
+367,João Borges,j.borges@gmail.com,(24) 96276-2809,Duque de Caxias,RJ,21810-220,Rio de Janeiro,Sudeste,2024-10-17,Instagram Ads
+368,Beatriz Souza,beatriz.souza@gmail.com,(17) 99026-9615,São Paulo,SP,09940-539,São Paulo,Sudeste,2024-03-22,Orgânico/Busca
+369,Murilo Cardoso,murilocardoso@hotmail.com,(21) 98668-1994,Rio de Janeiro,RJ,25865-094,Rio de Janeiro,Sudeste,2024-11-14,Instagram Ads
+370,Emanuelly Moura,e.moura@gmail.com,(21) 99511-2591,Nova Iguaçu,RJ,21386-338,Rio de Janeiro,Sudeste,2024-03-11,Facebook Ads
+371,Yago Cavalcante,yagocavalcante@hotmail.com,(19) 97802-2728,Ribeirão Preto,SP,09576-122,São Paulo,Sudeste,2024-12-31,Orgânico/Busca
+372,Maria Luísa da Rocha,marialuisa.dar@gmail.com,(77) 98258-6772,Feira de Santana,BA,45855-665,Bahia,Nordeste,2024-01-24,Instagram Ads
+373,Camila Camargo,camilacamargo@gmail.com,(19) 95162-6898,Santos,SP,07760-049,São Paulo,Sudeste,2025-05-15,Instagram Ads
+374,Dom Casa Grande,d.casagrande@gmail.com,(14) 94519-6159,São Bernardo do Campo,SP,00488-899,São Paulo,Sudeste,2024-02-12,Facebook Ads
+375,Rael Rocha,r.rocha@gmail.com,(43) 97014-5093,Curitiba,PR,83441-969,Paraná,Sul,2024-03-08,Google Ads
+376,Isabella Novais,isabella.nov@gmail.com,(18) 93832-8999,São Paulo,SP,09194-096,São Paulo,Sudeste,2025-05-02,Google Ads
+377,Isabela Albuquerque,i.albuquerque@gmail.com,(17) 97824-2974,São Paulo,SP,03906-048,São Paulo,Sudeste,2024-02-02,Instagram Ads
+378,Josué Marques,josuemarques@gmail.com,(24) 94617-3509,Duque de Caxias,RJ,20679-981,Rio de Janeiro,Sudeste,2024-01-24,Instagram Ads
+379,Vinicius Pacheco,vinicius.pacheco38@gmail.com,(43) 92352-8796,Curitiba,PR,89086-416,Paraná,Sul,2024-02-03,Orgânico/Busca
+380,Esther Caldeira,esthercaldeira@gmail.com,(14) 98993-7476,São Bernardo do Campo,SP,09389-833,São Paulo,Sudeste,2024-02-04,Instagram Ads
+381,Maria Julia Alves,mariajulia.alv@yahoo.com.br,(41) 92843-7776,Foz do Iguaçu,PR,86553-559,Paraná,Sul,2024-03-01,Instagram Ads
+382,Beatriz Pimenta,beatrizpimenta@icloud.com,(18) 93389-8216,Osasco,SP,00335-211,São Paulo,Sudeste,2025-03-06,Google Ads
+383,Davi Lucas Porto,davilucas972@yahoo.com.br,(88) 91225-6624,Sobral,CE,61477-053,Ceará,Nordeste,2024-07-31,Orgânico/Busca
+384,Ana Julia Rezende,anajulia209@hotmail.com,(15) 99991-8913,São Paulo,SP,09206-980,São Paulo,Sudeste,2025-06-26,Orgânico/Busca
+385,João Lucas Aparecida,joaolucasaparecida@outlook.com,(61) 91869-8617,Águas Claras,DF,70164-510,Distrito Federal,Centro-Oeste,2024-02-06,Google Ads
+386,Ana Júlia Monteiro,anajuliamonteiro@icloud.com,(24) 92631-6168,Duque de Caxias,RJ,27981-238,Rio de Janeiro,Sudeste,2024-03-26,Google Ads
+387,Ravy Nascimento,ravy.nas@gmail.com,(47) 99673-5995,Florianópolis,SC,85762-055,Santa Catarina,Sul,2024-06-03,Instagram Ads
+388,Maria Freitas,maria242@gmail.com,(11) 95221-7343,São José dos Campos,SP,00843-256,São Paulo,Sudeste,2024-01-13,Instagram Ads
+389,Valentina Leão,valentina.leao12@hotmail.com,(14) 97837-4938,São Paulo,SP,09264-957,São Paulo,Sudeste,2025-04-03,Email Marketing
+390,Leonardo Leão,leonardoleao@hotmail.com,(14) 93262-6062,São Bernardo do Campo,SP,08262-925,São Paulo,Sudeste,2024-02-22,Orgânico/Busca
+391,Mariana Pimenta,mariana.pim@gmail.com,(22) 93384-1483,São Gonçalo,RJ,25664-742,Rio de Janeiro,Sudeste,2024-02-28,Google Ads
+392,Alana Andrade,alanaandrade@gmail.com,(15) 94783-4804,Santos,SP,03051-728,São Paulo,Sudeste,2024-11-10,Email Marketing
+393,Pedro Henrique Macedo,pedrohenrique.mac@gmail.com,(55) 99051-8763,Canoas,RS,92233-060,Rio Grande do Sul,Sul,2025-04-14,Instagram Ads
+394,Ravy Fonseca,ravy.fon@hotmail.com,(14) 94351-2083,São Paulo,SP,02797-573,São Paulo,Sudeste,2024-11-30,Instagram Ads
+395,Emilly Nogueira,emilly.nog@outlook.com,(24) 96126-7457,São Gonçalo,RJ,29998-808,Rio de Janeiro,Sudeste,2024-01-09,Indicação
+396,Elisa Araújo,elisa.araujo@yahoo.com.br,(47) 99498-9812,Florianópolis,SC,86086-803,Santa Catarina,Sul,2024-03-22,Facebook Ads
+397,Mateus Campos,m.campos@outlook.com,(15) 98558-3727,São Paulo,SP,06490-827,São Paulo,Sudeste,2024-02-05,Email Marketing
+398,Maria Borges,maria.bor@gmail.com,(85) 99952-3216,Caucaia,CE,66657-027,Ceará,Nordeste,2025-09-03,Google Ads
+399,Asafe Aragão,asafearagao@yahoo.com.br,(47) 95097-6309,Itajaí,SC,82111-751,Santa Catarina,Sul,2025-03-30,Facebook Ads
+400,Ryan Cardoso,ryan745@hotmail.com,(61) 97204-7235,Brasília,DF,70259-222,Distrito Federal,Centro-Oeste,2024-03-11,Facebook Ads
+401,Noah Azevedo,noah.azevedo92@gmail.com,(55) 95731-3960,Porto Alegre,RS,91230-940,Rio Grande do Sul,Sul,2024-03-11,Indicação
+402,Oliver Pastor,oliver.pastor@hotmail.com,(55) 94897-4553,Canoas,RS,99776-719,Rio Grande do Sul,Sul,2024-03-15,Google Ads
+403,Ravi Lucca Farias,ravilucca904@gmail.com,(19) 94401-1801,São José dos Campos,SP,02205-020,São Paulo,Sudeste,2024-07-28,Orgânico/Busca
+404,André da Mota,a.damota@yahoo.com.br,(11) 92784-7831,Santos,SP,02249-998,São Paulo,Sudeste,2025-05-30,Instagram Ads
+405,João Vitor Cardoso,joaovitor768@gmail.com,(11) 92525-5903,Guarulhos,SP,05561-681,São Paulo,Sudeste,2024-03-18,Indicação
+406,Luiz Fernando Camargo,luizfernando.cam@outlook.com,(16) 99635-7779,Campinas,SP,08339-019,São Paulo,Sudeste,2024-02-18,Indicação
+407,Benjamim Cardoso,benjamim.cardoso@gmail.com,(37) 95705-7996,Contagem,MG,39548-995,Minas Gerais,Sudeste,2025-03-29,Facebook Ads
+408,Renan Pastor,renan.pastor79@gmail.com,(18) 99069-3947,Santos,SP,09343-010,São Paulo,Sudeste,2024-04-09,Facebook Ads
+409,Luiz Fernando da Luz,luizfernandodaluz@outlook.com,(17) 97783-1745,São Paulo,SP,05583-034,São Paulo,Sudeste,2024-01-30,Google Ads
+410,Laura Moura,l.moura@gmail.com,(74) 91100-2865,Ilhéus,BA,45569-902,Bahia,Nordeste,2024-01-05,Instagram Ads
+411,Davi Lucas Melo,davilucas.mel@gmail.com,(22) 91582-3224,Rio de Janeiro,RJ,27278-576,Rio de Janeiro,Sudeste,2024-01-11,Instagram Ads
+412,Eloá Moraes,eloa856@gmail.com,(16) 99779-1306,São Paulo,SP,03955-124,São Paulo,Sudeste,2024-12-02,Google Ads
+413,Marcela Montenegro,marcela.mon@hotmail.com,(81) 97382-4070,Recife,PE,59145-046,Pernambuco,Nordeste,2025-02-20,Facebook Ads
+414,Caio Siqueira,caio.siqueira31@outlook.com,(54) 94541-9603,Porto Alegre,RS,94215-031,Rio Grande do Sul,Sul,2024-01-20,Orgânico/Busca
+415,Raquel da Rosa,raquel.darosa4@yahoo.com.br,(13) 94116-6572,Osasco,SP,07845-218,São Paulo,Sudeste,2024-03-11,Instagram Ads
+416,Bento Araújo,bento.ara@gmail.com,(44) 99558-2897,Cascavel,PR,80409-157,Paraná,Sul,2024-12-08,Facebook Ads
+417,Isadora Lima,isadora.lim@outlook.com,(71) 96114-4438,Itabuna,BA,45334-485,Bahia,Nordeste,2025-09-30,Google Ads
+418,Mariane Silva,m.silva@gmail.com,(15) 92875-1249,São Paulo,SP,09881-385,São Paulo,Sudeste,2025-04-11,Instagram Ads
+419,Diogo Barros,diogo.bar@outlook.com,(14) 93806-2167,Santos,SP,04958-702,São Paulo,Sudeste,2024-03-22,Google Ads
+420,Juan Azevedo,juan.azevedo@gmail.com,(12) 97987-7421,Campinas,SP,02997-954,São Paulo,Sudeste,2024-01-29,Instagram Ads
+421,Ágatha Silva,agatha.sil@outlook.com,(27) 98629-3159,Vila Velha,ES,21717-477,Espírito Santo,Sudeste,2024-01-12,Facebook Ads
+422,Sofia da Rocha,sofia148@gmail.com,(16) 97423-4004,Santos,SP,05577-017,São Paulo,Sudeste,2024-01-30,Instagram Ads
+423,Lorena Brito,lorenabrito@gmail.com,(67) 93087-9322,Corumbá,MS,71615-814,Mato Grosso do Sul,Centro-Oeste,2024-02-10,Instagram Ads
+424,Ian Rezende,ian.rezende52@gmail.com,(53) 99977-3605,Caxias do Sul,RS,97615-396,Rio Grande do Sul,Sul,2024-03-12,Indicação
+425,Pedro Lopes,p.lopes@hotmail.com,(32) 93835-2276,Juiz de Fora,MG,39719-975,Minas Gerais,Sudeste,2025-03-23,Facebook Ads
+426,Rafael Jesus,r.jesus@icloud.com,(12) 92781-7208,São Paulo,SP,05701-329,São Paulo,Sudeste,2024-12-04,Instagram Ads
+427,Maria Guerra,maria.guerra@outlook.com,(46) 93444-8421,Ponta Grossa,PR,88469-973,Paraná,Sul,2024-10-03,Instagram Ads
+428,Gabriel Dias,gabriel307@outlook.com,(67) 98122-6640,Três Lagoas,MS,71909-862,Mato Grosso do Sul,Centro-Oeste,2024-02-07,Instagram Ads
+429,Thomas Freitas,thomas379@icloud.com,(21) 96885-2797,Rio de Janeiro,RJ,24036-965,Rio de Janeiro,Sudeste,2024-11-20,Indicação
+430,Maria Júlia Azevedo,mariajulia.azevedo52@hotmail.com,(46) 93841-8780,Foz do Iguaçu,PR,82386-562,Paraná,Sul,2025-09-05,Orgânico/Busca
+431,Enzo Gabriel Borges,enzogabrielborges@gmail.com,(46) 91257-3359,Maringá,PR,87621-267,Paraná,Sul,2024-01-09,Facebook Ads
+432,Esther Cardoso,esther.cardoso90@hotmail.com,(88) 99346-7948,Fortaleza,CE,68765-326,Ceará,Nordeste,2024-11-23,Google Ads
+433,Bella Rios,bella.rio@gmail.com,(28) 97731-9948,Serra,ES,29500-975,Espírito Santo,Sudeste,2025-01-30,Orgânico/Busca
+434,Daniela Rios,daniela.rio@gmail.com,(19) 95578-8617,São Paulo,SP,08189-137,São Paulo,Sudeste,2024-01-12,Google Ads
+435,Lavínia Silveira,lavinia.sil@gmail.com,(54) 91864-6628,Canoas,RS,98077-879,Rio Grande do Sul,Sul,2025-08-29,Instagram Ads
+436,Alícia Peixoto,a.peixoto@gmail.com,(98) 95981-5267,Timon,MA,60792-904,Maranhão,Nordeste,2024-04-29,Instagram Ads
+437,Gustavo Henrique Oliveira,g.oliveira@gmail.com,(21) 99283-2259,Petrópolis,RJ,24429-444,Rio de Janeiro,Sudeste,2024-09-19,Indicação
+438,Leonardo Ribeiro,leonardoribeiro@yahoo.com.br,(37) 93476-8317,Montes Claros,MG,35243-728,Minas Gerais,Sudeste,2024-02-15,Orgânico/Busca
+439,Henrique Ferreira,henriqueferreira@hotmail.com,(21) 99125-7765,Nova Iguaçu,RJ,26372-395,Rio de Janeiro,Sudeste,2024-12-21,Facebook Ads
+440,Emilly Camargo,emilly.camargo@gmail.com,(75) 97533-8802,Itabuna,BA,44783-667,Bahia,Nordeste,2024-03-17,Orgânico/Busca
+441,Rael Lima,rael.lima68@gmail.com,(22) 97258-6172,Rio de Janeiro,RJ,28018-569,Rio de Janeiro,Sudeste,2024-03-09,Orgânico/Busca
+442,Benjamim Pereira,b.pereira@gmail.com,(31) 95183-7408,Belo Horizonte,MG,37393-852,Minas Gerais,Sudeste,2025-07-08,Instagram Ads
+443,Vitor Alves,vitor.alves@outlook.com,(11) 97737-2600,Osasco,SP,08175-344,São Paulo,Sudeste,2024-03-24,Facebook Ads
+444,Ana Luiza Fernandes,analuiza.fernandes@gmail.com,(24) 94552-2995,Rio de Janeiro,RJ,21192-692,Rio de Janeiro,Sudeste,2024-01-17,Facebook Ads
+445,Luiz Miguel Casa Grande,l.casagrande@gmail.com,(24) 92240-8429,Rio de Janeiro,RJ,24654-214,Rio de Janeiro,Sudeste,2024-10-10,Instagram Ads
+446,Isadora Azevedo,i.azevedo@icloud.com,(54) 95336-3915,Pelotas,RS,97173-962,Rio Grande do Sul,Sul,2025-02-05,Google Ads
+447,Bento Borges,bento148@outlook.com,(21) 92740-8234,Volta Redonda,RJ,24101-194,Rio de Janeiro,Sudeste,2024-06-17,Facebook Ads
+448,Pedro Garcia,pedro.garcia3@gmail.com,(37) 91014-1619,Belo Horizonte,MG,36425-690,Minas Gerais,Sudeste,2025-05-14,Facebook Ads
+449,Carolina Castro,carolina.castro99@gmail.com,(12) 99849-4700,São Paulo,SP,00671-985,São Paulo,Sudeste,2024-02-07,Facebook Ads
+450,Aylla Vasconcelos,aylla.vasconcelos@hotmail.com,(37) 92485-6985,Contagem,MG,38517-432,Minas Gerais,Sudeste,2024-02-03,Google Ads
+451,Enzo Gabriel Aragão,enzogabrielaragao@gmail.com,(75) 92749-6886,Camaçari,BA,47173-203,Bahia,Nordeste,2025-08-29,Orgânico/Busca
+452,Carlos Eduardo Rocha,carloseduardo.rocha76@gmail.com,(66) 99186-9748,Cuiabá,MT,77005-050,Mato Grosso,Centro-Oeste,2024-01-15,Instagram Ads
+453,Luísa Ribeiro,luisa.rib@hotmail.com,(18) 99791-3440,São José dos Campos,SP,09310-270,São Paulo,Sudeste,2024-01-08,Google Ads
+454,Luísa Leão,luisaleao@hotmail.com,(13) 91235-3822,São Paulo,SP,00417-929,São Paulo,Sudeste,2024-02-08,Email Marketing
+455,Olivia Camargo,olivia.camargo14@hotmail.com,(27) 92033-4320,Vitória,ES,26565-198,Espírito Santo,Sudeste,2024-01-25,Facebook Ads
+456,Henry da Paz,henry.dapaz@hotmail.com,(22) 92035-2978,Rio de Janeiro,RJ,24262-582,Rio de Janeiro,Sudeste,2024-02-01,Instagram Ads
+457,Mariah Moura,mariahmoura@gmail.com,(17) 93584-1256,Guarulhos,SP,07100-219,São Paulo,Sudeste,2024-03-02,Orgânico/Busca
+458,Caleb Câmara,caleb.camara54@hotmail.com,(14) 93344-5439,Osasco,SP,08763-290,São Paulo,Sudeste,2025-04-01,Google Ads
+459,Daniel Abreu,daniel512@icloud.com,(15) 96699-7861,São Paulo,SP,00833-181,São Paulo,Sudeste,2024-11-03,Facebook Ads
+460,Otávio Vargas,otavio553@gmail.com,(14) 95528-1869,São Paulo,SP,03127-722,São Paulo,Sudeste,2024-07-22,Orgânico/Busca
+461,Thomas da Rocha,thomas.dar@gmail.com,(32) 98121-5118,Belo Horizonte,MG,35970-108,Minas Gerais,Sudeste,2024-06-15,Orgânico/Busca
+462,Anthony Gabriel Monteiro,anthonygabriel497@gmail.com,(32) 98287-6340,Uberaba,MG,36353-153,Minas Gerais,Sudeste,2024-01-30,Instagram Ads
+463,Luiz Fernando Cardoso,luizfernandocardoso@gmail.com,(21) 92204-8716,Duque de Caxias,RJ,29706-239,Rio de Janeiro,Sudeste,2024-03-08,Orgânico/Busca
+464,Raul Montenegro,raulmontenegro@gmail.com,(14) 96875-5418,Santos,SP,03520-904,São Paulo,Sudeste,2024-02-04,Google Ads
+465,Daniela Barbosa,daniela.barbosa60@gmail.com,(54) 94602-5835,Gravataí,RS,99292-983,Rio Grande do Sul,Sul,2024-02-20,Orgânico/Busca
+466,Bryan Lopes,bryanlopes@hotmail.com,(18) 95573-1237,Santo André,SP,06335-693,São Paulo,Sudeste,2024-02-05,Instagram Ads
+467,Eduardo Dias,eduardodias@yahoo.com.br,(21) 97844-1724,Volta Redonda,RJ,20780-686,Rio de Janeiro,Sudeste,2024-04-11,Orgânico/Busca
+468,Jade Santos,jade.santos@gmail.com,(14) 92361-1203,Sorocaba,SP,06325-431,São Paulo,Sudeste,2024-02-21,Instagram Ads
+469,Amanda Camargo,amandacamargo@hotmail.com,(11) 98452-8598,Campinas,SP,02625-701,São Paulo,Sudeste,2024-02-27,Orgânico/Busca
+470,Aylla Cavalcante,aylla341@gmail.com,(44) 95420-9887,Maringá,PR,89319-508,Paraná,Sul,2024-02-06,Instagram Ads
+471,Maria Clara Sales,mariaclara.sales@gmail.com,(22) 98624-1669,Rio de Janeiro,RJ,25528-183,Rio de Janeiro,Sudeste,2025-06-14,Google Ads
+472,Felipe Lopes,felipe245@gmail.com,(48) 94437-4693,Florianópolis,SC,85548-640,Santa Catarina,Sul,2024-03-23,Indicação
+473,Ryan Lopes,ryan.lopes45@gmail.com,(12) 98703-9714,São Bernardo do Campo,SP,08479-513,São Paulo,Sudeste,2024-03-17,Instagram Ads
+474,Sabrina Barros,sabrina.barros@gmail.com,(53) 95724-2260,Porto Alegre,RS,91241-272,Rio Grande do Sul,Sul,2025-02-17,Google Ads
+475,Ana Luiza Souza,analuiza.sou@gmail.com,(22) 99870-3163,Niterói,RJ,27567-043,Rio de Janeiro,Sudeste,2024-11-03,Google Ads
+476,Brenda Vasconcelos,brenda855@hotmail.com,(97) 96616-6346,Parintins,AM,67988-774,Amazonas,Norte,2024-01-31,Instagram Ads
+477,Nina Porto,n.porto@gmail.com,(22) 95720-1775,São Gonçalo,RJ,22547-292,Rio de Janeiro,Sudeste,2024-07-02,Facebook Ads
+478,Nina Correia,ninacorreia@outlook.com,(46) 93514-3641,Curitiba,PR,83105-927,Paraná,Sul,2024-06-02,Email Marketing
+479,Cecília Ferreira,cecilia211@hotmail.com,(16) 96633-3423,Santo André,SP,05782-841,São Paulo,Sudeste,2024-03-22,Orgânico/Busca
+480,Juan da Costa,juan.dacosta52@outlook.com,(18) 96246-3556,São Paulo,SP,00885-474,São Paulo,Sudeste,2025-05-04,Instagram Ads
+481,Théo Costa,theo.cos@gmail.com,(61) 96549-2840,Brasília,DF,77028-140,Distrito Federal,Centro-Oeste,2024-05-27,Instagram Ads
+482,Leandro Teixeira,l.teixeira@gmail.com,(11) 94197-9625,São Paulo,SP,03430-187,São Paulo,Sudeste,2024-01-16,Facebook Ads
+483,Dom Cavalcanti,dom.cavalcanti12@gmail.com,(33) 99381-1918,Betim,MG,35626-565,Minas Gerais,Sudeste,2025-05-22,Instagram Ads
+484,Marina Martins,m.martins@icloud.com,(19) 92435-4533,São José dos Campos,SP,07674-266,São Paulo,Sudeste,2024-03-26,Google Ads
+485,Manuela Rodrigues,manuela.rodrigues@gmail.com,(54) 98776-9606,Porto Alegre,RS,95196-106,Rio Grande do Sul,Sul,2024-03-08,Google Ads
+486,Ayla Pires,aylapires@hotmail.com,(13) 94264-4047,Santos,SP,06487-049,São Paulo,Sudeste,2025-08-20,Google Ads
+487,Lunna Azevedo,lunna.azevedo72@gmail.com,(41) 93523-5303,Ponta Grossa,PR,84714-627,Paraná,Sul,2024-01-29,Google Ads
+488,Ana Júlia Vieira,anajulia.vieira@gmail.com,(22) 99078-2093,Duque de Caxias,RJ,29597-964,Rio de Janeiro,Sudeste,2024-12-13,Instagram Ads
+489,Daniel Fogaça,daniel.fog@outlook.com,(66) 99397-1287,Rondonópolis,MT,74290-257,Mato Grosso,Centro-Oeste,2024-08-29,Instagram Ads
+490,Ana Luiza Martins,analuizamartins@gmail.com,(16) 97873-6832,São Paulo,SP,00448-183,São Paulo,Sudeste,2025-01-04,Google Ads
+491,Danilo Freitas,danilo.freitas@hotmail.com,(21) 99908-6285,Rio de Janeiro,RJ,25445-189,Rio de Janeiro,Sudeste,2024-12-04,Orgânico/Busca
+492,Eduardo Ramos,eduardoramos@gmail.com,(43) 98944-7750,Foz do Iguaçu,PR,85213-283,Paraná,Sul,2024-03-15,Orgânico/Busca
+493,Fernando Pimenta,fernando.pim@outlook.com,(19) 99717-2867,São Paulo,SP,06711-207,São Paulo,Sudeste,2025-07-18,Facebook Ads
+494,Hadassa Martins,hadassamartins@outlook.com,(99) 93821-5991,Imperatriz,MA,60132-234,Maranhão,Nordeste,2024-02-23,Email Marketing
+495,Bryan Machado,bryan.machado17@hotmail.com,(81) 92273-1308,Olinda,PE,57603-108,Pernambuco,Nordeste,2024-02-22,Google Ads
+496,Marcos Vinicius Duarte,m.duarte@gmail.com,(15) 91168-2581,São Paulo,SP,01939-325,São Paulo,Sudeste,2025-08-12,Orgânico/Busca
+497,Melissa Cassiano,melissa.cas@yahoo.com.br,(87) 96770-3630,Olinda,PE,58938-911,Pernambuco,Nordeste,2024-02-24,Orgânico/Busca
+498,Manuella Caldeira,manuella15@gmail.com,(14) 95617-3814,São Paulo,SP,08013-875,São Paulo,Sudeste,2025-09-07,Facebook Ads
+499,Caroline Silva,caroline.sil@icloud.com,(13) 96813-7219,Santos,SP,06383-615,São Paulo,Sudeste,2025-06-19,Instagram Ads
+500,Luiz Felipe Aparecida,luizfelipeaparecida@gmail.com,(33) 95723-1665,Belo Horizonte,MG,31571-647,Minas Gerais,Sudeste,2024-01-08,Facebook Ads
+501,Luna Macedo,luna.macedo40@gmail.com,(22) 95761-8011,Duque de Caxias,RJ,23175-207,Rio de Janeiro,Sudeste,2024-08-14,Google Ads
+502,Liam Fonseca,liam449@hotmail.com,(62) 92953-3348,Luziânia,GO,76691-215,Goiás,Centro-Oeste,2025-01-13,Facebook Ads
+503,Alexia Gomes,alexia206@outlook.com,(88) 93011-4815,Maracanaú,CE,66749-946,Ceará,Nordeste,2024-10-22,Instagram Ads
+504,Camila Rocha,camila.rocha86@icloud.com,(19) 95569-3414,São Paulo,SP,07114-773,São Paulo,Sudeste,2024-02-06,Orgânico/Busca
+505,Bruna Azevedo,bruna.azevedo@outlook.com,(61) 99161-1438,Águas Claras,DF,72695-249,Distrito Federal,Centro-Oeste,2025-02-22,Indicação
+506,Helena da Paz,helena.dap@outlook.com,(75) 98635-4308,Salvador,BA,44778-485,Bahia,Nordeste,2024-09-28,Facebook Ads
+507,Kaique Farias,kaique.farias@icloud.com,(21) 98051-2951,São Gonçalo,RJ,26756-770,Rio de Janeiro,Sudeste,2024-08-17,Instagram Ads
+508,João Miguel Ferreira,j.ferreira@yahoo.com.br,(13) 99052-8056,São Bernardo do Campo,SP,02467-197,São Paulo,Sudeste,2024-01-08,Email Marketing
+509,Heloísa Cardoso,heloisa553@gmail.com,(81) 99301-1913,Petrolina,PE,56479-695,Pernambuco,Nordeste,2024-09-18,Instagram Ads
+510,Enzo Gabriel das Neves,enzogabriel.dasneves@gmail.com,(62) 93100-7003,Anápolis,GO,75905-616,Goiás,Centro-Oeste,2025-02-21,Facebook Ads
+511,Bella Cardoso,b.cardoso@gmail.com,(73) 95056-4844,Feira de Santana,BA,44911-415,Bahia,Nordeste,2024-02-20,Instagram Ads
+512,Sara Borges,sara.borges@gmail.com,(22) 99433-7900,Rio de Janeiro,RJ,24079-056,Rio de Janeiro,Sudeste,2024-03-01,Instagram Ads
+513,Lavínia Moraes,lavinia.moraes@outlook.com,(12) 94373-6504,São Paulo,SP,07852-945,São Paulo,Sudeste,2025-03-21,Instagram Ads
+514,Eloá das Neves,eloa.das@outlook.com,(67) 99779-4507,Corumbá,MS,74404-963,Mato Grosso do Sul,Centro-Oeste,2024-10-16,Google Ads
+515,Paulo Fernandes,paulo735@gmail.com,(22) 95478-2102,Duque de Caxias,RJ,29876-351,Rio de Janeiro,Sudeste,2024-07-08,Facebook Ads
+516,Maria Vitória Correia,m.correia@gmail.com,(24) 96133-4278,Nova Iguaçu,RJ,26649-878,Rio de Janeiro,Sudeste,2025-09-02,Instagram Ads
+517,João Guilherme Cassiano,joaoguilherme.cas@gmail.com,(13) 99178-4489,São Bernardo do Campo,SP,07489-690,São Paulo,Sudeste,2024-01-21,Google Ads
+518,Guilherme Montenegro,guilhermemontenegro@gmail.com,(15) 98133-7721,Sorocaba,SP,05136-442,São Paulo,Sudeste,2024-01-07,Instagram Ads
+519,Sara Andrade,sara.andrade77@gmail.com,(21) 94144-1453,Campos dos Goytacazes,RJ,23477-866,Rio de Janeiro,Sudeste,2024-03-10,Instagram Ads
+520,João Peixoto,joaopeixoto@gmail.com,(11) 95233-5551,Santos,SP,08207-001,São Paulo,Sudeste,2025-03-29,Orgânico/Busca
+521,Luan Cirino,luan.cirino@yahoo.com.br,(17) 96954-2479,São Paulo,SP,06231-981,São Paulo,Sudeste,2024-02-03,Instagram Ads
+522,Lucas Silveira,lucas973@gmail.com,(12) 94900-3003,Osasco,SP,05596-363,São Paulo,Sudeste,2024-03-15,Instagram Ads
+523,Juliana Fonseca,j.fonseca@gmail.com,(15) 91916-9034,Santos,SP,08515-867,São Paulo,Sudeste,2024-02-09,Google Ads
+524,Renan Macedo,renanmacedo@gmail.com,(87) 96049-1345,Recife,PE,59003-486,Pernambuco,Nordeste,2025-04-06,Google Ads
+525,Manuela da Conceição,manuela.dac@gmail.com,(53) 98248-7364,Caxias do Sul,RS,90644-134,Rio Grande do Sul,Sul,2024-02-24,Google Ads
+526,Ana Luiza Viana,analuiza.viana21@hotmail.com,(17) 91555-5489,Campinas,SP,01776-561,São Paulo,Sudeste,2024-02-18,Indicação
+527,Mathias Freitas,mathias268@gmail.com,(17) 99973-6353,São Paulo,SP,07002-720,São Paulo,Sudeste,2024-12-14,Facebook Ads
+528,Lunna Martins,l.martins@hotmail.com,(81) 93585-5089,Caruaru,PE,58296-577,Pernambuco,Nordeste,2024-03-02,Orgânico/Busca
+529,Giovanna Montenegro,giovannamontenegro@hotmail.com,(16) 95616-4254,Campinas,SP,01652-669,São Paulo,Sudeste,2025-05-27,Facebook Ads
+530,Lorenzo Costa,lorenzo946@hotmail.com,(14) 92457-8576,Sorocaba,SP,03420-696,São Paulo,Sudeste,2024-02-17,Instagram Ads
+531,João Guilherme da Cunha,j.dacunha@gmail.com,(12) 91231-9615,São Paulo,SP,06771-333,São Paulo,Sudeste,2025-06-14,Google Ads
+532,Maria Luísa Freitas,marialuisa.fre@gmail.com,(13) 98066-4385,Santos,SP,09343-626,São Paulo,Sudeste,2024-04-29,Instagram Ads
+533,Gustavo Silva,g.silva@gmail.com,(75) 95068-7056,Feira de Santana,BA,49710-725,Bahia,Nordeste,2025-01-29,Email Marketing
+534,Josué da Paz,josuedapaz@hotmail.com,(17) 95198-2196,Campinas,SP,01800-537,São Paulo,Sudeste,2025-07-08,Google Ads
+535,Lorenzo da Mata,lorenzo.dam@icloud.com,(81) 91087-5155,Jaboatão dos Guararapes,PE,58964-652,Pernambuco,Nordeste,2024-05-16,Instagram Ads
+536,Olivia Casa Grande,olivia43@gmail.com,(13) 99253-9074,Osasco,SP,05721-586,São Paulo,Sudeste,2024-12-03,Facebook Ads
+537,Fernando Câmara,fernando.camara@icloud.com,(22) 95603-6907,Rio de Janeiro,RJ,26449-485,Rio de Janeiro,Sudeste,2024-03-15,Facebook Ads
+538,Cecília Alves,cecilia.alv@icloud.com,(21) 98208-1871,Volta Redonda,RJ,23203-207,Rio de Janeiro,Sudeste,2024-03-14,Orgânico/Busca
+539,Isabela Montenegro,isabela.montenegro91@gmail.com,(66) 91668-8233,Cuiabá,MT,75877-712,Mato Grosso,Centro-Oeste,2024-02-07,Orgânico/Busca
+540,Helena Barros,h.barros@gmail.com,(42) 99335-5469,Curitiba,PR,89939-089,Paraná,Sul,2024-02-03,Facebook Ads
+541,Benjamin Dias,benjamin.dias10@hotmail.com,(87) 91425-5657,Petrolina,PE,51659-152,Pernambuco,Nordeste,2024-02-03,Instagram Ads
+542,Bruna Vieira,bruna.vie@hotmail.com,(22) 95412-1095,Nova Iguaçu,RJ,25097-592,Rio de Janeiro,Sudeste,2024-03-24,Google Ads
+543,Breno da Paz,breno.dap@gmail.com,(61) 92158-9964,Ceilândia,DF,79616-423,Distrito Federal,Centro-Oeste,2024-01-14,Google Ads
+544,Maria Julia Sampaio,mariajulia.sampaio@outlook.com,(13) 97365-7592,São Paulo,SP,04214-764,São Paulo,Sudeste,2025-08-16,Google Ads
+545,Maria Isis Machado,m.machado@hotmail.com,(48) 99399-4274,Chapecó,SC,87767-499,Santa Catarina,Sul,2025-06-30,Google Ads
+546,Emanuel Almeida,e.almeida@hotmail.com,(17) 97979-2522,Osasco,SP,00857-327,São Paulo,Sudeste,2024-02-25,Instagram Ads
+547,Kaique Novaes,kaique.novaes@gmail.com,(17) 92297-8825,São Paulo,SP,04224-386,São Paulo,Sudeste,2024-01-24,Instagram Ads
+548,Sarah Lima,sarah.lima@yahoo.com.br,(65) 99366-7961,Cuiabá,MT,76179-454,Mato Grosso,Centro-Oeste,2024-03-25,Orgânico/Busca
+549,Alícia da Costa,alicia.dacosta@gmail.com,(18) 93941-3985,Sorocaba,SP,06016-459,São Paulo,Sudeste,2024-05-31,Facebook Ads
+550,Calebe da Costa,calebe.dacosta97@hotmail.com,(43) 96592-4066,Curitiba,PR,83219-416,Paraná,Sul,2024-09-13,Instagram Ads
+551,Maria Cecília Azevedo,mariacecilia.azevedo@gmail.com,(18) 98539-7637,Sorocaba,SP,09749-956,São Paulo,Sudeste,2024-02-07,Google Ads
+552,Melina Peixoto,melinapeixoto@gmail.com,(12) 91260-4083,São Paulo,SP,00372-368,São Paulo,Sudeste,2024-05-31,Instagram Ads
+553,Olívia Oliveira,olivia.oliveira39@gmail.com,(67) 91357-2908,Três Lagoas,MS,72277-707,Mato Grosso do Sul,Centro-Oeste,2024-02-18,Instagram Ads
+554,João Pedro da Rocha,joaopedro302@outlook.com,(55) 91834-6469,Porto Alegre,RS,90166-799,Rio Grande do Sul,Sul,2024-08-11,Facebook Ads
+555,Clarice da Costa,clarice.dacosta38@gmail.com,(19) 98993-4799,Sorocaba,SP,00806-958,São Paulo,Sudeste,2024-11-22,Google Ads
+556,Marcelo Rios,marcelo.rios83@gmail.com,(54) 98345-8147,Porto Alegre,RS,90243-757,Rio Grande do Sul,Sul,2024-02-21,Google Ads
+557,Sabrina Fonseca,sabrina.fon@gmail.com,(67) 93148-5806,Campo Grande,MS,76657-293,Mato Grosso do Sul,Centro-Oeste,2024-03-01,Orgânico/Busca
+558,Sara Nogueira,sara.nog@gmail.com,(91) 94268-3561,Ananindeua,PA,69716-743,Pará,Norte,2024-01-07,Google Ads
+559,Natália Novaes,n.novaes@yahoo.com.br,(48) 93598-3862,Chapecó,SC,88015-619,Santa Catarina,Sul,2024-02-15,Orgânico/Busca
+560,Maria Isis Aparecida,mariaisis.aparecida72@gmail.com,(16) 96820-1764,São José dos Campos,SP,08428-910,São Paulo,Sudeste,2024-01-02,Facebook Ads
+561,Evelyn da Cunha,evelyn.dacunha57@icloud.com,(12) 92734-2669,Campinas,SP,08081-213,São Paulo,Sudeste,2025-03-15,Facebook Ads
+562,Eduarda Viana,e.viana@hotmail.com,(24) 99165-2626,Campos dos Goytacazes,RJ,22552-137,Rio de Janeiro,Sudeste,2025-05-15,Google Ads
+563,Rodrigo Siqueira,rodrigo.siqueira@gmail.com,(18) 96592-5698,São Paulo,SP,08214-565,São Paulo,Sudeste,2024-05-08,Instagram Ads
+564,Gustavo Henrique Vargas,gustavohenrique156@gmail.com,(61) 93260-8025,Brasília,DF,76678-507,Distrito Federal,Centro-Oeste,2025-03-27,Google Ads
+565,Brenda Carvalho,brenda735@yahoo.com.br,(81) 96542-6157,Caruaru,PE,56260-602,Pernambuco,Nordeste,2024-02-22,Indicação
+566,Zoe Fernandes,zoe.fer@outlook.com,(64) 97869-7586,Rio Verde,GO,78455-048,Goiás,Centro-Oeste,2024-04-25,Instagram Ads
+567,Luiz Fernando Vasconcelos,luizfernando.vasconcelos19@gmail.com,(21) 99919-8244,São Gonçalo,RJ,25634-108,Rio de Janeiro,Sudeste,2025-06-20,Indicação
+568,Maria Luiza Pires,marialuiza.pir@yahoo.com.br,(77) 99860-5651,Salvador,BA,43188-485,Bahia,Nordeste,2024-03-02,Google Ads
+569,João Gabriel Azevedo,joaogabriel.azevedo@yahoo.com.br,(35) 95238-4954,Uberaba,MG,34681-054,Minas Gerais,Sudeste,2024-07-09,Email Marketing
+570,Maria Cecília Andrade,mariacecilia.andrade@outlook.com,(12) 98352-5881,São Paulo,SP,09075-399,São Paulo,Sudeste,2025-04-28,Instagram Ads
+571,Caio Vieira,caio682@outlook.com,(47) 96739-5902,Florianópolis,SC,84926-831,Santa Catarina,Sul,2024-09-08,Orgânico/Busca
+572,Bryan Dias,b.dias@gmail.com,(32) 97974-7751,Betim,MG,31106-273,Minas Gerais,Sudeste,2024-01-18,Indicação
+573,Olívia Gonçalves,olivia694@gmail.com,(35) 99502-7468,Uberlândia,MG,34976-776,Minas Gerais,Sudeste,2024-03-25,Google Ads
+574,Yasmin Melo,yasminmelo@gmail.com,(18) 93119-9408,Osasco,SP,08137-702,São Paulo,Sudeste,2025-09-25,Google Ads
+575,Mateus da Paz,mateus.dapaz@hotmail.com,(88) 92807-2980,Sobral,CE,65940-821,Ceará,Nordeste,2024-08-17,Google Ads
+576,Calebe Rezende,c.rezende@gmail.com,(13) 93328-7910,São Paulo,SP,00443-270,São Paulo,Sudeste,2024-02-02,Facebook Ads
+577,Josué Freitas,josue.freitas@gmail.com,(15) 98411-6534,Santos,SP,06792-287,São Paulo,Sudeste,2024-01-30,Orgânico/Busca
+578,Isabelly Souza,isabellysouza@yahoo.com.br,(16) 92463-7711,Sorocaba,SP,06365-807,São Paulo,Sudeste,2024-11-26,Facebook Ads
+579,Helena Fernandes,helenafernandes@hotmail.com,(15) 93028-2395,Osasco,SP,03989-098,São Paulo,Sudeste,2024-11-27,Google Ads
+580,Maysa Sales,maysa.sales@gmail.com,(53) 91310-5504,Porto Alegre,RS,93397-189,Rio Grande do Sul,Sul,2024-03-28,Instagram Ads
+581,Rafaela da Mata,rafaela.damata76@yahoo.com.br,(71) 96569-8160,Salvador,BA,42608-564,Bahia,Nordeste,2024-02-14,Google Ads
+582,Laís Barros,laisbarros@gmail.com,(73) 95187-2468,Camaçari,BA,42462-095,Bahia,Nordeste,2024-03-13,Instagram Ads
+583,Luiz Miguel Nogueira,l.nogueira@gmail.com,(16) 93334-7763,São Paulo,SP,05461-033,São Paulo,Sudeste,2024-02-08,Email Marketing
+584,Gustavo Barros,gustavo.barros76@gmail.com,(19) 97308-2885,São Paulo,SP,04057-861,São Paulo,Sudeste,2024-09-08,Instagram Ads
+585,Ana Carolina das Neves,anacarolinadasneves@yahoo.com.br,(61) 95409-2663,Brasília,DF,73824-967,Distrito Federal,Centro-Oeste,2024-01-30,Email Marketing
+586,Letícia Cavalcante,leticiacavalcante@outlook.com,(21) 97116-9854,Volta Redonda,RJ,22386-870,Rio de Janeiro,Sudeste,2024-02-10,Orgânico/Busca
+587,Clara Machado,clara985@gmail.com,(53) 91008-1985,Porto Alegre,RS,97494-653,Rio Grande do Sul,Sul,2024-03-03,Facebook Ads
+588,Clarice Pimenta,clarice.pimenta@gmail.com,(45) 92145-5925,Maringá,PR,81612-846,Paraná,Sul,2024-04-24,Instagram Ads
+589,Yan Porto,y.porto@yahoo.com.br,(16) 95282-8417,São Paulo,SP,04355-379,São Paulo,Sudeste,2024-03-30,Orgânico/Busca
+590,Danilo Barbosa,danilo.bar@yahoo.com.br,(55) 91070-1156,Pelotas,RS,92687-681,Rio Grande do Sul,Sul,2024-03-29,Facebook Ads
+591,Jade Fonseca,jade.fonseca@hotmail.com,(18) 93022-6783,Santo André,SP,06956-201,São Paulo,Sudeste,2025-04-03,Google Ads
+592,Liam Alves,liam.alves@gmail.com,(31) 95606-6862,Juiz de Fora,MG,33194-337,Minas Gerais,Sudeste,2024-02-16,Google Ads
+593,Luna Andrade,luna.andrade5@yahoo.com.br,(77) 94425-1116,Itabuna,BA,43614-987,Bahia,Nordeste,2024-06-18,Instagram Ads
+594,Ravy Vasconcelos,ravy.vas@hotmail.com,(24) 93875-2070,Rio de Janeiro,RJ,29212-493,Rio de Janeiro,Sudeste,2024-01-12,Instagram Ads
+595,Eloá Gomes,e.gomes@gmail.com,(11) 99731-5143,Osasco,SP,08706-056,São Paulo,Sudeste,2025-03-20,Orgânico/Busca
+596,Benício Pereira,benicio.pereira@hotmail.com,(75) 99119-6922,Feira de Santana,BA,48030-468,Bahia,Nordeste,2025-09-03,Google Ads
+597,Manuella Freitas,manuellafreitas@gmail.com,(11) 94696-7943,Campinas,SP,01332-541,São Paulo,Sudeste,2024-01-14,Facebook Ads
+598,Eduardo Oliveira,eduardo.oliveira13@gmail.com,(11) 96477-5102,Santo André,SP,03173-505,São Paulo,Sudeste,2024-10-21,Instagram Ads
+599,Emanuelly Gonçalves,emanuelly.goncalves@outlook.com,(49) 98184-2567,Criciúma,SC,87911-006,Santa Catarina,Sul,2024-01-13,Email Marketing
+600,Agatha da Cruz,agathadacruz@gmail.com,(55) 91897-5939,Pelotas,RS,99611-080,Rio Grande do Sul,Sul,2024-01-29,Facebook Ads
+601,Benjamim Sousa,benjamim.sousa@hotmail.com,(75) 94819-1173,Salvador,BA,47676-991,Bahia,Nordeste,2024-03-27,Instagram Ads
+602,Rafaela Gomes,rafaela.gomes@gmail.com,(87) 94153-2769,Olinda,PE,51091-939,Pernambuco,Nordeste,2024-01-17,Facebook Ads
+603,Isaac da Luz,i.daluz@gmail.com,(55) 94046-4983,Porto Alegre,RS,92002-496,Rio Grande do Sul,Sul,2024-03-23,Instagram Ads
+604,Maitê Cunha,m.cunha@gmail.com,(19) 93385-3415,São Paulo,SP,07495-450,São Paulo,Sudeste,2024-03-10,Instagram Ads
+605,Allana Sales,allanasales@gmail.com,(81) 97915-6633,Jaboatão dos Guararapes,PE,53331-537,Pernambuco,Nordeste,2024-03-30,Instagram Ads
+606,Mariane Costa,mariane.cos@gmail.com,(16) 95909-7859,São Paulo,SP,05217-073,São Paulo,Sudeste,2025-08-16,Email Marketing
+607,Diogo Machado,diogo.mac@gmail.com,(24) 94492-4916,Volta Redonda,RJ,27563-620,Rio de Janeiro,Sudeste,2024-06-07,Indicação
+608,Lívia Borges,livia.borges@hotmail.com,(13) 95760-8215,Campinas,SP,03950-033,São Paulo,Sudeste,2024-01-16,Orgânico/Busca
+609,Antonella Rios,a.rios@hotmail.com,(22) 95029-3925,Rio de Janeiro,RJ,23024-102,Rio de Janeiro,Sudeste,2024-03-13,Instagram Ads
+610,Davi Lucca Novaes,daviluccanovaes@gmail.com,(47) 97056-7100,Joinville,SC,82896-112,Santa Catarina,Sul,2024-02-01,Facebook Ads
+611,Ana Clara Castro,anaclaracastro@gmail.com,(48) 97131-6209,Florianópolis,SC,89630-993,Santa Catarina,Sul,2025-01-23,Orgânico/Busca
+612,Luiz Fernando Vieira,luizfernandovieira@gmail.com,(51) 95588-3071,Canoas,RS,98973-179,Rio Grande do Sul,Sul,2025-04-26,Instagram Ads
+613,Pietro Campos,pietro.cam@outlook.com,(43) 99168-9501,Curitiba,PR,87255-877,Paraná,Sul,2024-02-02,Email Marketing
+614,João Lucas da Costa,joaolucas.dac@yahoo.com.br,(11) 94394-4596,São Paulo,SP,03736-346,São Paulo,Sudeste,2024-03-29,Instagram Ads
+615,Benjamim Fonseca,b.fonseca@gmail.com,(12) 93200-2376,São Paulo,SP,04785-390,São Paulo,Sudeste,2025-06-08,Indicação
+616,Emilly Martins,emilly.martins80@gmail.com,(17) 97700-7021,Campinas,SP,07546-027,São Paulo,Sudeste,2024-02-19,Orgânico/Busca
+617,José Pedro Pimenta,j.pimenta@yahoo.com.br,(74) 99220-9401,Feira de Santana,BA,48143-111,Bahia,Nordeste,2024-03-13,Instagram Ads
+618,Davi Lucca das Neves,d.dasneves@gmail.com,(16) 95096-5959,São José dos Campos,SP,04392-840,São Paulo,Sudeste,2024-03-20,Instagram Ads
+619,Maria Luiza Moura,m.moura@outlook.com,(17) 97647-1194,São Paulo,SP,07826-333,São Paulo,Sudeste,2024-11-05,Google Ads
+620,Julia Oliveira,julia602@outlook.com,(18) 96581-2406,São Paulo,SP,05366-377,São Paulo,Sudeste,2024-02-06,Indicação
+621,Anna Liz Ramos,annalizramos@hotmail.com,(42) 96006-1158,Maringá,PR,87553-666,Paraná,Sul,2024-05-11,Email Marketing
+622,Maria Flor Rodrigues,m.rodrigues@gmail.com,(27) 91527-3279,Vitória,ES,22599-996,Espírito Santo,Sudeste,2024-05-11,Instagram Ads
+623,José Miguel Vasconcelos,josemiguel.vasconcelos27@gmail.com,(17) 94085-8778,Santos,SP,01597-412,São Paulo,Sudeste,2025-01-09,Orgânico/Busca
+624,Luiz Otávio Vargas,luizotavio.vargas@outlook.com,(18) 91439-4058,São Paulo,SP,03164-334,São Paulo,Sudeste,2024-02-19,Google Ads
+625,Luana Montenegro,luana.montenegro@gmail.com,(31) 93815-6353,Uberaba,MG,36621-286,Minas Gerais,Sudeste,2025-09-12,Facebook Ads
+626,Daniel Campos,danielcampos@gmail.com,(53) 96075-8081,Porto Alegre,RS,97299-493,Rio Grande do Sul,Sul,2024-03-22,Facebook Ads
+627,Ana Júlia Cavalcante,a.cavalcante@gmail.com,(13) 98302-2048,São Paulo,SP,06938-597,São Paulo,Sudeste,2024-02-16,Instagram Ads
+628,Rael Ferreira,rael.fer@gmail.com,(88) 96681-5873,Caucaia,CE,66926-329,Ceará,Nordeste,2024-01-15,Google Ads
+629,Rafaela da Paz,rafaela.dap@gmail.com,(12) 97447-1715,Osasco,SP,03248-413,São Paulo,Sudeste,2025-09-02,Indicação
+630,Theodoro Costa,theodoro781@gmail.com,(16) 92253-2723,Guarulhos,SP,08567-243,São Paulo,Sudeste,2025-07-08,Orgânico/Busca
+631,Yan Cardoso,yan.cardoso@hotmail.com,(18) 97244-6630,Guarulhos,SP,06360-041,São Paulo,Sudeste,2024-02-27,Facebook Ads
+632,Sophie Borges,sophie.bor@outlook.com,(18) 98558-2117,Ribeirão Preto,SP,01837-274,São Paulo,Sudeste,2025-03-09,Email Marketing
+633,Lucca Pastor,lucca.pastor@hotmail.com,(42) 95819-3034,Curitiba,PR,88621-042,Paraná,Sul,2025-01-01,Facebook Ads
+634,Leandro Cavalcante,leandro.cav@gmail.com,(53) 98242-1782,Porto Alegre,RS,98164-709,Rio Grande do Sul,Sul,2024-03-25,Google Ads
+635,Bárbara Nunes,barbaranunes@yahoo.com.br,(33) 94908-4276,Uberlândia,MG,31060-053,Minas Gerais,Sudeste,2024-02-29,Orgânico/Busca
+636,Benjamin Barros,benjamin.barros@outlook.com,(13) 93736-1721,São Paulo,SP,06815-583,São Paulo,Sudeste,2024-04-23,Orgânico/Busca
+637,Vinícius Rezende,vinicius.rezende70@gmail.com,(14) 92734-6842,São Paulo,SP,05206-506,São Paulo,Sudeste,2024-04-25,Instagram Ads
+638,Lara Pinto,lara.pin@outlook.com,(49) 97045-1719,Florianópolis,SC,81364-971,Santa Catarina,Sul,2024-01-19,Google Ads
+639,Maysa Pires,m.pires@icloud.com,(61) 97366-3177,Sobradinho,DF,75257-150,Distrito Federal,Centro-Oeste,2025-03-17,Indicação
+640,Ana Julia Mendes,anajulia.mendes75@gmail.com,(14) 99248-1217,Santos,SP,03091-436,São Paulo,Sudeste,2025-01-24,Facebook Ads
+641,Jade da Rosa,jade.darosa@gmail.com,(75) 95859-4309,Salvador,BA,42630-397,Bahia,Nordeste,2024-08-13,Instagram Ads
+642,Dante Castro,d.castro@gmail.com,(21) 99533-7797,Duque de Caxias,RJ,24035-533,Rio de Janeiro,Sudeste,2024-12-05,Indicação
+643,Maria Sophia Martins,mariasophia.mar@hotmail.com,(21) 97250-9543,Nova Iguaçu,RJ,25270-171,Rio de Janeiro,Sudeste,2024-02-09,Instagram Ads
+644,João Pedro Dias,joaopedrodias@yahoo.com.br,(81) 92503-3845,Caruaru,PE,59833-816,Pernambuco,Nordeste,2024-07-21,Facebook Ads
+645,Antonella Siqueira,antonella.siq@gmail.com,(67) 93890-5079,Dourados,MS,74497-347,Mato Grosso do Sul,Centro-Oeste,2025-07-17,Instagram Ads
+646,Catarina Guerra,catarina.guerra47@gmail.com,(18) 97925-9278,Santo André,SP,09627-066,São Paulo,Sudeste,2024-03-29,Orgânico/Busca
+647,Ester Moraes,e.moraes@hotmail.com,(53) 93878-5215,Porto Alegre,RS,96747-468,Rio Grande do Sul,Sul,2024-06-11,Orgânico/Busca
+648,Antonella da Costa,antonelladacosta@hotmail.com,(62) 93535-4106,Goiânia,GO,70085-766,Goiás,Centro-Oeste,2025-02-02,Google Ads
+649,Vitor Machado,vitor.machado96@gmail.com,(46) 92167-7697,Curitiba,PR,80169-236,Paraná,Sul,2024-12-12,Orgânico/Busca
+650,Gael Aragão,gael.ara@gmail.com,(88) 97032-1945,Fortaleza,CE,66633-705,Ceará,Nordeste,2024-08-14,Indicação

@@ -1,0 +1,44 @@
+{
+  "name": "Executive Sales Analytics",
+  "dataColors": [
+    "#0B2545",
+    "#1E7B34",
+    "#B3261E",
+    "#C77700",
+    "#4C6FA5",
+    "#7FA88C",
+    "#8C9BAB",
+    "#3C4858"
+  ],
+  "background": "#F7F8FA",
+  "foreground": "#3C4858",
+  "tableAccent": "#0B2545",
+  "good": "#1E7B34",
+  "bad": "#B3261E",
+  "neutral": "#C77700",
+  "maximum": "#0B2545",
+  "center": "#8AA6C1",
+  "minimum": "#F7F8FA",
+  "textClasses": {
+    "callout": {
+      "fontFace": "Segoe UI Semibold",
+      "color": "#0B2545",
+      "fontSize": 32
+    },
+    "title": {
+      "fontFace": "Segoe UI Semibold",
+      "color": "#0B2545",
+      "fontSize": 13
+    },
+    "header": {
+      "fontFace": "Segoe UI Semibold",
+      "color": "#3C4858",
+      "fontSize": 12
+    },
+    "label": {
+      "fontFace": "Segoe UI",
+      "color": "#3C4858",
+      "fontSize": 10
+    }
+  }
+}

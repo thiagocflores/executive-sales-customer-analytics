@@ -1,0 +1,54 @@
+produto_id,nome_produto,categoria,subcategoria,preco_custo,preco_lista,perfil_margem
+1,Fone Bluetooth,Eletrônicos,Áudio,91.78,121.57,clearance
+2,Caixa de Som Portátil Branco,Eletrônicos,Áudio,137.72,265.46,premium
+3,Fone com Fio Preto,Eletrônicos,Áudio,26.91,42.93,regular
+4,Soundbar Compacta 2ª Geração,Eletrônicos,Áudio,160.15,201.22,regular
+5,Carregador Turbo USB-C 20W,Eletrônicos,Acessórios de Celular,185.65,192.23,atracao_flagship
+6,Capinha Silicone 2ª Geração,Eletrônicos,Acessórios de Celular,52.6,56.27,atracao
+7,Película 3D,Eletrônicos,Acessórios de Celular,103.55,139.6,regular
+8,Cabo USB-C 1m,Eletrônicos,Acessórios de Celular,43.6,46.61,atracao
+9,Suporte Veicular 2ª Geração,Eletrônicos,Acessórios de Celular,108.49,168.73,regular
+10,Mouse Sem Fio 2ª Geração,Eletrônicos,Informática,120.42,176.69,regular
+11,Teclado Mecânico 2ª Geração,Eletrônicos,Informática,139.55,182.21,regular
+12,Hub USB-C Azul,Eletrônicos,Informática,209.52,345.24,regular
+13,Webcam HD,Eletrônicos,Informática,77.45,99.24,regular
+14,Lâmpada Inteligente Preto,Eletrônicos,Smart Home,105.23,135.68,regular
+15,Tomada Wi-Fi Branco,Eletrônicos,Smart Home,22.05,35.67,regular
+16,Fita LED RGB Preto,Eletrônicos,Smart Home,150.82,204.46,regular
+17,Vestido Midi M,Moda,Feminina,127.08,152.83,clearance
+18,Blusa Básica G,Moda,Feminina,173.9,480.25,premium
+19,Calça Alfaiataria M,Moda,Feminina,137.57,376.26,premium
+20,Saia Plissada,Moda,Feminina,55.18,69.76,regular
+21,Camisa Social P/M/G,Moda,Masculina,94.68,126.96,regular
+22,Bermuda Sarja G,Moda,Masculina,88.13,178.47,premium
+23,Camiseta Básica,Moda,Masculina,43.89,57.02,clearance
+24,Jaqueta Corta-Vento P/M/G,Moda,Masculina,217.31,336.63,regular
+25,Tênis Casual M,Moda,Calçados,16.13,25.33,regular
+26,Sandália Conforto,Moda,Calçados,164.45,254.67,regular
+27,Sapatênis P,Moda,Calçados,88.49,167.97,premium
+28,Jogo de Panelas,Casa e Decoração,Cozinha,142.78,194.57,regular
+29,Air Fryer,Casa e Decoração,Cozinha,78.75,107.15,regular
+30,Liquidificador,Casa e Decoração,Cozinha,145.7,234.03,regular
+31,Conjunto de Facas,Casa e Decoração,Cozinha,39.52,60.12,regular
+32,Caixa Organizadora Azul,Casa e Decoração,Organização,130.06,201.39,regular
+33,Cabide Multiuso Kit Branco,Casa e Decoração,Organização,122.16,170.97,regular
+34,Organizador de Gaveta Branco,Casa e Decoração,Organização,37.12,68.27,premium
+35,Quadro Decorativo Branco,Casa e Decoração,Decoração,79.44,113.76,regular
+36,Luminária de Mesa,Casa e Decoração,Decoração,66.1,92.07,regular
+37,Vaso Cerâmica Preto,Casa e Decoração,Decoração,61.9,78.89,regular
+38,Almofada Decorativa Preto,Casa e Decoração,Decoração,48.05,78.25,regular
+39,Sérum Vitamina C,Beleza,Skincare,144.85,385.54,premium
+40,Protetor Solar FPS 60,Beleza,Skincare,53.25,85.68,regular
+41,Hidratante Facial,Beleza,Skincare,180.53,290.81,regular
+42,Base Líquida,Beleza,Maquiagem,37.56,49.79,regular
+43,Paleta de Sombras,Beleza,Maquiagem,182.69,290.98,regular
+44,Máscara de Cílios,Beleza,Maquiagem,119.7,167.06,regular
+45,Perfume 100ml,Beleza,Perfumaria,39.57,54.02,regular
+46,Body Splash,Beleza,Perfumaria,81.26,116.71,regular
+47,Kit Perfumaria,Beleza,Perfumaria,89.54,147.84,regular
+48,Kit Halteres Branco,Esporte e Lazer,Fitness,66.62,147.86,premium
+49,Tapete de Yoga,Esporte e Lazer,Fitness,73.39,92.59,regular
+50,Elástico de Resistência 2ª Geração,Esporte e Lazer,Fitness,118.05,149.49,regular
+51,Garrafa Térmica Branco,Esporte e Lazer,Outdoor,201.19,267.51,regular
+52,Mochila Impermeável Azul,Esporte e Lazer,Outdoor,115.34,191.32,regular
+53,Barraca Camping 2p Azul,Esporte e Lazer,Outdoor,152.79,235.9,regular
