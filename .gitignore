@@ -1,0 +1,21 @@
+# Power BI temp / lock files
+~$*.pbix
+*.pbix.bak
+*.pbix.lock
+
+# Power BI cache
+*.pbicache
+.pbi/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor
+.vscode/
+*.swp
+
+# Credentials (nunca versionar)
+*.env
+credentials.json
