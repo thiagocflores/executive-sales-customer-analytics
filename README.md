@@ -10,12 +10,12 @@ Dashboard executivo de vendas construído em Power BI, com 6 páginas cobrindo d
 
 ## 🖼️ Preview
 
-Imagens/1.visao-executiva.png
-Imagens/2.clientes.png
-Imagens/3.produtos.png
-Imagens/4.geografia.png
-Imagens/5.comercial.png
-Imagens/6.insights.png
+!Imagens/1.Visão Executiva.png
+!Imagens/2.Clientes.png
+!Imagens/3.Produtos.png
+!Imagens/4.Geografia.png
+!Imagens/5.Comercial.png
+!Imagens/6.Insights.png
 
 ---
 
