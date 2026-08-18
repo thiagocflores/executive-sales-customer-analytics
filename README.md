@@ -10,12 +10,12 @@ Dashboard executivo de vendas construído em Power BI, com 6 páginas cobrindo d
 
 ## 🖼️ Preview
 
-!Imagens/1.Visão Executiva.png
-!Imagens/2.Clientes.png
-!Imagens/3.Produtos.png
-!Imagens/4.Geografia.png
-!Imagens/5.Comercial.png
-!Imagens/6.Insights.png
+![Visão Executiva](Imagens/1.Visão%20Executiva.png)
+![Clientes](Imagens/2.Clientes.png)
+![Produtos](Imagens/3.Produtos.png)
+![Geografia](Imagens/4.Geografia.png)
+![Comercial](Imagens/5.Comercial.png)
+![Insights](Imagens/6.Insights.png)
 
 ---
 
@@ -81,7 +81,7 @@ Tema customizado (**"Simplifica"**) aplicado a todo o relatório, com paleta de 
 
 ## 🚀 Como usar
 
-1. Baixe o arquivo [`vendas.pbix`](./vendas.pbix)
+1. Baixe o arquivo [`executive-sales-customer-analytics.pbix`](./executive-sales-customer-analytics.pbix)
 2. Abra no **Power BI Desktop** (versão 2.128 ou superior)
 3. Caso o arquivo esteja conectado a uma fonte de dados externa, atualize as credenciais em *Transformar Dados → Configurações da Fonte de Dados*
 
@@ -89,7 +89,7 @@ Tema customizado (**"Simplifica"**) aplicado a todo o relatório, com paleta de 
 
 ## 👤 Autor
 
-**Thiago** — BI Analyst / Desenvolvedor Freelancer
+**Thiago Flores** — BI Analyst / Desenvolvedor
 Projeto desenvolvido como peça de portfólio, com foco no mercado brasileiro.
 
 ---
