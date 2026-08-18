@@ -10,16 +10,12 @@ Dashboard executivo de vendas construído em Power BI, com 6 páginas cobrindo d
 
 ## 🖼️ Preview
 
-> Adicione aqui os prints de cada página (recomendado: exportar como PNG direto do Power BI Desktop, uma imagem por página, salvas em `docs/screenshots/`).
-
-```
-docs/screenshots/01-visao-executiva.png
-docs/screenshots/02-clientes.png
-docs/screenshots/03-produtos.png
-docs/screenshots/04-geografia.png
-docs/screenshots/05-comercial.png
-docs/screenshots/06-insights.png
-```
+Imagens/1.visao-executiva.png
+Imagens/2.clientes.png
+Imagens/3.produtos.png
+Imagens/4.geografia.png
+Imagens/5.comercial.png
+Imagens/6.insights.png
 
 ---
 
